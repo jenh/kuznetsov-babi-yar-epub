@@ -1,0 +1,9 @@
+---
+title: Babi Yar 
+subtitle: A Document in the Form of a Novel
+toctitle: Table of Contents
+author: A Anatoly 
+rights: 
+language: en-US
+...
+
