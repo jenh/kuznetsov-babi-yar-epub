@@ -15,83 +15,54 @@
 
 Kiev was actually surrendered on September 19th, not September 21st as the announcement states.
 
-I saw them running, and I knew it was over. Red Army soldiers &mdash; defensive, burnt-out, some carrying their bedrolls, others already without their guns &mdash; didn't often run through yards and gardens, jumping over fences.
+I saw them running and I knew it was over. Red Army soldiers &mdash; defensive, burnt-out, some carrying their bedrolls, others already without their guns &mdash; didn't often run through yards and gardens, jumping over fences.
 
 People said that they ran into houses and begged for civilian clothes. Women gave rags to some and they changed their clothes, hoping to hide. The women then drowned the soldiers' now-useless weapons and tunics with military insignia in cesspools.
 
 It was very quiet. There'd been fights for days, cannons rattling, sirens howling, bombings carried out one after another; at night, the entire horizon was aglow. We slept in knotted tangles in trenches, as the earth shook and fell on our heads.
 
-But now it was quiet, that silence that seems more terrible than any shooting. And we didn't know where we were: Were we still under Stalin, already under Hitler, or stuck on some narrow strip between?
+But now it was quiet, that silence that seems more terrible than any shooting. And we didn't know where we were: Were we still under Stalin, already under Hitler, or stuck on some narrow strip in-between?
 
 The scratching sound of machine gun fire came clearly and closely from the railway embankment. Small branches and leaves from our old elm fell over our trench. I slammed the hatch down and tumbled into the pit...where my grandfather hissed at me and punched me in the ear.
 
-Our trench, dug in the garden, was a typical type of anti-aircraft protection for those times &mdash; a "slit trench" &mdash;. Dug in the form of the letter *T*, two meters deep, seventy meters wide. Courtyards, squares, and streets were dug out with slit trenches like ours. Soviet radio encouraged us to dig them and explained how.
+Our trench, dug in the garden, was a a type of anti-aircraft protection typical for those times &mdash; a "slit trench" &mdash;. Dug in the form of the letter *T*, it was two meters deep, seventy meters wide. Courtyards, squares, and streets were dug out with slit trenches like ours. Soviet radio encouraged us to dig them and told us how.
 
-My grandfather and I worked several days perfecting the circuitry. We covered the earthen walls with planks, laid the floor with pieces of bricks, and made a cover for the top. Of course, we didn't have enough logs, but we used all of the firewood we found in the barn to add one and a half meters of wood atop the trench.
+My grandfather and I worked several days perfecting the circuitry. We covered the earthen walls with planks, laid the floor with pieces of bricks, and made a cover for the top. Of course, we didn't have enough logs, but we used all of the firewood we found in the barn to add one and a half meters of wood to the top of the trench.
 
-My grandfather looked at it this way: if a bomb fell on our trench,  it would shake the firewood, the logs would scatter like billiard balls and explosion would never reach us: Where would he, the villain, destroy such a fortress!
+My grandfather looked at it this way: if a bomb fell on our trench,  it would shake the firewood, the logs would scatter like billiard balls and its explosion would never reach us: Where would the villainous bomb be able to destroy such a fortress!
 
 For durability, we threw dirt on the firewood, and for disguise we covered it with turf. This gave us an impressive and clearly visible hill, under which, if you lowered the entrance hatch, it was as deaf and dark as the grave.
 
-We are lucky that nothing exploded nearby and at least a decent piece of wood didn't hit us, because all of this wood would have fallen on our heads. But we didn't know this yet. We were proud of the work of our own hands, and we were confident that we were sitting in excellent safety.
+We were lucky that nothing exploded nearby and a decent-sized piece of shrapnel didn't hit us, because all of this wood would have fallen on our heads. But we didn't know this yet. We were proud of the work of our own hands, and we were confident that we were sitting in excellent safety.
 
-Before we built such a great bomb shelter, Grandpa and I were hid from bombs under the bed.
+Before we built this great bomb shelter, Grandpa and I hid from bombs under the bed.
 
-Кровать была старинная, добротная, со спинками из листового железа, на которых были нарисованы масляными красками картины: мельницы, озера с лебедями и замки. Мы думали так: если бомба упа­дет, она пробьет крышу, потолок, подпрыгнет на пружинном матраце с периной, разорвется, а пе­рина да еще два ватных одеяла осколков, естествен­но, не пропустят.
+The bed was old, of good quality and solid, with sheet iron head and footboards covered in oil painting: mills, lakes with swans, and castles. We figured if a bomb hit, it would pierce the roof, then the ceiling, bounce off the spring mattress and featherbed, explode, and the featherbed and two more cotton blankets would of course block any fragments.
 
-The bed was old, good-quality, with sheet iron backs, on which were painted with oil paints: mills, lakes with swans and castles. We thought about it like this: if the bomb falls, it will break through the roof, the ceiling, jump on a spring mattress with a featherbed, rupture, and the featherbed and two more cotton blankets of shrapnel, of course, will not miss.
+To keep us from laying on the bare floor, my grandmother put a blanket and pillows under the bed, so it was very cozy.
 
-
-Чтобы не лежать на голом полу, бабка постелила и под кроватью одеяло, положила подушки, так что вышло очень уютно.
-
-To avoid lying on the naked floor, my grandmother put a blanket under the bed and pillows, so it was very cozy.
-
-
-И когда начиналась стрельба и стекла зудели от воя бомбардировщиков, дед кидался под кровать первым. Он закатывался подальше и прижимался к стенке. За ним вкатывался кубарем я и прижи­мался к нему. А бабка, вечно замешкавшись у печки, прихватывала кота Тита, ложилась с краю, закрывая всех нас собой, и так мы спасались.
-
-And when the shooting started and the glasses itched from the bombers' howling, grandfather threw himself under the bed first. He would roll away and press against the wall. I followed him in a cobbler and cuddled up against him. And grandmother, always hesitating at the stove, grabbed the cat Titus, lay on the edge, covering all of us with herself, and so we were rescued.
-
-
-Дед шептал молитвы и ругался в мой адрес:
+And when the shooting started and the windows itched with the howling of bombers, Grandfather threw himself under the bed first. He would roll away and press against the wall. I'd then roll in, head over heels, and cuddle up against him. And Grandmother, always futzing with the stove, would grab the Titus the cat and lay at the edge, shielding us with her body &mdash; and thus we'd be safe.
 
 Grandpa whispered prayers and swore at me:
 
+"Oh, *gomon*, why are you wriggling around like you've got a worm inside you?
 
-— От, гомон, чего ты крутишься, будто червяк в тебе сидит?
+After we finished building our powerful trench, we ran into it in the same order, only Grandmother always came running with the pillows and blanket (she wouldn't leave them in the trench so they wouldn't get damp).
 
-- Oh, homo, why are you spinning around like a worm in you?
+Titus the cat was used to war; at the first shots, with tail held high, he'd leap straight to the trench's hatch with anguish in his eyes and would meow for us to lower him...because all he knew how to do was climb *up* the steep ladder; he didn't learn to go down.
 
+I still don't know what that word is, *gomon.* Grandpa died and I forgot to ask him. And the curiosity worm has always tormented me. I stood outside the trench to watch the planes and see the terrible crosses on them, trying to see how the bombs exploded.
 
-Закончив строительство нашего мощного окопа, мы стали бегать в него в той же последовательно­сти, только бабка всегда бежала с подушками и  одеялом (она их в окопе не оставляла, чтобы не сырели).
-
-When we finished building our powerful trench, we started running into it in the same sequence, only grandmother always ran with pillows and a blanket (she didn't leave them in the trench so that they wouldn't get damp).
-
-
-Кот Тит привык к войне; при первых же выстре­лах, задрав хвост, огромными прыжками несся пря­мо к люку в окоп и с мукой в глазах мяукал, что­бы его спустили. Потому что по отвесной лестнице он мог только вылезать, а спускаться не научился.
-
-The cat Titus was used to war; at the first shots, pulling his tail, jumping straight to the hatch in the trench with flour in his eyes and meowing to be lowered. Because all he could do was climb up the steep stairs and not learn to come down.
-
-
-До сих пор не знаю, что это за слово — гомон. Дед умер, я забыл у него спросить. А червяк любо­знательности мучил меня всегда. Я высовывался, чтобы разглядеть самолеты и увидеть на них жут­кие кресты, пытался разглядеть, как рвутся бомбы.
-
-I still don't know what that word is. Grandpa died, I forgot to ask him. And the curiosity worm has always tormented me. I stood out to see the planes and see the terrible crosses on them, trying to see how the bombs were breaking.
-
-
-Но вот когда побежали красноармейцы и стало ясно, что это конец, мне стало страшно видеть это, по-настоящему, наконец, страшно.
-
-But when the Red Army ran and it became clear that this was the end, I was afraid to see it, and I was finally afraid to see it.
-
+But when the Red Army ran and it became clear that this was the end, I was afraid to see it. I was finally afraid to see it.
 
 В окопе горела керосиновая лампа, пахло чадом. Мать (до этого она днями и ночами дежурила в своей школе) сидела на табуретке с ужасом в гла­зах. Дед ел — он у нас всегда ел, когда волновался. Его седая борода, разделенная на два клинышка, резко двигалась, потому что из-за вставных челю­стей он не жевал, а «жамкал», как говорила бабка, и крошки сыпались ему в бороду. Бабка едва слыш­но молилась, крестясь перед иконой Божьей мате­ри, которую принесла сюда. Я сам забивал в доску гвоздик, чтобы повесить; эта икона мне нравилась, из всех бабкиных икон она была у меня самая лю­бимая.
 
-There was a kerosene lamp burning in the trench, smelling like Chad. The mother (before that she was on duty at her school day and night) sat on a stool with horror in her eyes. Grandpa ate - he always ate at our place when he was worried. His gray beard, divided into two wedges, moved abruptly, because because of the inserted jaws, he did not chew, but "squeezed", as the grandmother said, and the crumbs fell into his beard. Grandma could barely hear herself praying and was baptized before the icon of the Mother of God she had brought here. I used to put carnations in the board myself to hang them up; I liked this icon, it was my favorite among all the grandmother's icons.
-
+There was a kerosene lamp burning in the trench, filling it with fumes. My mother, who wasn't there before because she worked at her school day and night, sat on a stool with horror in her eyes. Grandpa ate &mdash; he always ate at our place when he was worried. His gray beard, divided into two wedges, moved abruptly. Because of his false teeth, as Grandma would say, he didn't chew, but "jammed" and the crumbs fell into his beard. Grandma's praying was barely audible, crossing herself before the icon of the Mother of God she brought here. I had put nails in the board myself to hang it up;  I liked this icon, it was my favorite of all my grandmother's icons.
 
 А в стенах за досками что-то тихо шуршало, во­зилось: там жили своей личной жизнью, абсолютно безразличной к войне, жуки и черви, и деятельные муравьи.
 
-And in the walls behind the boards something quietly rustled, fiddled: there lived their personal lives, absolutely indifferent to the war, bugs and worms, and active ants.
-
-
+And in the walls behind the boards something rustled quietly, fumbled: there they lived their personal lives, absolutely indifferent to the war, beetles, worms, and active ants.
+----s
 Земля, наконец, перестала вздрагивать и сыпать­ся с потолка. И в этой жуткой тишине казалось, что сейчас произойдет что-то ужаснейшее, какой-то не­мыслимый взрыв.
 
 The earth finally stopped flinching and falling off the ceiling. And in this terrible silence, it seemed like something terrible was about to happen, some kind of unimaginable explosion.
