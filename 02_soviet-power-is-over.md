@@ -89,6 +89,7 @@ I was 12 years old. This was the first time I've ever had a lot going on in my l
 
 
 Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, радостно:
+xxxxx stopped here
 
 Elena Pavlovna, suffocating, waving her hands, spoke gently, joyfully:
 
