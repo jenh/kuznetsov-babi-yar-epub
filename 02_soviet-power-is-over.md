@@ -61,11 +61,11 @@ There was a kerosene lamp burning in the trench, filling it with fumes. My mothe
 
 А в стенах за досками что-то тихо шуршало, во­зилось: там жили своей личной жизнью, абсолютно безразличной к войне, жуки и черви, и деятельные муравьи.
 
-And in the walls behind the boards something rustled quietly, fumbled: there they lived their personal lives, absolutely indifferent to the war, beetles, worms, and active ants.
-----s
+And in the walls behind the boards something rustled quietly, fumbled: there they lived their personal lives, absolutely indifferent to the war: beetles, worms, and active ants.
+
 Земля, наконец, перестала вздрагивать и сыпать­ся с потолка. И в этой жуткой тишине казалось, что сейчас произойдет что-то ужаснейшее, какой-то не­мыслимый взрыв.
 
-The earth finally stopped flinching and falling off the ceiling. And in this terrible silence, it seemed like something terrible was about to happen, some kind of unimaginable explosion.
+The dirt finally stopped quaking and flaking off the ceiling. And in this terrible silence, it seemed like something terrible was about to happen, some kind of unimaginable explosion.
 
 
 Я сидел, едва дыша, ожидая этого взрыва...
@@ -75,17 +75,17 @@ I was just sitting there breathing, waiting for this explosion...
 
 Вдруг раздался глухой топот, люк поднялся, и соседка Елена Павловна, возбужденная, на себя не похожая, закричала с радостным изумлением, с тор­жеством:
 
-Suddenly there was a deaf stomping, the hatch rose, and Elena Pavlovna, a neighbor, excited, not like herself, shouted with joy and amazement, with triumph:
+Suddenly there was a deaf stomping, the hatch rose, and Elena Pavlovna, a neighbor, excited, not like herself, shouted with joy, amazement, and triumph:
 
 
 — Что вы сидите? Немцы пришли! Советская власть кончилась!
 
-- What are you sitting there for? The Germans are here! Soviet power is over!
+"What are you sitting there for? The Germans are here! Soviet power is over!"
 
 
 Мне было двенадцать лет. Многое для меня в жиз­ни происходило впервые. Немцы пришли тоже впер­вые. Я прежде всех вылетел из окопа, зажмурился от яркого света и отметил, что мир стал какой-то иной — как добрая погода после шторма, — хотя внешне как будто все оставалось по-прежнему.
 
-I was 12 years old. This is the first time I've ever had a lot going on in my life. The Germans are here for the first time, too. I first flew out of the trench, clouded with the bright light, and noted that the world had become a different place - as if the weather had been good after the storm - although it looked as if everything had remained the same.
+I was 12 years old. This was the first time I've ever had a lot going on in my life. The Germans were here for the first time, too. I first flew out of the trench, clouded with the bright light, and noted that the world had become a different place - as if the weather had been good after the storm - although it looked as if everything had remained the same.
 
 
 Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, радостно:
@@ -95,7 +95,7 @@ Elena Pavlovna, suffocating, waving her hands, spoke gently, joyfully:
 
 —... молоденький, такой молоденький стоит!.. Мои же окна на улицу. Машина ушла, а он, молодень­кий, хорошенький, стоит!..
 
-—... young, so young, so young... My windows are outside. The car's gone, and he's young, cute, standing there...
+"...young, so young he is! My windows are in the street. The car's gone, and he -- young, cute, is here!"
 
 
 Я немедленно рванул через двор, взлетел на забор.
