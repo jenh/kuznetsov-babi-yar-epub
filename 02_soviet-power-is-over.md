@@ -37,15 +37,15 @@ We were lucky that nothing exploded nearby and a decent-sized piece of shrapnel 
 
 Before we built this great bomb shelter, Grandpa and I hid from bombs under the bed.
 
-The bed was old, of good quality and solid, with sheet iron head and footboards covered in oil painting: mills, lakes with swans, and castles. We figured if a bomb hit, it would pierce the roof, then the ceiling, bounce off the spring mattress and featherbed, explode, and the featherbed and two more cotton blankets would of course block any fragments.
+The bed was old, good quality and solid, with sheet iron head and footboards covered in oil paintings: mills, lakes with swans, and castles. We figured if a bomb hit, it would pierce the roof, then the ceiling, bounce off the spring mattress and featherbed, explode, and the featherbed and two more cotton blankets would of course block any fragments.
 
 To keep us from laying on the bare floor, my grandmother put a blanket and pillows under the bed, so it was very cozy.
 
-And when the shooting started and the windows itched with the howling of bombers, Grandfather threw himself under the bed first. He would roll away and press against the wall. I'd then roll in, head over heels, and cuddle up against him. And Grandmother, always futzing with the stove, would grab the Titus the cat and lay at the edge, shielding us with her body &mdash; and thus we'd be safe.
+And when the shooting started and the windows twitched with the howling of bombers, Grandfather threw himself under the bed first. He would roll away and press against the wall. I'd then roll in, head over heels, and cuddle up against him. And Grandmother, always futzing with the stove, would grab the Titus the cat and lay at the edge, shielding us with her body &mdash; and thus we'd be safe.
 
 Grandpa whispered prayers and swore at me:
 
-"Oh, *gomon*, why are you wriggling around like you've got a worm inside you?
+"Oh, *gomon*, why are you wriggling around like you've got a worm inside you?"
 
 After we finished building our powerful trench, we ran into it in the same order, only Grandmother always came running with the pillows and blanket (she wouldn't leave them in the trench so they wouldn't get damp).
 
@@ -53,7 +53,7 @@ Titus the cat was used to war; at the first shots, with tail held high, he'd lea
 
 I still don't know what that word is, *gomon.* Grandpa died and I forgot to ask him. And the curiosity worm has always tormented me. I stood outside the trench to watch the planes and see the terrible crosses on them, trying to see how the bombs exploded.
 
-But when the Red Army ran and it became clear that this was the end, I was afraid to see it. I was finally afraid to see it.
+But when the Red Army ran away and it became clear that this was the end, I was afraid to see it. I was finally afraid to see it.
 
 В окопе горела керосиновая лампа, пахло чадом. Мать (до этого она днями и ночами дежурила в своей школе) сидела на табуретке с ужасом в гла­зах. Дед ел — он у нас всегда ел, когда волновался. Его седая борода, разделенная на два клинышка, резко двигалась, потому что из-за вставных челю­стей он не жевал, а «жамкал», как говорила бабка, и крошки сыпались ему в бороду. Бабка едва слыш­но молилась, крестясь перед иконой Божьей мате­ри, которую принесла сюда. Я сам забивал в доску гвоздик, чтобы повесить; эта икона мне нравилась, из всех бабкиных икон она была у меня самая лю­бимая.
 
@@ -88,40 +88,39 @@ Suddenly there was a deaf stomping, the hatch rose, and Elena Pavlovna, a neighb
 I was 12 years old. This was the first time I've ever had a lot going on in my life. The Germans were here for the first time, too. I first flew out of the trench, clouded with the bright light, and noted that the world had become a different place - as if the weather had been good after the storm - although it looked as if everything had remained the same.
 
 
-Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, радостно:
-xxxxx stopped here
+Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, р
 
 Elena Pavlovna, suffocating, waving her hands, spoke gently, joyfully:
 
 
 —... молоденький, такой молоденький стоит!.. Мои же окна на улицу. Машина ушла, а он, молодень­кий, хорошенький, стоит!..
 
-"...young, so young he is! My windows are in the street. The car's gone, and he -- young, cute, is here!"
+"...young, so young he is! My windows are in the street. The car's gone, and he -- young, cute -- is here!"
 
 
 Я немедленно рванул через двор, взлетел на забор.
 
-I immediately ran across the yard, took off on the fence.
+I immediately ran across the yard, and jumped atop the fence.
 
 
 У ограды сквера на нашей Петропавловской пло­щади стояла низенькая, хищная, длинноносая пуш­ка на толстых надутых шинах. Возле нее — дейст­вительно очень молоденький, белокурый, розовоще­кий немецкий солдатик в необычно чистой и ладно сидящей на нем серо-зеленой форме. Он держал винтовку на весу, заметил, что я смотрю на него, и загордился. Очень мило загордился так, зафасонил.
 
-At the fence of the square on our Petropavlovskaya Square there was a low, predatory, long-bearing cannon on thick inflated tires. There is a really young, blond, pinkish-cheeked German soldier in an unusually clean and well-situated grey-green uniform. He kept the rifle on the balance, noticed I was looking at it, and he was proud. That's very nice of you to be so proud of yourself.
+At the fence of the square on our Petropavlovskaya Square there was a low, predatory, long-nosed cannon on thick inflated tires. A really young, blond, pinkish-cheeked German soldier in an unusually clean and well-fitted grey-green uniform stood nearby. He kept the rifle at the ready and, noticing I was looking at it, stood up proud. So nice and proud-looking - stylish.
 
 
 Был у меня друг жизни, старше меня года на три, Болик Каминский, я еще о нем расскажу. Его эва­куировали с училищем фабрично-заводского обу­чения — ФЗО. Так вот этот парнишка был очень похож на друга моего Болика.
 
-I had a friend of my life three years older than me, Bolik Kaminsky, I'll tell you more about him. He was evacuated from the factory training school - FZO. So this kid looked a lot like a friend of my Bollyk's.
+I had a best friend three years older than me, Bolik Kaminsky, I'll tell you more about him later. He was evacuated from the factory training school. So this German kid looked a lot like my Bolik.
 
 
 Понимаете, я ожидал всего: что немцы — страш­ные гиганты, что ли, все сплошь на танках, в про­тивогазных масках и рогатых касках, и меня по­трясло, что этот парнишка такой обыкновенный, ну, ничего особенного, совсем как наш Болик.
 
-You see, I expected everything: that the Germans are scary giants, everything is on tanks, in gas masks and horny helmets, and I was shocked that this kid is so ordinary, well, nothing special, just like our Bolik.
+You see, I expected everything: that the Germans were scary giants, arriving astride tanks, in gas masks and horny helmets, and I was shocked that this kid was so ordinary. Well, nothing special, just like our Bolik.
 
 
 Зафасонил, ага, я б тоже зафасонил, имей такую пушку.
 
-Styled, yeah, I would, too, have a gun like that.
+Stylish, yeah, I'd be stylish, too, if I had a gun like that.
 
 
 В этот момент раздался тот самый невероятный взрыв, которого я так ждал. Я задохнулся, ударился подбородком о забор, чуть не свалился. А солда­тик позорно присел и съежился, перепугано при­жавшись к пушке.
@@ -136,12 +135,14 @@ But I have to hand it to him: he immediately came to his senses, got up independ
 
 — Ах, подорвали-таки мост, проклятые босяки! Э! — сказал дед, подходя к забору и высовывая нос, чтобы тоже поглядеть на первого немца. — Фью-фью, вот это да!.. Ну куда ж с ними Сталину воевать, Господи прости. Это же — армия! Это не наши раз­несчастные — голодные да босые. Ты посмотри только, как он одет!
 
-- Oh, you blew up the bridge, you damn sandals! Ah!" said Grandpa, approaching the fence and sticking out his nose to look at the first German too. - Fugh-feugh, wow! Well, where is Stalin going to fight them, Lord forgive me. It's an army! They're not our unfortunate, hungry and barefoot. Look at the way he's dressed!
+"Oh, you blew up the bridge, you damn clods! Ah!" said Grandpa, approaching the fence and sticking out his nose to look at the first German too. 
+
+"Fugh-feugh, wow! Well, where is Stalin going to fight them, Lord forgive me. It's an army! They're not our unfortunate, hungry and barefoot. Look at the way he's dressed!
 
 
 Действительно, солдатик был одет превосходно. На газетных карикатурах и в советских кинофильмах немцев изображали оборванными бродягами и бан­дитами, а советские воины были всегда красивые, подтянутые, розовощекие.
 
-Indeed, the soldier was dressed perfectly. On the newspaper cartoons and in the Soviet films Germans were depicted as torn vagrants and bandits, and the Soviet soldiers were always beautiful, tightened, pink-cheeked.
+Indeed, the soldier was dressed perfectly. On the newspaper cartoons and in the Soviet films, Germans were depicted as torn-up vagrants and bandits, and the Soviet soldiers were always beautiful, tightened, pink-cheeked.
 
 
 Вздымая пыль, подлетела угловатая, квадратная и хищная машина, лихо развернулась (мы с дедом жадно смотрели), и такие же подтянутые, ловкие, как фокусники, молодые ребята-немцы прицепили пушку в один миг, повскакали на подножки и, ви­ся по обеим сторонам машины, лихо умчались в сторону Подола.
@@ -151,7 +152,9 @@ Dust broke up, an angular, square, and predatory car flew in, turned dashingly (
 
 — Да-а... — сказал потрясенный дед и перекре­стился широко; — Слава тебе. Господи, кончилась эта босяцкая власть, а я уж думал не доживу... Сту­пай, помогай носить вещи в хату: в яме все отсы­рело. Будем теперь жить.
 
-- Yeah, uh... - ...said the shocked grandfather, and crossed the line wide; - Glory to you. Oh, my God, I'm out of that fearful power, and I didn't think I'd live to see it... Go on, help me carry my stuff in the crib. It's all wet in the pit. We'll live now.
+"Yeah, uh..." said my shocked grandfather, as he did a wide sign of the Cross. 
+
+"Glory to you. Oh, my God, I'm out of that fearful power, and I didn't think I'd live to see it... Go on, help me carry my stuff in the crib. It's all wet in the pit. We'll live now."
 
 
 Не весьма охотно поплелся я к окопу. Там мама подавала из темной дыры узлы, чемоданы, табуретки, бабка принимала и складывала в кучу, а я стал носить.
@@ -166,27 +169,23 @@ So many times in the recent past we have repeated this case: in the trench, from
 
 Из-за забора высунулась голова второго моего друга жизни — Шурки Мацы. Делая огромные гла­за, он закричал:
 
-The fence made my second friend's head stick out, Shurka Matza. By making big eyes, he screamed:
+The fence made my second friend's head stick out, Shurka Matza. With wife eyes, he screamed:
 
 
 — По трамвайной линии немцы идут! Пошли!
 
-- The Germans are on the tram line! Let's go! Let's go!
+"The Germans are on the tram line! Let's go! Let's go!"
 
 
 И меня как ветром сдуло.
 
-And I was blown away like the wind.
-
-
-
-
+And I was blown along with him like the wind.
 
 
 
 Вся Кирилловская улица (при советской власти она называлась улицей Фрунзе, но название не при­вивалось), была, сколько видно в оба конца, забита машинами и повозками. Автомобили были углова­тые, со всякими выступами, решетками, скобами.
 
-The whole Kirillovskaya Street (under Soviet rule it was called Frunze Street, but the name was not grafted in) was full of cars and wagons as seen at both ends. The cars were angular, with all sorts of protrusions, bars, brackets.
+The whole Kirillovskaya Street (under Soviet rule it was called Frunze Street, but the name never really stuck) was full of cars and wagons as seen at both ends. The cars were angular, with all sorts of protrusions, bars, and brackets.
 
 
 У каждой машины есть лицо, она смотрит на мир своими фарами безразлично, или сердито, или жа­лобно, или удивленно. Так вот эти, как и первая, что увезла пушку, смотрели хищно. Отродясь я не видел таких автомобилей, и мне казалось, что они очень мощные, они заполнили улицу ревом и дымом.
@@ -196,17 +195,17 @@ Every car has a face, it looks at the world with its headlights indifferently, o
 
 Кузова некоторых грузовиков представляли собой целые маленькие квартиры, с койками, привинчен­ными столами.
 
-The bodies of some of the trucks were whole small apartments, with bunks, screwed tables.
+The bodies of some of the trucks were whole small apartments, with bunks, screwed-in tables.
 
 
 Немцы выглядывали из машин, прогуливались по улице — чисто выбритые, свежие и очень веселые. Будешь свежим и веселым, если у них пехота, ока­зывается, не шла, а — ехала! Они смеялись по лю­бому поводу, что-то шутливо кричали первым вы­ползающим на улицу жителям. Между фурами со снарядами и мешками лихо юлили мужественные мотоциклисты в касках, с укрепленными на рулях пулеметами.
 
-The Germans looked out of the cars, walked down the street - clean shaved, fresh and very funny. You'll be fresh and funny if their infantry wasn't going, but going! They were laughing about anything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on the handlebars were dashingly jockeying between the vehicles with shells and bags.
+The Germans looked out of the cars, walked down the street -- clean-shaven, fresh and very funny. You'll be fresh and funny if their infantry wasn't going, but going! They were laughing about anything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on the handlebars were dashingly jockeying between the vehicles with shells and bags.
 
 
 Доселе нами невиданные, огромнейшие, огненно-рыжие кони-тяжеловозы, с гривами соломенного цвета, медлительно и важно ступая мохнатыми но­гами, запряженные шестерками, тянули орудия, будто играючи. Наши малорослые русские лошаден­ки, измордованные и полудохлые, на которых отсту­пала Красная Армия, показались бы жеребятами рядом с этими гигантами.
 
-We have never seen before, the largest, fiery red heavy-duty horses with maneuvers of straw color, slowly and importantly stepping with furry legs, harnessed by sixes, pulled guns, as if playing. Our small Russian horses, exhausted and half-dead, on which the Red Army retreated, would seem to be foals next to these giants.
+The largest, fiery red heavy-duty horses -- the likes of which we had never seen before -- with maneuvers of straw color, slowly and importantly stepping with furry legs, harnessed by sixes, pulled guns, as if playing. Our small Russian horses, exhausted and half-dead, on which the Red Army retreated, would seem to be foals next to these giants.
 
 
 В ослепительных белых и черных лимузинах еха­ли, весело беседуя, офицеры в высоких картузах с серебром. У нас с Шуркой разбежались глаза и за­хватило дыхание. Мы отважились перебежать ули­цу. Тротуар быстро наполнялся, люди бежали со всех сторон, и все они, как и мы, смотрели на эту армаду потрясенно, начинали улыбаться немцам, в ответ и пробовать заговаривать с ними.
