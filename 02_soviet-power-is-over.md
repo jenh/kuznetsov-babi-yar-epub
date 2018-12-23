@@ -91,7 +91,7 @@ I was 12 years old. This was the first time I've ever had a lot going on in my l
 Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, радостно:
 xxxxx stopped here
 
-Elena Pavlovna, suffocating, waving her hands, spoke gently, joyfully:
+Elena Pavlovna, breathless, waved her hands and spoke lovingly, joyously:
 
 
 —... молоденький, такой молоденький стоит!.. Мои же окна на улицу. Машина ушла, а он, молодень­кий, хорошенький, стоит!..
@@ -101,27 +101,27 @@ Elena Pavlovna, suffocating, waving her hands, spoke gently, joyfully:
 
 Я немедленно рванул через двор, взлетел на забор.
 
-I immediately ran across the yard, took off on the fence.
+I immediately ran across the yard and flew up on the fence.
 
 
 У ограды сквера на нашей Петропавловской пло­щади стояла низенькая, хищная, длинноносая пуш­ка на толстых надутых шинах. Возле нее — дейст­вительно очень молоденький, белокурый, розовоще­кий немецкий солдатик в необычно чистой и ладно сидящей на нем серо-зеленой форме. Он держал винтовку на весу, заметил, что я смотрю на него, и загордился. Очень мило загордился так, зафасонил.
 
-At the fence of the square on our Petropavlovskaya Square there was a low, predatory, long-bearing cannon on thick inflated tires. There is a really young, blond, pinkish-cheeked German soldier in an unusually clean and well-situated grey-green uniform. He kept the rifle on the balance, noticed I was looking at it, and he was proud. That's very nice of you to be so proud of yourself.
+A small, predatory, long-nosed cannon on thick, inflated tires sat on the fence of public garden on our Petropavlovskaya Square. Near the cannon stood a really young, blond, pink-cheeked German soldier in an unusually clean and well-fitted grey-green uniform. He kept his rifle balanced and, noticing I was looking at it, became proud. Very nice, all proud and stylish.
 
 
 Был у меня друг жизни, старше меня года на три, Болик Каминский, я еще о нем расскажу. Его эва­куировали с училищем фабрично-заводского обу­чения — ФЗО. Так вот этот парнишка был очень похож на друга моего Болика.
 
-I had a friend of my life three years older than me, Bolik Kaminsky, I'll tell you more about him. He was evacuated from the factory training school - FZO. So this kid looked a lot like a friend of my Bollyk's.
+I had a best friend three years older than me, Bolik Kaminsky, I'll tell you more about him. He was evacuated from the factory training school. So this German kid looked a lot like my Bolik.
 
 
 Понимаете, я ожидал всего: что немцы — страш­ные гиганты, что ли, все сплошь на танках, в про­тивогазных масках и рогатых касках, и меня по­трясло, что этот парнишка такой обыкновенный, ну, ничего особенного, совсем как наш Болик.
 
-You see, I expected everything: that the Germans are scary giants, everything is on tanks, in gas masks and horny helmets, and I was shocked that this kid is so ordinary, well, nothing special, just like our Bolik.
+You see, I expected everything: that the Germans are scary giants, everyone is on tanks, in gas masks and horny helmets, and I was shocked that this kid was so ordinary...well, nothing special, just like our Bolik.
 
 
 Зафасонил, ага, я б тоже зафасонил, имей такую пушку.
 
-Styled, yeah, I would, too, have a gun like that.
+Stylish, yeah, I'd also be stylish if I held a gun like that.
 
 
 В этот момент раздался тот самый невероятный взрыв, которого я так ждал. Я задохнулся, ударился подбородком о забор, чуть не свалился. А солда­тик позорно присел и съежился, перепугано при­жавшись к пушке.
