@@ -25,7 +25,7 @@ But now it was quiet &mdash; that silence that seems more terrible than any shoo
 
 The scratching sound of machine gun fire came clear and close from the railway embankment. Small branches and leaves from our old elm fell over our trench. I slammed the hatch down and tumbled into the pit, where my grandfather hissed at me and punched me in the ear.
 
-Our trench, dug in the garden, was a type of anti-aircraft protection typical for those times &mdash; a "slit trench." Dug in the form of the letter *T*, it was two meters deep, seventy meters wide. Courtyards, squares, and streets were dug out with slit trenches like ours. Soviet radio encouraged us to dig them and told us exactly how to do it.
+Our trench, dug in the garden, was a type of anti-aircraft protection typical of those times &mdash; a "slit trench." Dug in the form of the letter *T*, it was two meters deep, seventy meters wide. Courtyards, squares, and streets were dug out with slit trenches like ours. Soviet radio encouraged us to dig them and told us exactly how to do it.
 
 My grandfather and I worked several days perfecting the circuitry. We covered the earthen walls with planks, laid the floor with pieces of bricks, and made a cover for the top. Of course we didn't have enough logs, but we used all of the firewood we found in the barn and added one and a half meters of wood to the top of the trench.
 
@@ -33,31 +33,31 @@ Grandfather looked at it this way: if a bomb fell on our trench,  it would shake
 
 For durability, we threw dirt on the firewood, and for disguise we covered it with turf. This gave us an impressive and clearly visible hill, under which, if you lowered the entrance hatch, it was as deaf and dark as the grave.
 
-We were lucky that nothing exploded nearby and a decent-sized piece of shrapnel didn't hit us, because all of this wood would have fallen on our heads. But we didn't know this yet. We were proud of the work of our own hands, and we were confident that we were sitting in excellent safety.
+We were lucky that nothing exploded nearby and a decent-sized piece of shrapnel didn't hit us, because all of this wood would have fallen right on our heads. But we didn't know this yet. We were proud of our handiwork, and we were confident that we were sitting in excellent safety.
 
-Before we built this great bomb shelter, Grandpa and I hid from bombs under the bed.
+Before we'd built this great bomb shelter, Grandpa and I hid from bombs under the bed.
 
-The bed was old, good quality and solid, with sheet iron head and footboards covered in oil paintings: mills, lakes with swans, and castles. We figured if a bomb hit, it would pierce the roof, then the ceiling, bounce off the spring mattress and featherbed, explode, and the featherbed and two more cotton blankets would of course block any fragments.
+The bed was old, good quality and solid, with sheet iron headboards and footboards covered in oil paintings: mills, lakes with swans, and castles. We figured if a bomb hit, it would pierce the roof, then the ceiling, bounce off the spring mattress and featherbed, explode, and the featherbed and two more cotton blankets would of course block any fragments.
 
 To keep us from laying on the bare floor, my grandmother put a blanket and pillows under the bed, so it was very cozy.
 
-And when the shooting started and the windows twitched with the howling of bombers, Grandfather threw himself under the bed first. He would roll away and press against the wall. I'd then roll in, head over heels, and cuddle up against him. And Grandmother, always futzing with the stove, would grab the Titus the cat and lay at the edge, shielding us with her body &mdash; and thus we'd be safe.
+And when the shooting started and the windows twitched with the howling of bombers, Grandfather threw himself under the bed first. He would roll away and press against the wall. I'd then roll in, head over heels, and cuddle up against him. And Grandmother, always futzing with the stove 'til the last, would grab the Titus the cat and lay at the edge, shielding us with her body &mdash; and thus we'd be safe.
 
 Grandpa whispered prayers and swore at me:
 
 "Oh, *gomon*, why are you wriggling around like you've got a worm inside you?"
 
-After we finished building our powerful trench, we ran into it in the same order, only Grandmother always came running with the pillows and blanket (she wouldn't leave them in the trench so they wouldn't get damp).
+After we finished building our powerful trench, we ran into it in the same order, only Grandmother always came running with the pillows and blanket (she wouldn't leave them in the trench to keep them from getting damp).
 
 Titus the cat was used to war; at the first shots, with tail held high, he'd leap straight to the trench's hatch with anguish in his eyes and would meow for us to lower him...because all he knew how to do was climb *up* the steep ladder; he didn't learn to go down.
 
-I still don't know what that word is, *gomon.* Grandpa died and I forgot to ask him. And the curiosity worm has always tormented me. I stood outside the trench to watch the planes and see the terrible crosses on them, trying to see how the bombs exploded.
+*Gomon.* I still don't know what that word is. Grandpa died and I forgot to ask him. And the curiosity worm has always tormented me. I stood outside the trench to watch the planes and see the terrible crosses on them, trying to see how the bombs exploded.
 
-But when the Red Army ran away and it became clear that this was the end, I was afraid to see it. I was finally afraid to see it.
+But when the Red Army ran away and it became clear that this was the end, I was afraid to watch. I was finally afraid to see watch.
 
 В окопе горела керосиновая лампа, пахло чадом. Мать (до этого она днями и ночами дежурила в своей школе) сидела на табуретке с ужасом в гла­зах. Дед ел — он у нас всегда ел, когда волновался. Его седая борода, разделенная на два клинышка, резко двигалась, потому что из-за вставных челю­стей он не жевал, а «жамкал», как говорила бабка, и крошки сыпались ему в бороду. Бабка едва слыш­но молилась, крестясь перед иконой Божьей мате­ри, которую принесла сюда. Я сам забивал в доску гвоздик, чтобы повесить; эта икона мне нравилась, из всех бабкиных икон она была у меня самая лю­бимая.
 
-There was a kerosene lamp burning in the trench, filling it with fumes. My mother, who wasn't there before because she worked at her school day and night, sat on a stool with horror in her eyes. Grandpa ate &mdash; he always ate at our place when he was worried. His gray beard, divided into two wedges, moved abruptly. Because of his false teeth, as Grandma would say, he didn't chew, but "jammed" and the crumbs fell into his beard. Grandma's praying was barely audible, crossing herself before the icon of the Mother of God she brought here. I had put nails in the board myself to hang it up;  I liked this icon, it was my favorite of all my grandmother's icons.
+Akerosene lamp burned in the trench, filling it with fumes. My mother, who wasn't there before because she worked at her school day and night, sat on a stool with horror in her eyes. Grandpa ate &mdash; he always ate at our place when he was worried. His gray beard, divided into two wedges, moved abruptly. He didn't chew, because of his false teeth, but instead sort of "gummed" (as Grandma would say) and the crumbs fell into his beard. Grandma's praying was barely audible, as she crossed herself in front of the icon of the Mother of God she brought into the trench. I'd put nails in the board myself to hang it up;  I liked this icon, it was my favorite of all my grandmother's icons.
 
 А в стенах за досками что-то тихо шуршало, во­зилось: там жили своей личной жизнью, абсолютно безразличной к войне, жуки и черви, и деятельные муравьи.
 
@@ -75,7 +75,7 @@ I was just sitting there breathing, waiting for this explosion...
 
 Вдруг раздался глухой топот, люк поднялся, и соседка Елена Павловна, возбужденная, на себя не похожая, закричала с радостным изумлением, с тор­жеством:
 
-Suddenly there was a deaf stomping, the hatch rose, and Elena Pavlovna, a neighbor, excited, not like herself, shouted with joy, amazement, and triumph:
+Suddenly there was a deaf stomping. The hatch rose, and Elena Pavlovna, a neighbor &mdash; excited and unlike her usual self &mdash; shouted with joy, amazement, and triumph:
 
 
 — Что вы сидите? Немцы пришли! Советская власть кончилась!
@@ -85,17 +85,17 @@ Suddenly there was a deaf stomping, the hatch rose, and Elena Pavlovna, a neighb
 
 Мне было двенадцать лет. Многое для меня в жиз­ни происходило впервые. Немцы пришли тоже впер­вые. Я прежде всех вылетел из окопа, зажмурился от яркого света и отметил, что мир стал какой-то иной — как добрая погода после шторма, — хотя внешне как будто все оставалось по-прежнему.
 
-I was 12 years old. This was the first time I've ever had a lot going on in my life. The Germans were here for the first time, too. I first flew out of the trench, clouded with the bright light, and noted that the world had become a different place - as if the weather had been good after the storm - although it looked as if everything had remained the same.
+I was 12 years old. This was the first time I'd ever had a lot going on in my life. The Germans were here for the first time, too. I flew out of the trench first, eyes clouded with the bright light, and noted that the world had become a different place &mdash; as if the weather had been good after the storm &mdash; although it looked as if everything had remained the same.
 
 
 Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, р
 
-Elena Pavlovna, breathless, waved her hands and spoke lovingly, joyously:
+Elena Pavlovna, breathless, waved her hands and spoke with love and joy:
 
 
 —... молоденький, такой молоденький стоит!.. Мои же окна на улицу. Машина ушла, а он, молодень­кий, хорошенький, стоит!..
 
-"...young, so young he is! My windows are in the street. The car's gone, and he -- young, cute -- is here!"
+"...young, so young he is! My windows are broken in the street. The car's gone, but he &mdash; so young, so cute &mdash; is here!"
 
 
 Я немедленно рванул через двор, взлетел на забор.
@@ -105,7 +105,7 @@ I immediately ran across the yard, and jumped atop the fence.
 
 У ограды сквера на нашей Петропавловской пло­щади стояла низенькая, хищная, длинноносая пуш­ка на толстых надутых шинах. Возле нее — дейст­вительно очень молоденький, белокурый, розовоще­кий немецкий солдатик в необычно чистой и ладно сидящей на нем серо-зеленой форме. Он держал винтовку на весу, заметил, что я смотрю на него, и загордился. Очень мило загордился так, зафасонил.
 
-At the fence of the square on our Petropavlovskaya Square there was a low, predatory, long-nosed cannon on thick inflated tires. A really young, blond, pinkish-cheeked German soldier in an unusually clean and well-fitted grey-green uniform stood nearby. He kept the rifle at the ready and, noticing I was looking at it, stood up proud. So nice and proud-looking - stylish.
+At the fence of the square on our Petropavlovskaya Square sat a low, predatory, long-nosed cannon on thick inflated tires. A really young, blond, pinkish-cheeked German soldier in an unusually clean and well-fitted grey-green uniform stood nearby. He kept his rifle at the ready and, noticing I was looking at it, stood up proud. So nice and proud-looking &mdash; stylish.
 
 
 Был у меня друг жизни, старше меня года на три, Болик Каминский, я еще о нем расскажу. Его эва­куировали с училищем фабрично-заводского обу­чения — ФЗО. Так вот этот парнишка был очень похож на друга моего Болика.
@@ -115,7 +115,7 @@ I had a best friend three years older than me, Bolik Kaminsky, I'll tell you mor
 
 Понимаете, я ожидал всего: что немцы — страш­ные гиганты, что ли, все сплошь на танках, в про­тивогазных масках и рогатых касках, и меня по­трясло, что этот парнишка такой обыкновенный, ну, ничего особенного, совсем как наш Болик.
 
-You see, I expected everything: that the Germans were scary giants, arriving astride tanks, in gas masks and horny helmets, and I was shocked that this kid was so ordinary. Well, nothing special, just like our Bolik.
+You see, I expected everything: that the Germans would be scary giants, arriving astride tanks, wearing gas masks and horny helmets, and I was shocked that this kid was so ordinary. Well, nothing special, just like our Bolik.
 
 
 Зафасонил, ага, я б тоже зафасонил, имей такую пушку.
@@ -125,29 +125,29 @@ Stylish, yeah, I'd be stylish, too, if I had a gun like that.
 
 В этот момент раздался тот самый невероятный взрыв, которого я так ждал. Я задохнулся, ударился подбородком о забор, чуть не свалился. А солда­тик позорно присел и съежился, перепугано при­жавшись к пушке.
 
-At that moment, there was that incredible explosion I'd been waiting for. I suffocated, hit my chin on the fence, almost fell off. And the soldier sat down in disgrace and shrunk, frightened by the gun.
+At that moment, there was that incredible explosion I'd been waiting for. I gasped, hit my chin on the fence and almost fell off. And the soldier sat down in disgrace and shrunk, frightened by the blast.
 
 
 Но нужно отдать ему должное: он тотчас опом­нился, независимо встал и принялся смотреть куда-то поверх моей головы. Я обернулся и увидел, как в синем небе, за вершинами деревьев, опадают, кру­тясь и планируя, обломки досок.
 
-But I have to hand it to him: he immediately came to his senses, got up independently and started looking somewhere over my head. I turned around and saw the blue sky, beyond the tops of the trees, where they fell, spinning and planning, pieces of wood.
+But I have to hand it to him: he immediately came to his senses, got up independently and started looking somewhere over my head. I turned around and saw the blue sky, beyond the tops of the trees, where, spinning and gliding, the pieces of wood fell.
 
 
 — Ах, подорвали-таки мост, проклятые босяки! Э! — сказал дед, подходя к забору и высовывая нос, чтобы тоже поглядеть на первого немца. — Фью-фью, вот это да!.. Ну куда ж с ними Сталину воевать, Господи прости. Это же — армия! Это не наши раз­несчастные — голодные да босые. Ты посмотри только, как он одет!
 
-"Oh, you blew up the bridge, you damn clods! Ah!" said Grandpa, approaching the fence and sticking out his nose to look at the first German too. 
+"Oh, you blew up the bridge, you damned clods! Ah!" said Grandpa, who approached the fence and stuck out his nose to look at the first German, too. 
 
-"Fugh-feugh, wow! Well, where is Stalin going to fight them, Lord forgive me. It's an army! They're not our unfortunate, hungry and barefoot. Look at the way he's dressed!
+"Fugh-feugh, wow! Well, where is Stalin going to fight them, Lord forgive me. It's an army! The Germans aren't *our* unfortunate &mdash; hungry and barefoot. Look at the way he's dressed!"
 
 
 Действительно, солдатик был одет превосходно. На газетных карикатурах и в советских кинофильмах немцев изображали оборванными бродягами и бан­дитами, а советские воины были всегда красивые, подтянутые, розовощекие.
 
-Indeed, the soldier was dressed perfectly. On the newspaper cartoons and in the Soviet films, Germans were depicted as torn-up vagrants and bandits, and the Soviet soldiers were always beautiful, tightened, pink-cheeked.
+Indeed, the soldier was dressed perfectly. In newspaper cartoons and in the Soviet films, Germans were depicted as torn-up vagrants and bandits, and the Soviet soldiers were always handsome, fit, and pink-cheeked.
 
 
 Вздымая пыль, подлетела угловатая, квадратная и хищная машина, лихо развернулась (мы с дедом жадно смотрели), и такие же подтянутые, ловкие, как фокусники, молодые ребята-немцы прицепили пушку в один миг, повскакали на подножки и, ви­ся по обеим сторонам машины, лихо умчались в сторону Подола.
 
-Dust broke up, an angular, square, and predatory car flew in, turned dashingly (my grandfather and I watched greedily), and as tight as magicians, young German guys pinned a gun in an instant, jumped on the steps and, hanging on both sides of the car, dashingly rushed towards Podol.
+Dust kicked up and an angular, square, and predatory car flew in, turned dashingly (my grandfather and I watched greedily), and as tight as magicians, young German guys pinned a gun in an instant, jumped on the steps and, hanging on both sides of the car, dashingly rushed towards Podol.
 
 
 — Да-а... — сказал потрясенный дед и перекре­стился широко; — Слава тебе. Господи, кончилась эта босяцкая власть, а я уж думал не доживу... Сту­пай, помогай носить вещи в хату: в яме все отсы­рело. Будем теперь жить.
