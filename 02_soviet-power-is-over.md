@@ -90,7 +90,7 @@ I was 12 years old. This was the first time I've ever had a lot going on in my l
 
 Елена Павловна, захлебываясь, взмахивая рука­ми, говорила умиленно, р
 
-Elena Pavlovna, suffocating, waving her hands, spoke gently, joyfully:
+Elena Pavlovna, breathless, waved her hands and spoke lovingly, joyously:
 
 
 —... молоденький, такой молоденький стоит!.. Мои же окна на улицу. Машина ушла, а он, молодень­кий, хорошенький, стоит!..
