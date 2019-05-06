@@ -15,21 +15,21 @@
 
 Kiev was actually surrendered on September 19th, not September 21st as the announcement states.
 
-I saw them running and I knew it was over. Red Army soldiers &mdash; defensive, burnt-out, some carrying their bedrolls, others already without their guns &mdash; didn't often run through yards and gardens, jumping over fences.
+I saw them running and I knew it was over. It wasn't common for Red Army soldiers &mdash; looking defensive, burnt-out, some carrying their bedrolls, others already without their guns &mdash; to run through yards and gardens, jumping over fences.
 
 People said that they ran into houses and begged for civilian clothes. Women gave rags to some and they changed their clothes, hoping to hide. The women then drowned the soldiers' now-useless weapons and tunics with military insignia in cesspools.
 
-It was very quiet. There'd been fights for days, cannons rattling, sirens howling, bombings carried out one after another; at night, the entire horizon was aglow. We slept in knotted tangles in trenches, as the earth shook and fell on our heads.
+It was very quiet. Fighting had gone on for days, cannons rattling, sirens howling, bombings carried out one after another. At night, the entire horizon was aglow. We slept in knotted tangles in trenches, as the earth shook and fell on our heads.
 
-But now it was quiet, that silence that seems more terrible than any shooting. And we didn't know where we were: Were we still under Stalin, already under Hitler, or stuck on some narrow strip in-between?
+But now it was quiet &mdash; that silence that seems more terrible than any shooting. And we didn't know where we were: Were we still under Stalin, already under Hitler, or stuck on some narrow island in-between?
 
-The scratching sound of machine gun fire came clearly and closely from the railway embankment. Small branches and leaves from our old elm fell over our trench. I slammed the hatch down and tumbled into the pit...where my grandfather hissed at me and punched me in the ear.
+The scratching sound of machine gun fire came clear and close from the railway embankment. Small branches and leaves from our old elm fell over our trench. I slammed the hatch down and tumbled into the pit, where my grandfather hissed at me and punched me in the ear.
 
-Our trench, dug in the garden, was a a type of anti-aircraft protection typical for those times &mdash; a "slit trench" &mdash;. Dug in the form of the letter *T*, it was two meters deep, seventy meters wide. Courtyards, squares, and streets were dug out with slit trenches like ours. Soviet radio encouraged us to dig them and told us how.
+Our trench, dug in the garden, was a type of anti-aircraft protection typical for those times &mdash; a "slit trench." Dug in the form of the letter *T*, it was two meters deep, seventy meters wide. Courtyards, squares, and streets were dug out with slit trenches like ours. Soviet radio encouraged us to dig them and told us exactly how to do it.
 
-My grandfather and I worked several days perfecting the circuitry. We covered the earthen walls with planks, laid the floor with pieces of bricks, and made a cover for the top. Of course, we didn't have enough logs, but we used all of the firewood we found in the barn to add one and a half meters of wood to the top of the trench.
+My grandfather and I worked several days perfecting the circuitry. We covered the earthen walls with planks, laid the floor with pieces of bricks, and made a cover for the top. Of course we didn't have enough logs, but we used all of the firewood we found in the barn and added one and a half meters of wood to the top of the trench.
 
-My grandfather looked at it this way: if a bomb fell on our trench,  it would shake the firewood, the logs would scatter like billiard balls and its explosion would never reach us: Where would the villainous bomb be able to destroy such a fortress!
+Grandfather looked at it this way: if a bomb fell on our trench,  it would shake the firewood, the logs would scatter like billiard balls and its explosion would never reach us: Where and how would the villainous bomb be able to destroy such a fortress?
 
 For durability, we threw dirt on the firewood, and for disguise we covered it with turf. This gave us an impressive and clearly visible hill, under which, if you lowered the entrance hatch, it was as deaf and dark as the grave.
 
@@ -210,7 +210,7 @@ The largest, fiery red heavy-duty horses -- the likes of which we had never seen
 
 В ослепительных белых и черных лимузинах еха­ли, весело беседуя, офицеры в высоких картузах с серебром. У нас с Шуркой разбежались глаза и за­хватило дыхание. Мы отважились перебежать ули­цу. Тротуар быстро наполнялся, люди бежали со всех сторон, и все они, как и мы, смотрели на эту армаду потрясенно, начинали улыбаться немцам, в ответ и пробовать заговаривать с ними.
 
-In the dazzling white and black limousines, officers with high silver and silver cartridges drove, having a fun conversation. Shurka and I had our eyes scattered and breathed. We dared to run across the street. The sidewalk filled quickly, people ran from all sides, and all of them, like us, looked at this armada shocked, began to smile at the Germans, in response and try to talk to them.
+In the dazzling black and white limousines, officers with high silver and silver cartridges drove, having a fun conversation. Shurka and I had our eyes scattered and breathed. We dared to run across the street. The sidewalk filled quickly, people ran from all sides, and all of them, like us, looked at this armada shocked, began to smile at the Germans, in response and try to talk to them.
 
 
 А у немцев, почти у всех, были книжечки-разго­ворники, они листали их и кричали девушкам на тротуаре:

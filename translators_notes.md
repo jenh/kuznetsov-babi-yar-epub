@@ -1,7 +1,7 @@
 
 # Translator's Notes
 
-I came to this project out of compulsion; found in a used book store after a Wharton phase. That the book is out of print and no digital version of such an important work.
+I came to this project out of compulsion; found in a used book store after a William Wharton phase. That the book is out of print and no digital version of such an important work.
 
 I am not a Russian speaker. How I translated it is this:
 
