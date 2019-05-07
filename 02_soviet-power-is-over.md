@@ -147,7 +147,7 @@ Indeed, the soldier was dressed perfectly. In newspaper cartoons and in the Sovi
 
 Вздымая пыль, подлетела угловатая, квадратная и хищная машина, лихо развернулась (мы с дедом жадно смотрели), и такие же подтянутые, ловкие, как фокусники, молодые ребята-немцы прицепили пушку в один миг, повскакали на подножки и, ви­ся по обеим сторонам машины, лихо умчались в сторону Подола.
 
-Dust kicked up and an angular, square, and predatory car flew in, turned dashingly (my grandfather and I watched greedily), and as tight as magicians, young German guys pinned a gun in an instant, jumped on the steps and, hanging on both sides of the car, dashingly rushed towards Podol.
+An angular, boxy and predatory car flew in kicking up dust, turned dashingly (my grandfather and I watched greedily), and as agile as gymnasts, young German guys pinned a gun in an instant, jumped on the steps and, hanging on both sides of the car, dashingly rushed towards Podol.
 
 
 — Да-а... — сказал потрясенный дед и перекре­стился широко; — Слава тебе. Господи, кончилась эта босяцкая власть, а я уж думал не доживу... Сту­пай, помогай носить вещи в хату: в яме все отсы­рело. Будем теперь жить.
