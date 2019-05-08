@@ -97,59 +97,35 @@ Indeed, the soldier was dressed perfectly. In newspaper cartoons and in the Sovi
 
 An angular, boxy and predatory vehicle flew in kicking up dust, turned ominously (my grandfather and I watched eagerly), and as agile as gymnasts, some young German guys pinned the cannon on the truck in an instant, jumped up on the steps and, hanging off both sides of the car, dashingly rushed towards Podil.
 
+"Yes, ah..." said my shocked grandfather, as he did a wide sign of the Cross. 
 
-— Да-а... — сказал потрясенный дед и перекре­стился широко; — Слава тебе. Господи, кончилась эта босяцкая власть, а я уж думал не доживу... Сту­пай, помогай носить вещи в хату: в яме все отсы­рело. Будем теперь жить.
-
-"Yeah, uh..." said my shocked grandfather, as he did a wide sign of the Cross. 
-
-"Glory to you. Oh, my God, I'm out of that fearful power, and I didn't think I'd live to see it... Go on, help me carry my stuff in the crib. It's all wet in the pit. We'll live now."
-
+"Glory to you. Oh, my God, I'm out from under that fearful power, and I didn't think I'd live to see it... Go on, help me carry my stuff into the house. It's all wet in the trench. We're really going to live now."
 
 Не весьма охотно поплелся я к окопу. Там мама подавала из темной дыры узлы, чемоданы, табуретки, бабка принимала и складывала в кучу, а я стал носить.
 
-I wasn't very willing to get caught up in the trench. There, my mother used to serve knots, suitcases, stools from a dark hole, and my grandmother used to take it and put it in a pile, and I started wearing it.
-
+I grudgingly slunk to the trench. There, my mother was carrying bundles, suitcases, and stools up from the dark hole, and my grandmother piled them into a big heap, and I started carrying them in.
 
 Столько раз за последнее время мы это дело пов­торяли: в окоп, из окопа, вниз, вверх, хоть бы было что порядочное прятать, а то ж одни шмотки на шмотках, какой-то кожух царских времен, в запла­тах, молью съеденный, штаны застиранные, подуш­ки... В общем, занятие не для мужчины.
 
-So many times in the recent past we have repeated this case: in the trench, from the trench, down, up, at least there was something decent to hide, or even some clothes on the clothes, some cover of the tsarist times, in patches, a moth eaten, pants washed, pillows ... Anyway, it's not for a man.
+So many times in the recent past we'd repeated this process: down into the trench, up out of the trench, down, up. At least if there was something decent to hide, or even some good clothes, but it was just patched clothes from tsarist times, moth-eaten, faded pants, and pillows. In general, it was just not a man's job.
 
-
-Из-за забора высунулась голова второго моего друга жизни — Шурки Мацы. Делая огромные гла­за, он закричал:
-
-The fence made my second friend's head stick out, Shurka Matza. With wife eyes, he screamed:
-
-
-— По трамвайной линии немцы идут! Пошли!
+My friend Shurka Matza's head poked out from the fence. With huge eyes, he shouted:
 
 "The Germans are on the tram line! Let's go! Let's go!"
 
+And I was blown away like the wind.
 
-И меня как ветром сдуло.
+The whole Kirillovskaya Street (under Soviet rule it was called Frunze Street, but the name never really stuck) was full of cars and carts from end to end. The cars were angular, with all sorts of projections, grilles, and brackets.
 
-And I was blown along with him like the wind.
-
-
-
-Вся Кирилловская улица (при советской власти она называлась улицей Фрунзе, но название не при­вивалось), была, сколько видно в оба конца, забита машинами и повозками. Автомобили были углова­тые, со всякими выступами, решетками, скобами.
-
-The whole Kirillovskaya Street (under Soviet rule it was called Frunze Street, but the name never really stuck) was full of cars and wagons as seen at both ends. The cars were angular, with all sorts of protrusions, bars, and brackets.
-
-
-У каждой машины есть лицо, она смотрит на мир своими фарами безразлично, или сердито, или жа­лобно, или удивленно. Так вот эти, как и первая, что увезла пушку, смотрели хищно. Отродясь я не видел таких автомобилей, и мне казалось, что они очень мощные, они заполнили улицу ревом и дымом.
-
-Every car has a face, it looks at the world with its headlights indifferently, or angry, or grievously, or surprised. So these guys, like the first one who took the gun away, were watching the carnage. I hadn't seen such cars in my life, and it seemed to me that they were very powerful, they filled the street with roar and smoke.
-
+Every vehicle has a face, it looks at the world with its headlights indifferently, or angry, or grievously, or surprised. So these guys, like the first one that carted the cannon away, were watching the carnage. I hadn't seen such vehicles in my life, and it seemed to me that they were very powerful, they filled the street with roar and smoke.
 
 Кузова некоторых грузовиков представляли собой целые маленькие квартиры, с койками, привинчен­ными столами.
 
-The bodies of some of the trucks were whole small apartments, with bunks, screwed-in tables.
-
+The insides of some of these trucks contained entire small apartments, with bunks and screwed-in tables.
 
 Немцы выглядывали из машин, прогуливались по улице — чисто выбритые, свежие и очень веселые. Будешь свежим и веселым, если у них пехота, ока­зывается, не шла, а — ехала! Они смеялись по лю­бому поводу, что-то шутливо кричали первым вы­ползающим на улицу жителям. Между фурами со снарядами и мешками лихо юлили мужественные мотоциклисты в касках, с укрепленными на рулях пулеметами.
 
-The Germans looked out of the cars, walked down the street -- clean-shaven, fresh and very funny. You'll be fresh and funny if their infantry wasn't going, but going! They were laughing about anything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on the handlebars were dashingly jockeying between the vehicles with shells and bags.
-
+The Germans looked out of the vehicles and walked down the street &mdash; clean-shaven, fresh and very cheerful. You'd be fresh and cheerful if their infantry wasn't going, but going! They were laughing about anything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on the handlebars were dashingly jockeying between the vehicles with shells and bags.
 
 Доселе нами невиданные, огромнейшие, огненно-рыжие кони-тяжеловозы, с гривами соломенного цвета, медлительно и важно ступая мохнатыми но­гами, запряженные шестерками, тянули орудия, будто играючи. Наши малорослые русские лошаден­ки, измордованные и полудохлые, на которых отсту­пала Красная Армия, показались бы жеребятами рядом с этими гигантами.
 
