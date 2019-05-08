@@ -5,11 +5,11 @@ Everything in this book is true.
 
 When I shared episodes of this story with different people, all unanimously responded that I should write a book.
 
-[But I've been writing this book for a long time. I wrote the first version when I was 14 years old. In a thick homemade notebook, I &mdash; in those days a hungry, convulsive boy &mdash; wrote down everything I saw, heard, and knew about Babi Yar as soon as I saw, heard, or knew about it. I had no idea why I was doing it, but I thought it was necessary. To forget nothing.
+But I've been writing this book for a long time. I wrote the first version when I was 14 years old. In a thick homemade notebook, I &mdash; in those days a hungry, convulsive boy &mdash; wrote down everything I saw, heard, and knew about Babi Yar as soon as I saw, heard, or knew about it. I had no idea why I was doing it, but I thought it was necessary. To forget nothing.
 
 The notebook was called "Babi Yar," and I hid it from prying eyes. After the war, anti-Semitism ran rampant in the Soviet Union: the campaign against so-called "Cosmopolitanism," Jewish doctors arrested and accused of being "poisoners" &mdash; and the name "Babi Yar" was almost forbidden.
 
-My mother found my notebook one day while cleaning. She read it, cried over it, and advised me to keep it. She was the first to tell me that someday I should write a book.]
+My mother found my notebook one day while cleaning. She read it, cried over it, and advised me to keep it. She was the first to tell me that someday I should write a book.
 
 The more I lived in this world, the more I became convinced that I had to do it.
 
@@ -17,23 +17,23 @@ I started writing it as a regular documentary novel many times, never having any
 
 Besides, a strange thing happened to me. I tried to write an ordinary novel using the method of socialist realism. It was the only method I knew; taught from the school desk and then throughout my entire life. But turning the truth of life into "Artistic Truth," for some reason dimmed in my eyes, became banal, smooth, deceitful and, finally, despicable.
 
-[Socialist realism requires us to write not so much as things are, how much they should have been, or, at any rate, how they could be. This false and hypocritical method, in fact, has ruined great Russian literature in the past. I refuse it forever.]
+Socialist realism requires us to write not so much as things are, how much they should have been, or, at any rate, how they could be. This false and hypocritical method, in fact, has ruined great Russian literature in the past. I refuse it forever.
 
-I write this book without thinking any more about any methods, [or about any authorities, borders, censors or national prejudices.]
+I'm writing this book without thinking any more about any methods, or about any authorities, borders, censors or national prejudices.
 
-I write this book as if I'm giving sworn legal testimony at the highest court of honor &mdash; and I am responsible for every word. This book tells only the truth &mdash; JUST AS IT WAS.
+I'm writing this book as if I'm giving sworn legal testimony at the highest court of honor &mdash; and I am responsible for every word. This book tells only the truth &mdash; JUST AS IT WAS.
 
-[I, Anatoly Vasilievich Kuznetsov, the author of this book, was born on August 18, 1929 in the city of Kiev. My mother is Ukrainian, my father is Russian. In my passport, my nationality is listed as "Russian."]
+I, Anatoly Vasilievich Kuznetsov, the author of this book, was born on August 18, 1929 in the city of Kiev. My mother is Ukrainian, my father is Russian. In my passport, my nationality is listed as "Russian."
 
 I grew up on the outskirts of Kiev in the Kurenyovka neighborhood, near a large ravine, the name of which was known only to the locals: Babi Yar.
 
 Like other parts of Kurenyovka, it was a place we played, a place of my childhood.
 
-Then all at once, in a single day, it became very famous.
+Then all at once, in a single day, it became very well-known.
 
 For more than two years, Babi Yar was a restricted area, with a high-voltage wire and a concentration camp, flanked by signs that warned anyone who approached that they would be fired upon.
 
-Once, I even went to the concentration camp office, but not in the ravine itself &mdash; otherwise I would not have been able to write this book.
+Once, I even went to the concentration camp office, but not into the ravine itself &mdash; otherwise I would not have been able to write this book.
 
 For two years, we heard only machine gun fire coming from the ravine at different intervals: Ta-ta-ta, Ta-ta...For two years, every day, I heard the gunfire, and the sound is still in my ears today.
 
@@ -43,7 +43,7 @@ When it was over, my friend and I, though afraid of mines, went to see what was 
 
 The ravine was huge, you could even call it majestic &mdash; deep and wide, like a mountain gorge. You could shout from one end and barely hear it from the other.
 
-Baby Yar was located between the three districts of Kiev: Lukyanivka, Kurenivka, and Syrets, surrounded by cemeteries, groves, and gardens. A pretty, clear stream flowed along the bottom. Its slopes were steep, precipitous, and in some places sheer, and often collapsed. This was normal for that area: the right bank of the Dnieper River is completely cut through by ravines like this, and even the main street of Kiev, Khreshchatyk, was formed from the Khreshchatyy Yar. There is Revyakhov Yar, Syretskyy Yar and others, there are many of them out there.
+Babi Yar was located between the three districts of Kiev: Lukyanivka, Kurenivka, and Syrets, surrounded by cemeteries, groves, and gardens. A pretty, clear stream flowed along the bottom. Its slopes were steep, precipitous, in some places sheer, and they often collapsed. This was normal for that area: the right bank of the Dnieper River is completely cut through by ravines like this, and even the main street of Kiev, Khreshchatyk, was formed from the Khreshchatyy Yar. There is the Revyakhov Yar, the Syretskyy Yar and others &mdash; there are many of them out there.
 
 We walked and saw a ragged old man carrying a bag moving from one side of the ravine to the other. He walked so confidently that we knew he must live nearby; this was not the first time he walked here.
 
@@ -81,10 +81,10 @@ They were mining for gold.
 
 We walked around and found a lot of whole bones, a fresh, still-raw skull and more black ash mixed in with the gray sand.
 
-I picked up one piece that weighted two kilograms. I took it with me and saved it. This is ash from many people, all mixed up &mdash; International ash, so to speak.
+I picked up one piece that weighed two kilograms. I took it with me and saved it. This is ash from many people, all mixed up &mdash; International ash, so to speak.
 
-Then I decided to write it all down from the very beginning, as it was without missing or fictionalizing anything.
+Then I decided to write it all down from the very beginning, as it was, without missing or fictionalizing anything.
 
-I'm doing this because I know I have to do it. Because, as it says in *Tille Ulenspiegel,*^[https://en.wikipedia.org/wiki/Till_Eulenspiegel] Klaas' ashes are are knocking on my heart.
+I'm doing this because I know I have to do it. Because, as it says in *Tille Ulenspiegel,*^[https://en.wikipedia.org/wiki/Till_Eulenspiegel] Klaas' ashes pound in my heart.
 
 Thus, the word "document" in the subtitle of this novel means that here I am sharing only true facts and documents, and that the slightest literary speculation &mdash; that is, how it "could be" or "should have been" &mdash; is not here.
