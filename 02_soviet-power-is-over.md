@@ -103,11 +103,11 @@ An angular, boxy and predatory vehicle flew in kicking up dust, turned ominously
 
 Не весьма охотно поплелся я к окопу. Там мама подавала из темной дыры узлы, чемоданы, табуретки, бабка принимала и складывала в кучу, а я стал носить.
 
-I grudgingly slunk to the trench. There, my mother was carrying bundles, suitcases, and stools up from the dark hole, and my grandmother piled them into a big heap, and I started carrying them in.
+I grudgingly slunk to the trench. There, my mother carried bundles, suitcases, and stools up from the dark hole, and my grandmother piled them into a big heap, and I started carrying them in.
 
 Столько раз за последнее время мы это дело пов­торяли: в окоп, из окопа, вниз, вверх, хоть бы было что порядочное прятать, а то ж одни шмотки на шмотках, какой-то кожух царских времен, в запла­тах, молью съеденный, штаны застиранные, подуш­ки... В общем, занятие не для мужчины.
 
-So many times in the recent past we'd repeated this process: down into the trench, up out of the trench, down, up. At least if there was something decent to hide, or even some good clothes, but it was just patched clothes from tsarist times, moth-eaten, faded pants, and pillows. In general, it was just not a man's job.
+So many times in the recent past we'd repeated this process: down into the trench, up out of the trench, down, up. At least if there was something decent to hide, or even some good clothes...but it was just patched clothes from tsarist times, moth-eaten, faded pants, and pillows. In general, it was just not a man's job.
 
 My friend Shurka Matza's head poked out from the fence. With huge eyes, he shouted:
 
@@ -125,11 +125,11 @@ The insides of some of these trucks contained entire small apartments, with bunk
 
 Немцы выглядывали из машин, прогуливались по улице — чисто выбритые, свежие и очень веселые. Будешь свежим и веселым, если у них пехота, ока­зывается, не шла, а — ехала! Они смеялись по лю­бому поводу, что-то шутливо кричали первым вы­ползающим на улицу жителям. Между фурами со снарядами и мешками лихо юлили мужественные мотоциклисты в касках, с укрепленными на рулях пулеметами.
 
-The Germans looked out of the vehicles and walked down the street &mdash; clean-shaven, fresh and very cheerful. You'd be fresh and cheerful if their infantry wasn't going, but going! They were laughing about anything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on the handlebars were dashingly jockeying between the vehicles with shells and bags.
+The Germans looked out of the vehicles and walked down the street &mdash; clean-shaven, fresh, and very cheerful. You'd be fresh and cheerful if their infantry wasn't here, but here they are! They were laughing about everything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on their handlebars were dashingly jockeying between the vehicles, hauling shells and bags.
 
 Доселе нами невиданные, огромнейшие, огненно-рыжие кони-тяжеловозы, с гривами соломенного цвета, медлительно и важно ступая мохнатыми но­гами, запряженные шестерками, тянули орудия, будто играючи. Наши малорослые русские лошаден­ки, измордованные и полудохлые, на которых отсту­пала Красная Армия, показались бы жеребятами рядом с этими гигантами.
 
-The largest, fiery red heavy-duty horses -- the likes of which we had never seen before -- with maneuvers of straw color, slowly and importantly stepping with furry legs, harnessed by sixes, pulled guns, as if playing. Our small Russian horses, exhausted and half-dead, on which the Red Army retreated, would seem to be foals next to these giants.
+The largest, fiery red heavy-duty horses with straw-colored manes &mdash; the likes of which we had never seen before &mdash; slowly and stepped importantly with furry legs, harnessed by sixes. They pulled cannons as if they were toys. Our small Russian horses, exhausted and half-dead carrying our retreating Red Army would look like foals next to these giants.
 
 
 В ослепительных белых и черных лимузинах еха­ли, весело беседуя, офицеры в высоких картузах с серебром. У нас с Шуркой разбежались глаза и за­хватило дыхание. Мы отважились перебежать ули­цу. Тротуар быстро наполнялся, люди бежали со всех сторон, и все они, как и мы, смотрели на эту армаду потрясенно, начинали улыбаться немцам, в ответ и пробовать заговаривать с ними.
