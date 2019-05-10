@@ -87,7 +87,7 @@ At that moment, the incredible explosion I'd been waiting for happened. I gasped
 
 But I have to hand it to him: he immediately came to his senses, got up on his own and started looking somewhere over my head. I turned around and saw the blue sky, beyond the tops of the trees, where pieces of wood fell, spinning and gliding through the air.
 
-"Ach, you blew up the bridge, you damned clods! Eh!" said Grandpa, who approached the fence and stuck out his nose to look at the first German, too. 
+"Ach, you blew up the bridge, you damned clods! Eh!" said Grandpa, who approached the fence and stuck out his nose to look at the first German, too.
 
 "Phew-phew, wow! Well, where is Stalin going to fight them, Lord forgive me. It's an army! The Germans aren't *our* unfortunate &mdash; hungry and barefoot. Just look at how he's dressed!"
 
@@ -97,7 +97,7 @@ Indeed, the soldier was dressed perfectly. In newspaper cartoons and in the Sovi
 
 An angular, boxy and predatory vehicle flew in kicking up dust, turned ominously (my grandfather and I watched eagerly), and as agile as gymnasts, some young German guys pinned the cannon on the truck in an instant, jumped up on the steps and, hanging off both sides of the car, dashingly rushed towards Podil.
 
-"Yes, ah..." said my shocked grandfather, as he did a wide sign of the Cross. 
+"Yes, ah..." said my shocked grandfather, as he did a wide sign of the Cross.
 
 "Glory to you. Oh, my God, I'm out from under that fearful power, and I didn't think I'd live to see it... Go on, help me carry my stuff into the house. It's all wet in the trench. We're really going to live now."
 
@@ -125,36 +125,33 @@ The insides of some of these trucks contained entire small apartments, with bunk
 
 Немцы выглядывали из машин, прогуливались по улице — чисто выбритые, свежие и очень веселые. Будешь свежим и веселым, если у них пехота, ока­зывается, не шла, а — ехала! Они смеялись по лю­бому поводу, что-то шутливо кричали первым вы­ползающим на улицу жителям. Между фурами со снарядами и мешками лихо юлили мужественные мотоциклисты в касках, с укрепленными на рулях пулеметами.
 
-The Germans looked out of vehicles and walked down the street &mdash; clean-shaven, fresh, and very cheerful. You'd be fresh and cheerful if their infantry wasn't here, but here they are! They were laughing about everything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on their handlebars were dashingly jockeying between the vehicles, hauling shells and bags.
+The Germans looked out of vehicles and walked down the street &mdash; clean-shaven, fresh, and very cheerful. You'd be fresh and cheerful, too, if you did not go on foot, but rode! They were laughing about everything, screaming jokingly at the first people crawling out on the street. Courageous motorcyclists in helmets with machine guns on their handlebars were dashingly jockeying between the vehicles, hauling shells and bags.
 
 Доселе нами невиданные, огромнейшие, огненно-рыжие кони-тяжеловозы, с гривами соломенного цвета, медлительно и важно ступая мохнатыми но­гами, запряженные шестерками, тянули орудия, будто играючи. Наши малорослые русские лошаден­ки, измордованные и полудохлые, на которых отсту­пала Красная Армия, показались бы жеребятами рядом с этими гигантами.
 
 The largest, fiery red heavy-duty horses with straw-colored manes &mdash; the likes of which we had never seen before &mdash; slowly and importantly stepped with furry legs, harnessed in sixes. They pulled cannons as if they were toys. Our small Russian horses, exhausted and half-dead carrying our retreating Red Army would look like foals next to these giants.
 
-
 В ослепительных белых и черных лимузинах еха­ли, весело беседуя, офицеры в высоких картузах с серебром. У нас с Шуркой разбежались глаза и за­хватило . Мы отважились перебежать ули­цу. Тротуар быстро наполнялся, люди бежали со всех сторон, и все они, как и мы, смотрели на эту армаду потрясенно, начинали улыбаться немцам, в ответ и пробовать заговаривать с ними.
 
-In the dazzling black and white limousines, officers with tall hats with silver cords drove, having a fun conversation. Shurka and I had our eyes scattered and breathed. We dared to run across the street. The sidewalk filled quickly, people ran from all sides, and all of them, like us, looked at this armada shocked, began to smile at the Germans, in response and try to talk to them.
-
+In the dazzling black and white limousines, officers with tall hats with silver cords drove, having a fun conversation. Shurka and I were paralyzed by our dazzled eyes. We steeled ourselves and ran across the street. The sidewalk filled quickly, people ran from all sides, and all of them, like us, looked at this armada in shock. The Germans began to smile in response and try to talk to them.
 
 А у немцев, почти у всех, были книжечки-разго­ворники, они листали их и кричали девушкам на тротуаре:
 
-And the Germans, almost all of them, had German-Russian translation books. They looked through them and shouted to the girls on the sidewalk:
+And almost all of the Germans had German-Russian translation books. They flipped through them and shouted to the girls on the sidewalk:
 
+  — Панэнка, дэвушка! Болшовик — конэц. Ук­райна !
 
-— Панэнка, дэвушка! Болшовик — конэц. Ук­райна !
-
-"Young ladies, girls! Bolsheviks got the rope. Ukrana!"
+"Young ladies, girls! Bolshevik over. Ukrayna!"
 
 
 — Украина, — смеясь, поправили девушки.
 
-"Ukraina," the girls laughingly corrected.
+"Ukra*i*na," the girls laughingly corrected.
 
 
 — Йа, йа! У-край-ина! Ходит гулят шпацирен битте!
 
-"Ya, ya! You-krai-ina! Come for a walk spazieren bitte!"
+"Ya, ya! You-krai-eena! Come walk spazieren bitte!"
 
 
 Девчонки захихикали, смущаясь, и все вокруг по­смеивались и улыбались.
@@ -164,147 +161,118 @@ The girls giggled, embarrassed, and everyone laughed and smiled.
 
 От Бондарского переулка образовалось какое-то движение: видно было, как торжественно плывут головы, и вышла процессия стариков и старух.
 
-From Bondarsky Lane some movement was formed: it was visible, how solemnly heads float, and there was a procession of old men and old women.
-
+From Bondarsky Lane came some movement: these floating solemn heads became visible, a procession of elderly men and women.
 
 Пе­редний старик, с полотенцем через плечо, нес на подносе круглый украинский хлеб с солонкой на нем. Толпа повалила на зрелище, затолкались.
 
-The front old man, with a towel over his shoulder, carried round Ukrainian bread with salt on it on a tray. The crowd fell for the spectacle, got stuck.
-
+The old man in front, with a towel over his shoulder, carried Ukrainian bread on a tray with a salt shaker. The crowd gathered close for the spectacle, pushed and got stuck.
 
 Старики опоздали и растерялись: кому вручать?
 
-The old men were late and confused: who should I hand it to?
-
+The old men were late and confused: to whom to hand the bread?
 
 Передний двинулся к ближайшему белому лимузи­ну, откуда, улыбаясь, смотрели офицеры, и с пок­лоном подал поднос. Мы с Шуркой потеряли друг друга. Я изо всех сил пытался протиснуться. Там что-то говорили, грохнул смех, задние спрашивали: «Что он сказал? Что он сказал?» — но колонна дви­нулась дальше, я только увидел, как в проезжаю­щем автомобиле офицер передавал хлеб с полотен­цем на заднее сиденье.
 
-The front moved to the nearest white limousine, from where the officers were smiling, and bowed down and served a tray. Shurka and I lost each other. I tried my best to squeeze myself through. They said something, laughed and asked, "What did he say? What did he say?" - but the column moved on, I just saw an officer handing over bread and a towel to the back seat in a passing car.
-
+The old man advanced to the nearest white limousine, where the officers were smiling, and he bowed down and served the tray. Shurka and I lost each other. I tried my best to squeeze myself through the crowd. They said something, laughed and the back of the crowd asked, "What did he say? What did he say?" But the column moved on and I saw an officer hand over the bread and towel to the back seat of a passing car.
 
 Вокруг стали говорить, что где-то тут немцы кри­чали: «Масло, булки!» — и сбросили прямо на трам­вайную линию ящик с маслом и корзины с бул­ками — бери, мол, кто хочешь. Я заметался, пытаясь понять, где это, и побежал к мосту над Вышгородской улицей.
 
-They started saying that somewhere around here the Germans were shouting, "Butter, rolls!" - and dumped a crate of butter and bun baskets right on the tram line. I noticed, trying to figure out where it was, and I ran to the bridge over Vyshgorodskaya Street.
-
+Around that time, talk began that somewhere nearby the Germans shouted, "Butter, rolls!" and dumped a crate of butter and baskets of rolls right onto the tram line. I darted back and forth, trying to figure out where it was, and I ran to the bridge over Vyshhorodska Street.
 
 У моста масла и булок не оказалось, но был по­жар. Угловой кирпичный дом горел спокойно и ле­ниво, подожженный влетевшим в окно снарядом. За­бор уже свалили прямо на росшие у дома цветы, по ним топтались. Две женщины и девочка лопатами копали землю и кидали на огонь, потому что воды не было. Из толпы зевак вышел мужчина, взял пал­ку и стал безжалостно бить стекла в окне.
 
-The bridge didn't have any butter or buns, but there was a fire. The corner brick house burned quietly and lazily, set on fire by a shell flying through the window. The fence has already been dumped right on the flowers growing outside the house, stomped on them. Two women and a girl dug the ground with spades and threw them on the fire because there was no water. A man came out of the crowd of yawns, took a stick and began to ruthlessly break the glass in the window.
-
+The bridge didn't have any butter or rolls, but there was a fire. The brick house on the corner burned quietly and lazily, set alight by a shell flying through its window. The fence had already been piled right onto the house, and the flowers growing around the house were stomped on. Two women and a girl used spades to dig up the ground and threw the dirt on the fire because there was no water. A man emerged out of the crowd of gawkers, grabbed a stick and began to ruthlessly smash the glass in the window.
 
 Немец спрыгнул с машины, прицелился фотоап­паратом, приседал и выгибался, снимая пожар круп­ным и общим планом.
 
-The German jumped off the car, aimed his camera, sat down and bent out, shooting the fire close-up and in general.
-
+A German jumped off his vehicle, took aim with his camera, squatted down, and took both close-up and wide-angled photos of the fire.
 
 Мужчина полез в окно и стал подавать женщинам стулья, ящики с бельем из шкафа, вышвыривал пальто и платья, и все его хвалили, и я тоже поду­мал: какой молодец!
 
-The man climbed out of the window and started serving women chairs, drawers of laundry from the closet, throwing coats and dresses out, and everybody was praising him, and I also thought: what a good boy!
-
+The man who'd smashed the window climbed out of it and started handing chairs to assembled women, throwing out coats and dresses and boxes of linens from the closet. Everybody praised him and even I thought: what a great guy!
 
 Войска продолжали тучей валить из-под моста. Ярко светило солнце, не было никакой пальбы — только рев моторов, грохот колес, голоса, смех. Пос­ле долгого сидения в яме я совсем одурел от всего этого; пошатываясь, побрел домой отчитываться.
 
-Troops kept coming out of under the bridge. The sun was shining brightly, there was no shooting - just the roar of engines, the rumbling of wheels, the voices, the laughter. After sitting in the pit for a long time, I was completely fooled by all this; staggering, I shaved home to report back.
+Troops kept coming out from under the bridge. The sun shone brightly, and there was no shooting &mdash; just the roar of engines, the rumbling of wheels, the voices, the laughter. After sitting in the trench for such a long time, I was completely amazed by all this; staggering, I went home to report back.
 
 
 А у нас во дворе стоял серо-зеленый солдат с ружьем через плечо и с веревкой в руках — прос­тецкий такой, с белесыми ресницами и красным лбом, равнодушно поглядывал по сторонам, а дед, жестикулируя, приглашал его в сарай:
 
-And in our yard there was a grey-green soldier with a gun over his shoulder and a rope in his hands - a simple one with white eyelashes and a red forehead, indifferently looking around, and his grandfather, gesticulating, invited him to the barn:
-
+And in our yard there was a soldier in gray-green with a gun slung over his shoulder and a rope in his hands. A simple man with white eyelashes and a red forehead, indifferently looking around. My grandfather, gesticulating, invited him to the barn:
 
 — Тут ниц, ниц, ниц, а там, может быть, ист! Надо посмотреть, битте. Солдат неохотно поплелся в сарайчик.
 
-- There's a nitz, nitz, nitz, nitz, and there's probably an ist! Let's see, bitte. The soldier was reluctant to go to the barn.
+"There, nichts, nichts, nichts, and there, maybe, ist! Need to look, bitte."
 
+The soldier reluctantly trudged to the barn.
 
 — Они пленных ищут, — сказала мне бабка с крыльца.
 
-- They're looking for prisoners," said my grandmother on the porch.
-
+"They're looking for prisoners," said my grandmother from the porch.
 
 В сарае был люк в погребок. Солдат стал показы­вать руками:
 
 There was a cellar hatch in the barn. The soldier began to show his hands:
 
-
-— Шпицки, пшицки.
-
-- Spitzky, bird.
-
+"Matshes, mastches."
 
 Дали ему спички. Он зажег и осторожно заглянул в дыру.
 
-Gave him matches. He lit it up and looked carefully into the hole.
-
+We gave him some matches. He lit one up and looked carefully into the hole.
 
 — Партизан! — громко и иронически сказала бабка.
 
-- Partisan! - loudly and ironically, Grandma said.
-
+"Partisan!" Grandma shouted, loudly and ironically.
 
 Солдат отпрыгнул, как ужаленный, вертя голо­вой и подозрительно глядя на всех нас.
 
-The soldier jumped like a stinger, spinning his head and looking suspiciously at all of us.
-
+The soldier jumped like he'd been stung, spinning his head around and looking suspiciously us all.
 
 — Я смеюсь, — сказала бабка, — иди, иди, не бой­ся. Нет партизан.
 
-- I laugh," said Grandma, "go, go, don't be afraid. No guerrillas.
-
+"I'm joking," said Grandma. "Go, go, don't be afraid. No partisans."
 
 Но солдат что-то недовольно сказал, в погреб лезть не захотел, а строго показал деду на красный домовый флаг, который мы по праздникам должны были вывешивать на воротах.
 
-But the soldier said something dissatisfied, did not want to get into the cellar, but strictly showed his grandfather on the red house flag, which we were to hang on the gate on holidays.
+But the soldier grumbled in displeasure and said he didn't want to go into the cellar, but instead pointed out the red house flag we hung for holidays to Grandfather.
 
-
-— Это.
-
-- That's it. (Laughs)
-
+"That."
 
 — Да, да, — засуетился дед, взял флаг и оторвал от древка. — Марфа, скорей кинь в печку. А палка хорошая, на метлу пойдет.
 
-- Yeah, yeah," Grandpa rolled up, took the flag and took it off the shaft. - Martha, hurry up and throw it in the oven. It's a good stick, it'll go on a broom.
-
+"Yes, yes," Grandpa went over, grabbed the flag and tore it off the shaft. "Marfa, hurry up and throw it in the oven. It's a good stick, it'll go on a broom."
 
 Пришел другой солдат, тоже с веревкой, возбуж­денно кликнул первого, и они побежали. Бабка по­манила меня в сени.
 
-Another soldier came, also with a rope, excitedly clicked the first one, and they ran. Grandma lured me into the hay.
-
+Another soldier &mdash; also carrying a rope &mdash; showed up, excitedly called over to the first one, and they ran off together. Grandma lured me into the house and handed me the flag.
 
 — На, полезь на чердак, засунь там, в газету ка­кую-нибудь заверни.
 
-- Here, get in the attic, put some wrapping in the paper.
-
+"Here, wrap this in newspaper and hide it in the loft."
 
 — Да на что он, бабка?
 
-- What's he doing, Grandma?
-
+"What for, Grandma?"
 
 — Никто ничего не знает, сынок... Да и у немцев вон красные флаги, велят цеплять — опять новую материю покупай. Делай, сынок, как я говорю.
 
-- Nobody knows anything, son... And the Germans have red flags, they tell you to pick up - buy new matter again. Do it, son, as I say.
-
+"Nobody knows anything, son. And the Germans have red flags, too, and they'll tell us to put them up and we'll have to buy a new one again. Do as I say, son."
 
 Я понял. Полез на чердак, пробрался по-пластунски в дальний угол, затискал сверток под балку, а когда, наевшись паутины, спустился, бабка стояла в воротах с Еленой Павловной и звала:
 
-I get it. I climbed into the attic, sneaked into the far corner, squeezed a bundle under the beam, and when, having eaten the web, I went down, my grandmother stood in the gate with Elena Pavlovna and called:
-
+I got it. I climbed into the loft, snuck into the far corner, shoved the bundle under the beam, and when, after having eaten a cobweb, I went back down, my grandmother stood at the gate with Elena Pavlovna and called:
 
 — Старый! Иди быстро, партизана ведут.
 
-- It's old! Go quickly, the guerrillas are leading.
-
+"Old man! Come quickly, the partisans are caught!"
 
 Наш краснолобый солдат вел по улице здоровен­ного грязного кабана, захлестнув его веревкой по­перек туловища, другой подгонял хворостиной, и вокруг шли еще другие солдаты кучкой, удовлетво­ренно голготали.
 
-Our red-headed soldier led a huge dirty wild boar down the street, overflowing it with rope across the torso, the other one drove in a twig, and there were a bunch of other soldiers walking around, satisfied with their nudity.
-
+Our red-skinned soldier led a huge dirty wild boar down the street, pulling it by a rope looped around its belly, while another soldier drove it forward with a twig. A bunch of other soldiers walked around them, self-satisfied.
 
 Делая большие глаза и ахая, Елена Павловна рас­сказывала, что солдаты совсем не пленных ищут, а... грабят. И у Каминских взяли кабана, и кожухи тащат, а у нее заглядывали в шкаф, под кровать, сняли с подушек наволочки и зачем-то полотенце с гвоздика. Сосед не хотел отдать кабана, так они ос­тавили расписку, сказав: «Официр плати». Нам, вы­ходит, повезло, если ничего не взяли, может, оттого, что дед немецкие слова говорил, они постеснялись.
 
-Making big eyes and ahai, Elena Pavlovna told that soldiers are not looking for prisoners, but... are being robbed. And the Kaminskys took a wild boar, and the housings dragged, and she had a look in the closet, under the bed, removed from the pillowcases and for some reason a towel from the carnation. Neighbor didn't want to give up the boar, so they left a receipt saying: "Waitress pay." We were lucky if we didn't take anything, maybe because grandfather said German words, they were shy.
+Eyes wide and moaning, Elena Pavlovna said that soldiers weren't looking for prisoners at all...they were looting. They took the Kaminskys' wild boar, and the housings dragged, and she had a look in the closet, under the bed, removed from the pillowcases and for some reason a towel from the carnation. Neighbor didn't want to give up the boar, so they left a receipt saying: "Waitress pay." We were lucky if we didn't take anything, maybe because grandfather said German words, they were shy.
 
 
 Дед озабоченно посмотрел вслед мужественной во­оруженной процессии с кабаном.
