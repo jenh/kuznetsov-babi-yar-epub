@@ -132,29 +132,29 @@ The Germans looked out of vehicles and walked down the street &mdash; clean-shav
 The largest, fiery red heavy-duty horses with straw-colored manes &mdash; the likes of which we had never seen before &mdash; slowly and importantly stepped with furry legs, harnessed in sixes. They pulled cannons as if they were toys. Our small Russian horses, exhausted and half-dead carrying our retreating Red Army would look like foals next to these giants.
 
 
-В ослепительных белых и черных лимузинах еха­ли, весело беседуя, офицеры в высоких картузах с серебром. У нас с Шуркой разбежались глаза и за­хватило дыхание. Мы отважились перебежать ули­цу. Тротуар быстро наполнялся, люди бежали со всех сторон, и все они, как и мы, смотрели на эту армаду потрясенно, начинали улыбаться немцам, в ответ и пробовать заговаривать с ними.
+В ослепительных белых и черных лимузинах еха­ли, весело беседуя, офицеры в высоких картузах с серебром. У нас с Шуркой разбежались глаза и за­хватило . Мы отважились перебежать ули­цу. Тротуар быстро наполнялся, люди бежали со всех сторон, и все они, как и мы, смотрели на эту армаду потрясенно, начинали улыбаться немцам, в ответ и пробовать заговаривать с ними.
 
-In the dazzling black and white limousines, officers with high silver and silver cartridges drove, having a fun conversation. Shurka and I had our eyes scattered and breathed. We dared to run across the street. The sidewalk filled quickly, people ran from all sides, and all of them, like us, looked at this armada shocked, began to smile at the Germans, in response and try to talk to them.
+In the dazzling black and white limousines, officers with tall hats with silver cords drove, having a fun conversation. Shurka and I had our eyes scattered and breathed. We dared to run across the street. The sidewalk filled quickly, people ran from all sides, and all of them, like us, looked at this armada shocked, began to smile at the Germans, in response and try to talk to them.
 
 
 А у немцев, почти у всех, были книжечки-разго­ворники, они листали их и кричали девушкам на тротуаре:
 
-And the Germans, almost all of them, had talking books, they looked through them and shouted to the girls on the sidewalk:
+And the Germans, almost all of them, had German-Russian translation books. They looked through them and shouted to the girls on the sidewalk:
 
 
 — Панэнка, дэвушка! Болшовик — конэц. Ук­райна !
 
-- Pananka, girl! Balshovik is the end of the line. It's stolen!
+"Young ladies, girls! Bolsheviks got the rope. Ukrana!"
 
 
 — Украина, — смеясь, поправили девушки.
 
-- Ukraine, - laughing, the girls corrected.
+"Ukraina," the girls laughingly corrected.
 
 
 — Йа, йа! У-край-ина! Ходит гулят шпацирен битте!
 
-- Ya, ya! Woo-krai-ina! There's a bitte's spatzirin on the loose!
+"Ya, ya! You-krai-ina! Come for a walk spazieren bitte!"
 
 
 Девчонки захихикали, смущаясь, и все вокруг по­смеивались и улыбались.
@@ -164,7 +164,7 @@ The girls giggled, embarrassed, and everyone laughed and smiled.
 
 От Бондарского переулка образовалось какое-то движение: видно было, как торжественно плывут головы, и вышла процессия стариков и старух.
 
-From Bondarsky lane some movement was formed: it was visible, how solemnly heads float, and there was a procession of old men and old women.
+From Bondarsky Lane some movement was formed: it was visible, how solemnly heads float, and there was a procession of old men and old women.
 
 
 Пе­редний старик, с полотенцем через плечо, нес на подносе круглый украинский хлеб с солонкой на нем. Толпа повалила на зрелище, затолкались.
