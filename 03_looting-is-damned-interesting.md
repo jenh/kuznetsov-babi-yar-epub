@@ -1,56 +1,42 @@
+## LOOTING IS DAMNED INTERESTING, BUT YOU MUST KNOW HOW TO DO IT
 
-## ГРАБИТЬ ЧЕРТОВСКИ ИНТЕРЕСНО, НО НУЖНО УМЕТЬ
+Сосед отправился с распиской в школу, где уже расположился штаб. Я немедленно увязался за ним, соображая: вот ему дадут немецкие деньги, а я попрошу их посмотреть.
 
-## LOOTING IS DAMNED INTERESTING, BUT YOU'VE GOT TO BE ABLE TO PULL IT OFF
-
-Сосед отправился с распиской в школу, где уже расположился штаб. Я немедленно увязался за ним, со- ображая: вот ему дадут немецкие деньги, а я попрошу их посмотреть.
+The neighbor took the receipt up to the school, where the Germans had already set up their headquarters. I immediately chased after him, thinking: they'll give him German money, and I will ask him to see it.
 
 У ворот я остался. Он там, во дворе, объяснялся, пошел в дверь. Потом я увидел, как он с грохотом вылетел из нее, нелепо взмахивая руками, солдаты закричали, защелкали за- творами, я испугался, что сейчас будут стрелять, и драпанул за угол.
 
+I waited at the gate of the school. He stood there, in the courtyard, explaining the situation as he walked up to the door. Then I saw him fly out of it with a crash, waving his arms ridiculously. The soldiers shouted and unbolted their rifles. I was afraid they'd shoot and ran around the corner.
+
 Через площадь все шли войска, но реже. А от базара бе- жали во все стороны, как тараканы, люди с набитыми мешка- ми, и лица у асех были жадно-дозбужденные. Поняв, что меня там явно не хватает, я кинулся к базару.
 
+The troops still marched through the area, but there were fewer than before. From the vicinity of the bazaar, people ran in all directions and scattered like cockroaches, loaded down with stuffed sacks, faces flushed with excitement. Realizing that I was clearly missing out, I rushed to the bazaar.
 
-Там грабили большой обуоной магазин. Витрина была
-вдребезги разбита, о нее, деловито пихаясь локтями,
-хрустя стеклами, лез.uu anobKu u memKu. Я ринулся за ни.Mu,
-успел уоидеть, как x6amarom коробки с бот! инками и кало-
-tuu-Боже мой, какое сказочное обро по тем временам! Но
-я пробился, полки onycrn ели, как ветром выметенные,
-а толпа забурлила а углу. Я замет!ался, прыгая на чужие
-спины, досадуя: ну 60m же, @orn же, прямо на глазах все хва-
-тают, а мне не доп януться. Друг у руга из рук рвали уже
-связки шнурков и коробочки ваксы.
-Тогда я сквозь витрину 6tInpbaz,1уд обратно на улицу,
-осматриваясь: нет ли другого, еще не разграбленного мага-
-зина? Эх, какая досада: пока я метался в обувном, рядом
-разбили хозяйственный мапазин и уже тащили оттуда банки
-с красками, связки лопат и замков.
-Я вбежал, заработал локтями, протискиваясь к прилавку,
-но видел только ноги, топчущие рассы панныи мел и замазку.
-Заметил, что мужики повалили в подсобку, полез, получил в
-дверях по голове, по зубам. От боли я озверел, разбежался и
-вклинился между двумя мужиками, меня сдавили так, что
-захрустели ребра, но прямо передо мной наконец был
-разломанный ящик.
-В нем, переложенные соломой, лежали новенькие
-керосиновые лампы, без стекол. Я дотянулся, отталкивая чу-
-жие руки, схватил одну, другую-и ламп уже не стало
-Я дрожал, я понимал, что эта моя добыча-тьфу. Но
-магазин пустел, грабители бежали дальше. Я выбежал и
-чуть не заревел: разбили «Галантерею», а ведь она была еще
-целой, когда я сюда пришел. Кажется, грабили ее одни бабы
-визжали, и магазинчик, казалось, ходуном ходил.
-Тут уж я, как звереныш, извиваясь, пробился туда и схва-
-тил с полки коробку. Бабы ее у меня потянули, но я уцепился,
-как кот за мясо, из меня вытряхивали душу, коробка
-треснула, из нее посыпались простые черные пуговицы для
-пальто. Десятки рук стали загребать эти пуговицы, и я то-
-же бешено загребал и насыпал их в карманы, потому что у
-меня все-паки было больше прав на них, чем у других.
-Заметил, что под ногами катаются одежные щетки, стал
-их ловить, выудил штук пять, но выронил одну лампу, ко-
-торую у меня прямо из-под носа тут же схватила какая-то
-подлая баба
+Там грабили большой обувной магазин. Витрина была вдребезги разбита, в нее, деловито пихаясь локтями, хрустя стеклами, лезли дядьки и тетки. Я ринулся за ними, успел увидеть, как хватают коробки с ботинками кало- ши-Боже мой, какое сказочное добро по тем временам! Но пока я пробился, полки опустели, как ветром выметенные, а толпа забурлила в углу. Я замеппался, прыгая на чужие спины, досадуя: ну вот же, вот же, прямо на глазах все хва- тают, а мне не дотянуться. Друг у друга из рук рвали уже связки шнурков и коробочки ваксы.
+
+People were robbing a large shoe shop. They'd smashed the showcase window, people buzzed around it, busily elbowing each other, crunching the glass underfoot, adults climbing all over each other. I rushed after them and managed to see how they grabbed boxes with boots and shoes. My God, what fabulous goods they were for the time! But while I made my way, the shelves emptied, as if they were swept by the wind and the crowd seethed in a corner. I noticed! Alia, jumping on other people's backs, annoyed: well, 60m, @orn, everyone is right in front of my eyes, but I can’t think it is. A friend of the ruga was already tearing bundles of laces and boxes of vacuums from her hands.
+
+Тог а я сквозь випприну выпрыгнул обратно на улицу, осматриваясь: нет ли другого, еще не разграбленного мага- зина? Эх, какая досада: пока я метался в обувном, рядом разбили хозяйственный магазин и уже тащили оттуда банки с красками, связки лопат и замков.
+
+Then I am through the 6tInpbaz showcase, 1ud back to the street, looking around: is there another, not yet looted store? Oh, what a shame: while I was tossed about in a shoe, the economic mapazin was broken next to it and they were already dragging paint cans, bundles of shovels and locks from there.
+
+Я вбежал, заработал локтями, протискиваясь к прилавку, но видел только ноги, топчущие рассыпанный мел и замазку. Заметил, что мужики повалили в подсобку, полез, получил в дверях по голове, по зубам. On боли я озере, разбежался и вклинился между двумя мужиками, меня сдавили так, что захрустели ребра, но прямо передо мной наконец был разломанный ящик.
+
+I ran in, I earned my elbows, squeezing to the counter, but I saw only the feet trampling the pannyi and chalk putty races. I noticed that the men knocked into the back room, climbed, got in the door on the head, in the teeth. From the pain, I was brutalized, I fled and wedged between two men, they squeezed me so that my ribs crunched, but right in front of me was a broken box.
+
+В нем, переложенные соломой, лежали новенькие керосиновые лампы, без стекол. Я дотянулся, отталкивая чу жие руки, схватил одну, другую-и ламп уже не стало.
+
+The new kerosene lamps, without glasses, lay in it, placed in the straw. I reached out, pushing away alien hands, grabbed one, the other — and the lamps were gone.
+
+Я дрожал, я понимал, что эта моя добыча-тьфу. Но магазин пустел, грабители бежали дальше. Я выбежал и чуть не заревел: разбили «Галантерею», а ведь она была еще целой, когда я сюда пришел. Кажется, грабили ее одни бабы визжали, и магазинчик, казалось, ходуном ходил.
+
+I was trembling, I realized that this is my booty-pah. But the store was empty, the robbers ran on. I ran out and almost roared: they broke “Haberdashery”, and she was still whole when I came here. It seems they were robbed by some women squealing, and the shop seemed to be going with a shake.
+
+Тут уж я, как звереныш, извиваясь, пробился туда и схва- тил с полки коробку. Бабы ее у меня потянули, но я уцепился, как кот за мясо, из меня вытряхивали душу, коробка треснула, из нее посыпались простые черные пуговицы для пальто. Десятки рук стали загребать эти пуговицы, и я то- же бешено загребал и насыпал их в карманы, потому что у меня все-паки было больше прав на них, чем у других.
+
+At this point I, like a young one, squirming, made my way there and grabbed a box from the shelf. The women pulled it from me, but I clung like a cat to meat, they shook my soul out of me, the box cracked, and simple black buttons for a coat fell from it. Dozens of hands began to rake these buttons, and I also frantically raked and poured them into my pockets, because I had all the rights to them all than others.
+
+I noticed that clothes brushes rolled under my feet, began to catch them, fished out five pieces, but dropped one lamp, which I immediately grabbed from under my nose some vile woman
 
 Измолоченный, покачиваясь, я вышел наружу, увидел, как из продовольственного волокут мешки с солью, но, пока я добежал, там остались лишь бумага да пустые ящики.
 

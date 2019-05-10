@@ -74,8 +74,6 @@ But while these pages roamed through the bureaucracy, foreign translations were 
 
 Then I took them to the Young Guard for publishing; These were the chapters "Profession: Arsonists", "Shards of the Empire", "Million rubles" (but again heavily cut), and a few pieces of other chapters. The publishing house didn't want to embed them for a long time. I argued: "Even abroad, they allow them," and they objected: "It may be allowed abroad, but that doesn't mean it's allowed in the USSR." Then they decided to insert them after all, but only if I softened the novel in other places and added ideologically seasoned paragraphs "for balance," the content of which the editors literally dictated to me.
 
-Чтобы спасти кни­гу в целом, я дописывал. Иногда читаешь хорошую книгу советского писателя — и вдруг натыкаешься на места, такие безвкусные, «идейные», что плюнуть хочется. Автор их дописывал, отлично зная, что они вызовут только недоумение и презрение читателя, но далеко не все читатели знают, что только такой ценой могло выйти в свет произведение. Особенно ярко это проявляется в книгах стихов. Они должны открываться стихами дежурно-идейными, которыми автор зарабатывает право поместить дальше уже и подлинную поэзию. Поэтому многие читатели начи­нают читать сборники стихов с конца, т. е. с луч­шего.
-
 To save the book as a whole, I finished writing. Sometimes you read a good book of the Soviet writer &mdash; and suddenly you stumble into places that are so tasteless, so "ideological," that you want to spit. The author has written them, knowing perfectly well that they will cause only bewilderment and contempt in the reader, but not all readers know that only having paid such a price could the work come into the light. This is especially evident in books of poetry. They open with the verses of the duty &mdash; ideological, with which the author then earns the right to follow with genuine poetry. Therefore many readers begin to read collections of verses from the end, i.e., from the best.
 
 I always had to fight for every phrase, to bargain, to finish the idea. In the USSR, with its Jesuit publishing business, everything is confusing, difficult, any book is overgrown with layers and gaping with censorship holes. Publish in the magazine as much as you can, then in a separate book slowly add something, and in re-publication, add still a little more, but suddenly the situation changes, and what easily passed through in the past is today a terrible sedition, and vice versa.
@@ -103,7 +101,7 @@ The next challenge. Due to censorship cuts, sometimes logic required binding wor
 Restoring the text, I removed these edits, and at the same time, I made stylistic improvements of the *Yunost* text here and there. So if someone with a magazine in his hand checks the text letter by letter, he will find small discrepancies in some places, but do not reflect on the meaning at all. I think it would be too cumbersome to mark them. The main task I set for myself was to show really serious and fundamental censorship interference.
 
 
-The differences in this publication are as follows:
+The differences in this publication are as follows: ^[For ease of reading, the formatting the author describes is not included in this translation.]
 
 The usual font &mdash; this was published by the magazine *Yunost* in 1966.
 
@@ -113,4 +111,5 @@ The brackets [] are additions made in 1967-60.
 
 
 - Author
-London, 1970 G.
+
+London, 1970

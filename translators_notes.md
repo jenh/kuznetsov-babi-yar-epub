@@ -22,6 +22,8 @@ Mort Yao
 lib.ru
 Nina & Leon Dotan
 
+There was an entire section missing from the Dotan OCR. To resolve, I was able to locate a PDF of the book in Russian, then OCRed and translated the missing sections. Tried a bunch of apps - but best one was Govarthani Rajesh - Text Scanner (OCR)
+
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 David Floyd, the original translator, with whom Kuznetsov immediately contacted for help when he escaped from his escort in London...was revealed as a Soviet spy! According to this, passed information from 1944-1947 when he worked in Moscow as a diplomat. He fully confessed and later went to work with the Telegraph.
