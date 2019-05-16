@@ -22,39 +22,39 @@ Then I jumped through the window and back onto the street, looking around: Is th
 
 Я вбежал, заработал локтями, протискиваясь к прилавку, но видел только ноги, топчущие рассыпанный мел и замазку. Заметил, что мужики повалили в подсобку, полез, получил в дверях по голове, по зубам. On боли я озере, разбежался и вклинился между двумя мужиками, меня сдавили так, что захрустели ребра, но прямо передо мной наконец был разломанный ящик.
 
-I ran in, got down on my elbows, and squeezed up to the counter, but all I saw were legs and feet trampling over scattered chalk and putty. I noticed the men knocking to get into the back room and climbed over, got in through the door on my head, in the teeth. From the pain, I was brutalized, I fled and wedged between two men, they squeezed me so that my ribs crunched, but right in front of me was a broken box.
+I ran in, working my elbows, and squeezed up to the counter, but all I saw were legs and feet trampling over scattered chalk and putty. I noticed the men knocking to get into the back room and climbed over, got in through the door and got hit on my head, in the teeth. I was brutalized from the pain and fled, wedging myself between two men who squeezed me so tightly that my ribs crunched...but there, right in front of me, appeared a broken box.
 
 В нем, переложенные соломой, лежали новенькие керосиновые лампы, без стекол. Я дотянулся, отталкивая чу жие руки, схватил одну, другую-и ламп уже не стало.
 
-A new kerosene lamp, without glass, lay in it, placed in the straw. I reached out, pushing away alien hands, grabbed one, the other — and the lamps were gone.
+A new kerosene lamp, without its glass covering, lay in the box, cradled in straw. I reached out, pushing away alien hands, and grabbed one, then another &emdash; and then the rest of the lamps were gone.
 
 Я дрожал, я понимал, что эта моя добыча-тьфу. Но магазин пустел, грабители бежали дальше. Я выбежал и чуть не заревел: разбили «Галантерею», а ведь она была еще целой, когда я сюда пришел. Кажется, грабили ее одни бабы визжали, и магазинчик, казалось, ходуном ходил.
 
-I was trembling, I realized that this is my booty-pah. But the store was empty, the robbers ran on. I ran out and almost roared: they broke “Haberdashery”, and she was still whole when I came here. It seems they were robbed by some women squealing, and the shop seemed to be going with a shake.
+I trembled, realizing that this was the sum of my loot. But the store was empty, and the robbers ran on. I ran out and almost roared: they'd already broken into the haberdashery, and it was still whole when I arrived. It seems it was robbed by squealing women, and the shop appeared to be quaking.
 
 Тут уж я, как звереныш, извиваясь, пробился туда и схва- тил с полки коробку. Бабы ее у меня потянули, но я уцепился, как кот за мясо, из меня вытряхивали душу, коробка треснула, из нее посыпались простые черные пуговицы для пальто. Десятки рук стали загребать эти пуговицы, и я то- же бешено загребал и насыпал их в карманы, потому что у меня все-паки было больше прав на них, чем у других.
 
-At this point I, like a young one, squirming, made my way there and grabbed a box from the shelf. The women pulled it from me, but I clung like a cat to meat, they shook my soul out of me, the box cracked, and simple black buttons for a coat fell from it. Dozens of hands began to rake these buttons, and I also frantically raked and poured them into my pockets, because I had all the rights to them all than others.
+At this point I, like a young one, squirming, made my way there and grabbed a box from the shelf. The women pulled it from me, but I clung like a cat to meat, they shook my soul out of me, the wooden box cracked, and simple black coat buttons fell from it. Dozens of hands began to rake through these buttons, and I also frantically raked and poured them into my pockets, because I had more the rights to them all than the others.
 
-I noticed that clothes brushes rolled under my feet, began to catch them, fished out five pieces, but dropped one lamp, which I immediately grabbed from under my nose some vile woman
+I noticed clothes brushes rolling under my feet and began to grab at them, fishing out five pieces. But in the process, I dropped one lamp, which was immediately grabbed out from under my nose by some vile woman.
 
 Измолоченный, покачиваясь, я вышел наружу, увидел, как из продовольственного волокут мешки с солью, но, пока я добежал, там остались лишь бумага да пустые ящики.
 
-Crushed, I swayed, and went outside, where I caught sight of bags of salt being dragged out, but when I got closer, there was only paper and empty crates left.
+Crushed, I swayed, and went outside, where I caught sight of bags of salt being dragged out of a store, but when I got closer, there was only paper and empty crates left.
 
 Я готов был зарыдать, я сроду не был жадным, был у бабушки таким воспитанным, вежливеньким внучком, и вдруг этот грабеж захватил меня, как горячая лавина, у меня горло сдавило от жадности и азарта.
 
-I was ready to cry, I'd never been greedy, my grandmother was so well-mannered and I was such a polite grandson, but suddenly this robbery seized me like a hot avalanche, my throat squeezed with greed and excitement.
+I was ready to cry, I'd never been greedy, my grandmother taught me to be so well-mannered and such a polite grandson, but suddenly this robbery seized me like a hot avalanche, and my throat squeezed with greed and excitement.
 
 
 И, главное, я понимал, что это был неповторимый, редчайший случай — так богато, так великолепно, так безнаказанно пограбить. А я все пропустил, опоздал на какую-то малость!.. Что значит отсутст­вие опыта. «Ну, ладно же, — подумал я, утешая сам себя. — Зато уже в следующий раз...» А когда же он будет, этот следующий раз?..
 
-And, most importantly, I understood that it was a unique, rare case - so rich, so magnificent, so unpunished to rob. I missed it, I was a little late... Which means lack of experience. "Well, okay," I thought, comforting myself. - But the next time..." And when will he be, this next time?
+And, most importantly, I understood that this was a unique, rare case &emdash; so rich, so magnificent, robbing was so unpunishable. I missed the opportunity, I was a little late...due to a lack of experience. "Well, okay," I thought, comforting myself. "But next time..." But when would there be a next time?
 
 
 Собрал с горя по прилавкам гири от весов и понес все добро домой.
 
-Got the weight off the scales and carried it all home.
+Overcome with the heavy weight of grief, I carried the loot home.
 
 
 Из окон, из ворот выглядывали люди. Сосед Па­вел Сочава на всю улицу иронически сказал:
@@ -64,17 +64,17 @@ From the windows, people looked out of the gate. Pavel Sochava's neighbor said i
 
 — А вот и Толя награбил. Иди скажи своей мате­ри, чтобы она тебя выпорола.
 
-- Here comes Tolya. Go tell your mother to whip you up.
+"Here comes Tolya. Go tell your mother to whip you!"
 
 
 Меня словно окатили холодной водой. Я так гор­до нес свою лампу и щетки, а тут поскорее юркнул во двор, выгрузил в сенях добычу... Мама ахнула:
 
-I feel like I've been poured cold water. I was so proud to carry my lamp and brushes, and then I yanked into the yard, unloaded the prey in the hay... Mom ahnullah:
+I felt like cold water had been poured over me. I was so proud carrying my lamp and brushes, and then I yanked into the yard, unloaded the prey in the hay...and Mom asked:
 
 
 — Это что еще такое?
 
-- What the hell is this?
+"What the hell is this?"
 
 
 Бабка посмотрела, качнула головой:
@@ -84,12 +84,14 @@ Grandma looked at it, shook her head:
 
 — Или у нас лампы нет, сынок? Зато дед меня понял и похвалил:
 
-- Or don't we have a lamp, son? But my grandfather understood me and praised me:
+"But don't we have a lamp, son?"
+
+But my grandfather understood me and praised me:
 
 
 — А вот и пусть! Молодец! Большевики сами у народа все ограбили да втридорога же и продавали, это наше. Ах, я не знал, прозевал, ах, прозевал!
 
-- Here we go! Well done! The Bolsheviks themselves robbed the people and sold it to them, it's ours. Oh, I didn't know, I missed, ah, I missed!
+"Here we go! Well done! The Bolsheviks themselves robbed our people and sold it back to us, it's ours. Oh, I didn't know, I missed it, ah, I missed it!"
 
 
 Шатковский вон пол-«Гастронома» вынес, бочку с подсолнечным маслом прикатил. Какой был слу­чай! А тут только нас грабят.
