@@ -52,3 +52,5 @@ https://www.quora.com/Russian-language-What-does-%D0%AD%D1%82%D0%BE-%D0%BD%D0%B5
 https://www.wordhippo.com/what-is/the-meaning-of/russian-word-d1b5bed41d260772c810180eaff54bcfad25d056.html
 
 зафасонил - overstyled? za in this case may mean over? faconil - styled, fashioned, shaped. Using preening.
+
+Kuznetsov started documenting when he was 14, but he wrote the book itself in the summer of 1965 -- while the Soviet government was bulldozing the site in order to build a new stadium and amusement park.

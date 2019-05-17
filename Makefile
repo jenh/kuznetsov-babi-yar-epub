@@ -4,6 +4,7 @@ BY_FILES=\
 	author_forward.md\
 	01_ashes.md\
 	02_soviet-power-is-over.md\
+	03_looting-is-damned-interesting.md\
 	translators_notes.md\
 
 epub/by.epub: title.txt $(BY_FILES)
