@@ -51,7 +51,7 @@ We walked and saw a ragged old man carrying a bag moving from one side of the ra
 
 The grandfather stopped, looked me up and down and said:
 
-"And how many Russians do you suppose were killed, and Ukrainians, and of all nations?"
+"And how many Russians do you suppose were killed, and Ukrainians, and people of all nations?"
 
 And he was gone.
 
@@ -83,8 +83,8 @@ We walked around and found a lot of whole bones, a fresh, still-raw skull and mo
 
 I picked up one piece that weighed two kilograms. I took it with me and saved it. This is ash from many people, all mixed up &mdash; International ash, so to speak.
 
-Then I decided to write it all down from the very beginning, as it was, without missing or fictionalizing anything.
+I then decided to write it all down from the very beginning, as it was, without missing or fictionalizing anything.
 
-I'm doing this because I know I have to do it. Because, as it says in *Tille Ulenspiegel,*^[https://en.wikipedia.org/wiki/Till_Eulenspiegel] Klaas' ashes pound in my heart.
+I'm doing this because I know I have to do it. Because, as it says in *Tille Ulenspiegel,*^[https://en.wikipedia.org/wiki/Till_Eulenspiegel] the ashes of Klaas pound in my heart.
 
 Thus, the word "document" in the subtitle of this novel means that here I am sharing only true facts and documents, and that the slightest literary speculation &mdash; that is, how it "could be" or "should have been" &mdash; is not here.
