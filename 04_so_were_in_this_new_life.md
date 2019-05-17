@@ -13,124 +13,114 @@
 
 Газета «Украинское слово» к моменту взятия нем­цами Киева вышла пятнадцатым номером, печата­ясь сперва в Житомире. Ее не то продавали, не то раздавали на улицах торжествующие энтузиасты, это дед ее добыл, как святыню принес и жадно хо­тел читать.
 
-By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It was not sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the house like a sacred relic. He eagerly wanted to read it.
+By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the house like a sacred relic. He eagerly wanted to read it.
 
 Но в чтении мелкого шрифта, да еще на дрянной, словно оберточной бумаге, он не был силен и перепоручил это дело мне, сам же слушал, философски осмысляя.
 
-But he was not strong enough to read small print, and even on crappy, like wrapping paper, and he entrusted this case to me, listening to me, philosophically comprehending it.
-
-
-
-
+But he wasn't able to read its small print, small even though the paper was as flimsy as wrapping paper, so he entrusted the job to me, and, listening philosophically, he listened to me read it.
 
 Привожу только заголовки из этой газеты:
 
-I only bring headlines from this paper:
-
+I'll only share headlines from this paper:
 
 КИЕВ В РУКАХ НЕМЕЦКИХ ВОЙСК ПОЛТАВА ЗАНЯТА
 
-> KIEV IN THE HANDS OF GERMAN TROOPS POLTAVA IS BUSY
+  > KIEV IN THE HANDS OF GERMAN TROOPS POLTAVA IS OCCUPIED
 
 
 ВЫДАЮЩИЕСЯ УСПЕХИ ПОД ЛЕНИНГРАДОМ
 
-> OUTSTANDING ACHIEVEMENTS UNDER LENINGRAD
+> OUTSTANDING ACHIEVEMENTS SOUTH OF LENINGRAD
 
 
 ЗАНЯТИЕ ДАЛЬНЕЙШИХ ТЕРРИТОРИЙ ПОД ЛЕНИНГРАДОМ
 
-> OCCUPATION OF FURTHER TERRITORIES UNDER LENINGRAD
+> OCCUPATION OF FURTHER TERRITORIES SOUTH OF LENINGRAD
 
+100.000 КГР. БОМБ СБРОШЕНО НА ПОРТ ОДЕССЫ 	
 
-100.000 КГР. БОМБ СБРОШЕНО НА ПОРТ ОДЕССЫ 	ГИГАНТСКИЕ ДОСТИЖЕНИЯ НЕМЕЦКИХ ВОЙСК В БОЯХ НА ПЛАЦДАРМЕ НИЖНЕ­ГО ТЕЧЕНИЯ ДНЕПРА
+> KGR 100 DROPPED BOMB ON PORT OF ODESSA
 
-100,000 КГР. ОДЕССЫ ТЕЧЕНИЯ БОЯХ БОЯХ СБРОШЕНО БОЯХ ПОРТ БОМБ ПОРТ НИЖНЕГО ПЛАЦДАРМЕ ПЛАЦДАРМЕ ГИГАНТСКИЕ НА БОМБ ТЕЧЕНИЯ НА СБРОШЕНО БОЯХ
+ГИГАНТСКИЕ ДОСТИЖЕНИЯ НЕМЕЦКИХ ВОЙСК В БОЯХ НА ПЛАЦДАРМЕ НИЖНЕ­ГО ТЕЧЕНИЯ ДНЕПРА
 
+> GIGANTIC ACHIEVEMENTS BY THE GERMAN TROOPS FIGHTING AT THE BEACHHEAD OF THE LOWER DNIEPER RIVER
 
 БОРЬБА УКРАИНСКОГО НАРОДА
 
-UKRAINIAN PEOPLE'S STRUGGLE
-
+> THE STRUGGLE OF THE UKRAINIAN PEOPLE
 
 РОСТ ИСКУССТВА В ЖИТОМИРЕ
 
-ART GROWTH IN THE ZHYTOMYR
-
+> GROWTH OF THE ARTS IN ZHYTOMYR
 
 ВОЗРОЖДЕНИЕ ЦЕРКВИ НА ХОЛМЩИНЕ «КИЕВУ», стихотворение Якова Нагорного.
 
-Birth of the Church in Kiev, a poem by Yakov Nagorny.
+> REVIVAL OF THE CHURCH IN THE KHOLM REGION OF KIEV, A POEM BY YAKOV NAGORNY
 
 
 ...Здесь я сделаю традиционное отступление и хо­тя бы самым беглым образом расскажу о нашей маленькой семье: кто мы были, какие и почему.
 
-...Here I'll make a traditional retreat and at least briefly tell you about our little family: who we were, what we were, and why.
+...Here I'll backtrack a little bit and at least briefly tell you about our little family: who we were, what we were, and why.
 
 
 Сам я терпеть не могу в книгах подобные отступ­ления, пропускаю их, и если вам мое отступление покажется неинтересным, вы тоже смело пропус­кайте его, потому что главное в этой книге — го­раздо дальше.
 
-I can't stand such retreats in books myself, I skip them, and if you find my retreat uninteresting, you can skip it too, because the main thing in this book is much further.
-
+I can't stand such retreats in books myself, I skip them, and if you find my backtracking uninteresting, you can skip it too, because the main thing in this book is much further.
 
 Но если вам интересно, как человек мечтает о Гитлере, прочтите хотя бы про моего деда.
 
 But if you're wondering how a man dreams of Hitler, at least read about my grandfather.
 
-
 СЕМЕРИК Федор Власович, мой дед, ненавидел советскую власть всей своей душой и страстно ждал немцев, как избавителей, полагая, что хуже советской власти уж ничего на свете быть не может.
 
 Fyodor Vlasovich, my grandfather, hated the Soviet power with all his soul and was eagerly waiting for the Germans as deliverers, believing that nothing could be worse than the Soviet power in the world.
 
-
 Нет, он отнюдь не был фашистом или монархис­том, националистом или троцкистом, красным или белым, он в этом вообще ни черта не смыслил.
 
-No, he was not a fascist or monarchist, nationalist or Trotskyite, red or white, he didn't know a damn thing about it.
+No, he was not a fascist or monarchist, nor a nationalist or Trotskyite, nor a red or white; he didn't know a damn thing about any of it.
 
 
 По происхождению он был из украинских кре­постных, крестьянин-бедняк. По социальному поло­жению — городской рабочий с долгим стажем. А по сути своей — самый простой, маленький, голод­ный, запуганный обыватель Страны Советов, кото­рая ему — мачеха.
 
-He was originally from the Ukrainian serfs, a poor peasant. In terms of social status, it's a long-serving city worker. In essence, he is the simplest, smallest, hungriest, most frightened and frightened citizen of the Country of Soviets, who is his stepmother.
+By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, it's like being a long-serving city worker. In essence, he was the simplest, smallest, hungriest, most frightened citizen of the Soviet State &emdash; his stepmother.
 
 
 Дед родился в 1870 году — в одном году с Лени­ным, но на этом общее между ними кончалось. Дед не мог слышать самого имени Ленина, хотя тот дав­но умер, как умерли или были перебиты многие ле­нинцы. Он считал, что именно от Ленина все беды, что тот «играл в Россию, как в рулетку, все проиг­рал и сдох».
 
-His grandfather was born in 1870 - in the same year as Lenin, but that was the end of the same thing between them. Grandfather could not hear the name of Lenin, although he died long ago, as many Leninists died or were killed. He believed that it was Lenin who was the cause of all the troubles, that he "played Russia like a roulette, lost everything and died.
+His grandfather was born in 1870 &emdash; in the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or were killed. He believed that it was Lenin who was the cause of all the troubles, that he "played Russia like a roulette wheel, lost everything and died."
 
 
 Когда он такое говорил, бабка в ужасе огляды­валась по сторонам и демонстративно восклицала во дворе:
 
-When he said such things, grandmother looked around in horror and shouted in the yard:
-
+When he said such things, Grandmother looked around in horror and shouted in the yard:
 
 — Перестань молоть, малахольный. Вот хорошие люди умирают, а ты, паразит, все живешь.
 
-- Stop the grinding, you little bastard. Good people are dying, and you, the parasite, are still alive.
+"Stop the griping, you little bastard. Good people are dying, and you, the parasite, are still alive."
 
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
 
-His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, in some desperate rural family with eleven children, who, according to him, lived in a dilapidated kurin.
+His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, in some desperate rural family with eleven children who, according to him, lived in dilapidated smoke.
 
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
 
-He spent his youth in prison with German colonists in the Kherson region, leaving his family behind forever. After serving in the soldiers, he went to Kiev to earn money, hang out in search of work, was a janitor at the general's house, married a laundress, went to the tram as a conductor and dreamed about his house and prosperity: so that one could eat and not think about tomorrow - that was the limit of his dreams.
+He spent his youth as a farmhand with German colonists in the Kherson region, leaving his family behind forever. After serving in the soldiers, he went to Kiev to earn money, hang out in search of work. He found work as a janitor at the general's house, married a laundress, and began working on the tram as a conductor, dreaming about his future house and prosperity: so that one could eat and not think about tomorrow &emdash; that was the limit of his dreams.
 
 
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
-They and their grandmothers were starving, getting cold, adding a penny to a penny, ruining their youth, but they finally bought a tiny piece of swamp on Kurenevka, drained it themselves, built a hut themselves for a long time - and then the revolution broke out.
+He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they finally bought a tiny piece of swamp on Kurenevka, drained it themselves, and spent a long time building a hut for themselves &emdash; and then the revolution broke out.
 
 
 Добра она не принесла, лишь новый голод, страх, — и начисто отняла мечту. Красивым словам боль­шевиков о земном рае в туманном будущем дед не верил. Он был практик.
 
-She didn't bring any good, just a new hunger, fear - and she took away her dream. His grandfather did not believe the Bolsheviks' beautiful words about earthly paradise in the foggy future. He was a practitioner.
-
+It didn't bring them any good, just a new hunger, fear &emdash; and completely took their dream away. Grandfather did not believe the Bolsheviks' beautiful words about earthly paradise in the foggy future. He was practical.
 
 Много лет затем дед работал на обувной фабрике № 4 слесарем-канализатором, в вонючей робе лазил с ключами по трубам, ранился у станка — уж такой рабочий класс, что дальше некуда. И все эти годы он не переставал ненавидеть власть «этих босяков и убийц» и «нет, не хозяев».
 
-For many years then my grandfather worked at shoe factory No. 4 as a plumber, climbed the pipes in a stinking robot with keys, and was injured at the machine - such a working class that there is nowhere else to go. And all these years, he has not ceased to hate the power of "these bosses and murderers" and "no, not the masters".
+For many years then my grandfather worked at shoe factory No. 4 as a plumber, climbed the pipes in a stinking robot with keys, and was injured at the machine &emdash; such a working class that there is nowhere else to go. And all these years, he has not ceased to hate the power of "these bosses and murderers" and "no, not the masters".
 
 
 Его, бывшего крестьянина, в окончательный ужас привела коллективизация с ее колхозами, вызвавшая невиданный голод. Строительство заво­дов, шумно расписываемые в те годы Днепрогэс, за­воевание Северного полюса там или неба — были деду решительно «до лампочки».
