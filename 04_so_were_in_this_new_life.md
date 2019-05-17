@@ -13,7 +13,7 @@
 
 Газета «Украинское слово» к моменту взятия нем­цами Киева вышла пятнадцатым номером, печата­ясь сперва в Житомире. Ее не то продавали, не то раздавали на улицах торжествующие энтузиасты, это дед ее добыл, как святыню принес и жадно хо­тел читать.
 
-By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It was not sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it in like a sacred relic and eagerly wanted to read it.
+By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It was not sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the house like a sacred relic. He eagerly wanted to read it.
 
 Но в чтении мелкого шрифта, да еще на дрянной, словно оберточной бумаге, он не был силен и перепоручил это дело мне, сам же слушал, философски осмысляя.
 
@@ -28,24 +28,19 @@ But he was not strong enough to read small print, and even on crappy, like wrapp
 I only bring headlines from this paper:
 
 
-
-
-
-
-
 КИЕВ В РУКАХ НЕМЕЦКИХ ВОЙСК ПОЛТАВА ЗАНЯТА
 
-KIEV IN THE HANDS OF GERMAN TROOPS POLTAVA IS BUSY
+> KIEV IN THE HANDS OF GERMAN TROOPS POLTAVA IS BUSY
 
 
 ВЫДАЮЩИЕСЯ УСПЕХИ ПОД ЛЕНИНГРАДОМ
 
-OUTSTANDING ACHIEVEMENTS UNDER LENINGRAD
+> OUTSTANDING ACHIEVEMENTS UNDER LENINGRAD
 
 
 ЗАНЯТИЕ ДАЛЬНЕЙШИХ ТЕРРИТОРИЙ ПОД ЛЕНИНГРАДОМ
 
-OCCUPATION OF FURTHER TERRITORIES UNDER LENINGRAD
+> OCCUPATION OF FURTHER TERRITORIES UNDER LENINGRAD
 
 
 100.000 КГР. БОМБ СБРОШЕНО НА ПОРТ ОДЕССЫ 	ГИГАНТСКИЕ ДОСТИЖЕНИЯ НЕМЕЦКИХ ВОЙСК В БОЯХ НА ПЛАЦДАРМЕ НИЖНЕ­ГО ТЕЧЕНИЯ ДНЕПРА
