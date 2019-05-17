@@ -1,7 +1,7 @@
 
 # Part I
 
-## SOVIET POWER IS OVER
+## Soviet Power is Over
 
 <p align="center">
   From the Soviet Informburo<br/>
