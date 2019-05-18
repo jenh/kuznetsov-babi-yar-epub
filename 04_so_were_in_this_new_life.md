@@ -55,7 +55,9 @@ I'll only share headlines from this paper:
 
 ВОЗРОЖДЕНИЕ ЦЕРКВИ НА ХОЛМЩИНЕ «КИЕВУ», стихотворение Якова Нагорного.
 
-> REVIVAL OF THE CHURCH IN THE KHOLM REGION OF KIEV, A POEM BY YAKOV NAGORNY
+> REVIVAL OF THE CHURCH IN THE KHOLM REGION
+
+> KIEV, A POEM BY YAKOV NAGORNY
 
 
 ...Здесь я сделаю традиционное отступление и хо­тя бы самым беглым образом расскажу о нашей маленькой семье: кто мы были, какие и почему.
@@ -96,12 +98,12 @@ When he said such things, Grandmother looked around in horror and shouted in the
 
 — Перестань молоть, малахольный. Вот хорошие люди умирают, а ты, паразит, все живешь.
 
-"Stop the griping, you little bastard. Good people are dying, and you, the parasite, are still alive."
+"Stop the griping, you little bastard. Good people are dying, and you, parasite, are still alive."
 
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
 
-His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, in some desperate rural family with eleven children who, according to him, lived in dilapidated smoke.
+His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, into some desperate rural family with eleven children who, according to him, lived in dilapidated smoke.
 
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
