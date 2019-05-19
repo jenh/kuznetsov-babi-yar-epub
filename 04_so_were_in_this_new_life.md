@@ -55,9 +55,7 @@ I'll only share headlines from this paper:
 
 ВОЗРОЖДЕНИЕ ЦЕРКВИ НА ХОЛМЩИНЕ «КИЕВУ», стихотворение Якова Нагорного.
 
-> REVIVAL OF THE CHURCH IN THE KHOLM REGION
-
-> KIEV, A POEM BY YAKOV NAGORNY
+> REVIVAL OF THE CHURCH IN THE KHOLM REGION OF KIEV, A POEM BY YAKOV NAGORNY
 
 
 ...Здесь я сделаю традиционное отступление и хо­тя бы самым беглым образом расскажу о нашей маленькой семье: кто мы были, какие и почему.
@@ -98,12 +96,12 @@ When he said such things, Grandmother looked around in horror and shouted in the
 
 — Перестань молоть, малахольный. Вот хорошие люди умирают, а ты, паразит, все живешь.
 
-"Stop the griping, you little bastard. Good people are dying, and you, parasite, are still alive."
+"Stop the griping, you little bastard. Good people are dying, and you, the parasite, are still alive."
 
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
 
-His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, into some desperate rural family with eleven children who, according to him, lived in dilapidated smoke.
+His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, in some desperate rural family with eleven children who, according to him, lived in dilapidated smoke.
 
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
@@ -118,16 +116,15 @@ He and Grandmother were starving, getting cold, adding a penny to a penny, and r
 
 Добра она не принесла, лишь новый голод, страх, — и начисто отняла мечту. Красивым словам боль­шевиков о земном рае в туманном будущем дед не верил. Он был практик.
 
-It didn't bring them any good, just a new hunger, fear &emdash; and completely took their dream away. Grandfather did not believe the Bolsheviks' beautiful words about earthly paradise in the foggy future. He was practical.
+It didn't bring them any good, just a new hunger, fear &emdash; and completely took their dream away. Grandfather didn't believe the Bolsheviks' beautiful words about earthly paradise in some foggy future. He was practical.
 
 Много лет затем дед работал на обувной фабрике № 4 слесарем-канализатором, в вонючей робе лазил с ключами по трубам, ранился у станка — уж такой рабочий класс, что дальше некуда. И все эти годы он не переставал ненавидеть власть «этих босяков и убийц» и «нет, не хозяев».
 
-For many years then my grandfather worked at shoe factory No. 4 as a plumber, climbed the pipes in a stinking robot with keys, and was injured at the machine &emdash; such a working class that there is nowhere else to go. And all these years, he has not ceased to hate the power of "these bosses and murderers" and "no, not the masters".
-
+As his last job, my grandfather's worked as a plumber in the sewers of Shoe Factory No. 4 for many years, where, in a stinking boilersuit, he carried keys while climbing through the factory's dirty pipes, and was ultimately wounded by the machine &emdash; and as he was working class, there was nowhere else for him to go. And for all these years, he has never stopped hating the power of "these bosses and murderers" and "no, not employers."
 
 Его, бывшего крестьянина, в окончательный ужас привела коллективизация с ее колхозами, вызвавшая невиданный голод. Строительство заво­дов, шумно расписываемые в те годы Днепрогэс, за­воевание Северного полюса там или неба — были деду решительно «до лампочки».
 
-His, a former peasant, was finally horrified by the collectivization of her collective farms, which caused an unprecedented famine. The construction of factories, noisily painted in those years by Dniproges, the conquest of the North Pole there or the sky - were resolutely "to the point of lightning".
+As a former peasant, he was finally horrified by the collectivization of our collective farms, which caused an unprecedented famine. The construction of factories, noisily enabled in those years by the Dnieper Hydroelectric Station, the conquest of the North Pole there or the sky - were resolutely "to the point of lightning".
 
 
 Северный полюс завоевали, зато когда дед с баб­кой завели, наконец, свою радужную мечту — ко­рову, ее нечем было кормить. Очереди за комбикор­мом были, как туча. Рядом с хатой, за железнодо­рожной насыпью огромный богатый луг пропадает, а пасти нельзя. Как уж дед ни изворачивался, кому только ни совал, чтобы достать сена! Рыскал с меш­ком и серпом по Бабьему и Репьяхову Ярам, акку­ратно срезал траву под заборами. Сам не пил моло­ка — посылал на базар бабку продавать. Помнил, что у барина-немца была корова, дававшая в день три ведра молока, и думал, что если нашу облезлую Лыску кормить, она, может, тоже столько будет давать.
