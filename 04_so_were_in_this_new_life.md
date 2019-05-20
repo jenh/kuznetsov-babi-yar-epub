@@ -60,12 +60,12 @@ I'll only share headlines from this paper:
 
 ...Здесь я сделаю традиционное отступление и хо­тя бы самым беглым образом расскажу о нашей маленькой семье: кто мы были, какие и почему.
 
-...Here I'll backtrack a little bit and at least briefly tell you about our little family: who we were, what we were, and why.
+Here I'll digress a little bit and at least briefly tell you about our little family: who we were, what we were, and why.
 
 
 Сам я терпеть не могу в книгах подобные отступ­ления, пропускаю их, и если вам мое отступление покажется неинтересным, вы тоже смело пропус­кайте его, потому что главное в этой книге — го­раздо дальше.
 
-I can't stand such retreats in books myself, I skip them, and if you find my backtracking uninteresting, you can skip it too, because the main thing in this book is much further.
+I can't stand such digressions in books myself, I skip them, and if you find my backtracking uninteresting, you can skip it too, because the important thing in this book is much further.
 
 Но если вам интересно, как человек мечтает о Гитлере, прочтите хотя бы про моего деда.
 
@@ -73,35 +73,34 @@ But if you're wondering how a man dreams of Hitler, at least read about my grand
 
 СЕМЕРИК Федор Власович, мой дед, ненавидел советскую власть всей своей душой и страстно ждал немцев, как избавителей, полагая, что хуже советской власти уж ничего на свете быть не может.
 
-Fyodor Vlasovich, my grandfather, hated the Soviet power with all his soul and was eagerly waiting for the Germans as deliverers, believing that nothing could be worse than the Soviet power in the world.
+Fyodor Vlasovich, my grandfather, hated the Soviet power with all his heart and soul and was eagerly awaiting the Germans as deliverers, believing that nothing could be any worse than the Soviet power in the world.
 
 Нет, он отнюдь не был фашистом или монархис­том, националистом или троцкистом, красным или белым, он в этом вообще ни черта не смыслил.
 
-No, he was not a fascist or monarchist, nor a nationalist or Trotskyite, nor a red or white; he didn't know a damn thing about any of it.
-
+No, he wasn't a fascist or a monarchist, nor a nationalist or a Trotskyite, no red or white; he didn't know a damn thing about any of it.
 
 По происхождению он был из украинских кре­постных, крестьянин-бедняк. По социальному поло­жению — городской рабочий с долгим стажем. А по сути своей — самый простой, маленький, голод­ный, запуганный обыватель Страны Советов, кото­рая ему — мачеха.
 
-By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, it's like being a long-serving city worker. In essence, he was the simplest, smallest, hungriest, most frightened citizen of the Soviet State &emdash; his stepmother.
+By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, he was a long-serving city worker. In essence, he was the simplest, smallest, hungriest, and most frightened citizen of the Soviet State &emdash; his stepmother.
 
 
 Дед родился в 1870 году — в одном году с Лени­ным, но на этом общее между ними кончалось. Дед не мог слышать самого имени Ленина, хотя тот дав­но умер, как умерли или были перебиты многие ле­нинцы. Он считал, что именно от Ленина все беды, что тот «играл в Россию, как в рулетку, все проиг­рал и сдох».
 
-His grandfather was born in 1870 &emdash; in the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or were killed. He believed that it was Lenin who was the cause of all the troubles, that he "played Russia like a roulette wheel, lost everything and died."
+His grandfather was born in 1870 &emdash; the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or had been killed. He believed that Lenin was the cause of all our troubles; Lenin "played Russia like roulette, lost everything, and died."
 
 
 Когда он такое говорил, бабка в ужасе огляды­валась по сторонам и демонстративно восклицала во дворе:
 
-When he said such things, Grandmother looked around in horror and shouted in the yard:
+When he said things like that, Grandmother looked around in horror and shouted in the yard:
 
 — Перестань молоть, малахольный. Вот хорошие люди умирают, а ты, паразит, все живешь.
 
-"Stop the griping, you little bastard. Good people are dying, and you, the parasite, are still alive."
+"Stop the griping, you little bastard. Good people are dying, and you, you parasite, are still alive."
 
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
 
-His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, in some desperate rural family with eleven children who, according to him, lived in dilapidated smoke.
+His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, into a desperate rural family with eleven children who, according to him, lived in a dilapidated, smoky hovel.
 
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
