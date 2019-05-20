@@ -107,7 +107,6 @@ His grandfather was born and raised in the village of Shenderovka, Kanevskiy dis
 
 He spent his youth as a farmhand with German colonists in the Kherson region, leaving his family behind forever. After serving in the soldiers, he went to Kiev to earn money, hang out in search of work. He found work as a janitor at the general's house, married a laundress, and began working on the tram as a conductor, dreaming about his future house and prosperity: so that one could eat and not think about tomorrow &emdash; that was the limit of his dreams.
 
-
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
 He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they finally bought a tiny piece of swamp on Kurenevka, drained it themselves, and spent a long time building a hut for themselves &emdash; and then the revolution broke out.
@@ -119,76 +118,55 @@ It didn't bring them any good, just a new hunger, fear &emdash; and completely t
 
 Много лет затем дед работал на обувной фабрике № 4 слесарем-канализатором, в вонючей робе лазил с ключами по трубам, ранился у станка — уж такой рабочий класс, что дальше некуда. И все эти годы он не переставал ненавидеть власть «этих босяков и убийц» и «нет, не хозяев».
 
-As his last job, my grandfather's worked as a plumber in the sewers of Shoe Factory No. 4 for many years, where, in a stinking boilersuit, he carried keys while climbing through the factory's dirty pipes, and was ultimately wounded by the machine &emdash; and as he was working class, there was nowhere else for him to go. And for all these years, he has never stopped hating the power of "these bosses and murderers" and "no, not employers."
+Finally, my grandfather worked for many years as a plumber in the sewers of Shoe Factory No. 4 where, in a stinking boilersuit, he climbed through the factory's dirty pipes carrying tools, and was ultimately wounded by one of the machines. As he was a laborer, there was nowhere else for him to go. And after all these years, he has never stopped hating the power of "these bosses and murderers" and "no, not even employers."
 
 Его, бывшего крестьянина, в окончательный ужас привела коллективизация с ее колхозами, вызвавшая невиданный голод. Строительство заво­дов, шумно расписываемые в те годы Днепрогэс, за­воевание Северного полюса там или неба — были деду решительно «до лампочки».
 
-As a former peasant, he was finally horrified by the collectivization of our collective farms, which caused an unprecedented famine. The construction of factories, noisily enabled in those years by the Dnieper Hydroelectric Station, the conquest of the North Pole there or the sky - were resolutely "to the point of lightning".
-
+As a former peasant, he was horrified by the State collectivization of farming communes, which caused unprecedented famine. The construction of factories, noisily enabled in those years by the Dnieper Hydroelectric Station, the conquest of the North Pole and the heavens &emdash; he didn't give a damn about any of it.
 
 Северный полюс завоевали, зато когда дед с баб­кой завели, наконец, свою радужную мечту — ко­рову, ее нечем было кормить. Очереди за комбикор­мом были, как туча. Рядом с хатой, за железнодо­рожной насыпью огромный богатый луг пропадает, а пасти нельзя. Как уж дед ни изворачивался, кому только ни совал, чтобы достать сена! Рыскал с меш­ком и серпом по Бабьему и Репьяхову Ярам, акку­ратно срезал траву под заборами. Сам не пил моло­ка — посылал на базар бабку продавать. Помнил, что у барина-немца была корова, дававшая в день три ведра молока, и думал, что если нашу облезлую Лыску кормить, она, может, тоже столько будет давать.
 
-The North Pole was conquered, but when my grandfather and grandmother finally got their rainbow dream - a cow, it had nothing to feed. The queues for mixed fodder were like a cloud. Next to the hut, behind the railroad embankment, a huge rich meadow disappears, and you can't graze. No matter how dodgy grandfather was, whoever he fought to get the hay! I searched Yaram Babi and Yaram Repyahov with a bag and sickle, carefully cut the grass under the fences. I didn't drink milk myself, I sent my grandmother to the market to sell it. I remembered that the German baron had a cow who gave three buckets of milk a day, and thought that if our husky Lysku feed, maybe she would give as much as she did.
-
+The North Pole may have been conquered, but when my grandfather and grandmother finally got their wished-for dream &emdash; a cow &emdash; it had nothing to eat. The lines for animal feed were swarming. Next to the hut, behind the railroad embankment, a huge rich meadow had disappeared, so there was no place to graze. No matter how dodgy grandfather was, we had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
 
 В общем, он был великий комбинатор. И от по­стоянных неудач, судорожной бедности противен стал и завистлив необычайно. Завидовал половине Куреневки, особенно тем, у кого был хороший огород и кто мог таскать корзинами на базар редис­ку. Куреневка испокон веков спасалась редиской, а также поросятами и курами, глухая ко всяким наукам, искусствам или политике, вернее, требуя в политике одного: чтоб разрешали продавать ре­диску.
 
-Anyway, he was a great combinator. And from the constant failures, the convulsive poverty became disgusting and jealous of the extraordinary. Jealous of half of Kurenevka, especially those who had a good vegetable garden and who could carry baskets to the radish bazaar. Kurenevka has always been saved by radish, as well as pigs and chickens, deaf to all sciences, arts or politics, or rather, demanding in politics one thing: to be allowed to sell radish.
-
-
-
-
-
+Anyway, he was a great manipulator. And from the constant failures, this convulsive poverty became disgusting and he became extraordinarily jealous. Jealous of half of Kurenevka, especially those who had a good vegetable garden and who could carry baskets to the radish bazaar. Kurenevka has always been saved by radishes, as well as pigs and chickens, and deaf to all sciences, arts or politics, or rather, demanding in politics simply one thing: to be allowed to sell radishes.
 
 
 У Горького в «Детстве» есть такая песня:
 
-Bitter in "Childhood" has a song like that:
+Gorky has a song like that, from "Childhood:"
 
 
 Один нищий вывесил портянки сушить,
-
-One beggar hanged up the spoilers to dry,
-
-
 А другой нищий портянки украл.
 
-And the other beggar portie stole it.
-
-
-
-
-
-
+> One beggar hung his footwraps to dry,
+> And another beggar stole them.
 
 Так вот мой дед был завистлив. Но ему не дотя­нуться было до подлинных куреневских «куркулей»: огород его можно было измерить ладонями, полос­ки шагов в восемь шириной, у хаты и сарайчика. За забором были грядки коллективного огородного хозяйства. Однажды ночью дед выкопал новые ям­ки и перенес забор на полметра, украв у огородни­ков метров пять квадратных земли, и равнодушное колхозное начальство этого не заметило! Дед целую неделю был в отличном настроении и торжество­вал, строя планы, как через несколько лет он снова подвинет забор на полметра.
 
-So my grandfather was jealous. But he couldn't reach the real Kurenev's "gourds": his garden could be measured with his palms, stripes of steps eight wide, at the hut and barn. Behind the fence there were collective garden gardens. One night my grandfather dug up new holes and moved the fence by half a meter, stealing five square meters of land from gardeners, and the indifferent collective farm authorities did not notice it! Grandfather was in a great mood for a week and triumphed, making plans, how in a few years he will move the fence again by half a meter.
-
+So my grandfather was jealous. He couldn't get near the success of Kurenev's real bigwigs: his garden could be measured with his palms, in stripes of eight palms wide, from hut to barn. Collective gardens were planted behind the fence. One night my grandfather dug up new holes and moved the fence by half a meter, stealing five square meters of land from its gardeners &emdash; and the indifferent collective farm authorities didn't even notice it! In his triumph, Grandfather was in a great mood for a week and made plans to move the fence again by half a meter in a few years time.
 
 К старости он стал страшно вздорный, тайком об­рывал соседские груши, свешивавшиеся через забор на «его землю», убивал палкой соседских кур, если они забредали к нам, и потому он перессорился со всей улицей.
 
-By his old age, he had become terribly naughty, sneaking off the neighbor's pears hanging over the fence to "his land", killing neighbor's chickens with a stick if they were wading to us, and so he had quarreled with the whole street.
-
+In his old age, he had become terribly cantankerous, sneaking off with the neighbor's pears if they hung over the fence into "his land," killing neighbor's chickens with a stick if they waddled towards us, and as such, he'd quarreled with the entire street.
 
 Когда он, брызжа слюной, ругался, слышно бы­ло до самого базара: «У-ту-ту-ту!» — и его прозва­ли «Семерик-тру-ту-ту-три-ведра-молока».
 
-When he was spitting, you could hear him say, "Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa. - and his nickname was "Seven-true-two-two-three-buckets-milk."
-
+When he preparing for the bazaar, he spit and swore: "Ooh, too, too, too!" and his nickname among the neighbors was "Semerik-true-two-two-three-buckets-milk."
 
 Водки дед не пил от скупости, не курил, в кино не ходил, на трамвае старался проехать зайцем, штаны и пиджаки донашивал до того, что они со­превали и расползались на нем. Если по улице ехал воз с сеном и терял клок, дед первым оказывался на мостовой, старательно сгребал палочкой клок и с торжеством нес домой.
 
-My grandfather did not drink vodka with stinginess, did not smoke, did not go to the movies, tried to ride the tram with a hare, pants and jackets to the point that they were riding and crawling on it. If he was driving down the street with a haystack and lost a bunch, his grandfather was the first to be on the pavement, carefully raking a bunch of bits with a stick and solemnly carrying them home.
-
+My grandfather was stingy. He did not drink vodka, did not smoke, did not go to the movies, tried to sneak onto the tram, wore pants and jackets to the point that they were threadbare. If someone drove the street with haystack and lost some, grandfather was the first to be down on the pavement, carefully raking a bunch of the bits up with a stick and solemnly carrying them home.
 
 Корова не оправдала себя, пришлось продать.
 
-The cow didn't pay off, so I had to sell it.
-
+The cow didn't pay off, so he had to sell it.
 
 Дед на пробу завел уток, мы с ним ходили на пруд, бултыхались там с драной корзиной, собирая «ряс­ку», чтоб их кормить, да на ряске утки выросли костлявые, мослатые.
 
-My grandfather tried ducks, and we went to the pond with him, hanging out there with a basket of dragons, picking up a "cassock" to feed them, but bony, hairy ducks grew on the cassock.
+My grandfather then tried ducks, and we went to the pond with him, hanging out there with a ragged basket, picking duckweed to feed them, but the ducks grew bony and muscular on duckweed.
 
 
 Дед переключился на кур: те, мол, ходят, гре­бутся и сами добывают себе пропитание. Куры с го­лоду щипали рассаду на грядке, а нестись не хоте­ли. Заводил поросят, чтоб не пропадали объедки и помои. Поросята у деда росли длинноногие, мус­кулистые, поджарые, как гончие псы. И как раз перед приходом немцев оба поросенка заболели чум­кой и сдохли. Пришлось закопать.
