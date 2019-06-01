@@ -13,7 +13,7 @@
 
 Газета «Украинское слово» к моменту взятия нем­цами Киева вышла пятнадцатым номером, печата­ясь сперва в Житомире. Ее не то продавали, не то раздавали на улицах торжествующие энтузиасты, это дед ее добыл, как святыню принес и жадно хо­тел читать.
 
-By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the house like a sacred relic. He eagerly wanted to read it.
+By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the cottage like a sacred relic. He eagerly wanted to read it.
 
 Но в чтении мелкого шрифта, да еще на дрянной, словно оберточной бумаге, он не был силен и перепоручил это дело мне, сам же слушал, философски осмысляя.
 
@@ -109,7 +109,7 @@ He spent his youth as a farmhand with German colonists in the Kherson region, le
 
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
-He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they finally bought a tiny piece of swamp on Kurenevka, drained it themselves, and spent a long time building a hut for themselves &emdash; and then the revolution broke out.
+He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they finally bought a tiny piece of swamp on Kurenevka, drained it themselves, and spent a long time building a cottage for themselves &emdash; and then the revolution broke out.
 
 
 Добра она не принесла, лишь новый голод, страх, — и начисто отняла мечту. Красивым словам боль­шевиков о земном рае в туманном будущем дед не верил. Он был практик.
@@ -126,7 +126,7 @@ As a former peasant, he was horrified by the State collectivization of farming c
 
 Северный полюс завоевали, зато когда дед с баб­кой завели, наконец, свою радужную мечту — ко­рову, ее нечем было кормить. Очереди за комбикор­мом были, как туча. Рядом с хатой, за железнодо­рожной насыпью огромный богатый луг пропадает, а пасти нельзя. Как уж дед ни изворачивался, кому только ни совал, чтобы достать сена! Рыскал с меш­ком и серпом по Бабьему и Репьяхову Ярам, акку­ратно срезал траву под заборами. Сам не пил моло­ка — посылал на базар бабку продавать. Помнил, что у барина-немца была корова, дававшая в день три ведра молока, и думал, что если нашу облезлую Лыску кормить, она, может, тоже столько будет давать.
 
-The North Pole may have been conquered, but when my grandfather and grandmother finally got their wished-for dream &emdash; a cow &emdash; it had nothing to eat. The lines for animal feed were swarming. Next to the hut, behind the railroad embankment, a huge rich meadow had disappeared, so there was no place to graze. No matter how dodgy grandfather was, we had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
+The North Pole may have been conquered, but when my grandfather and grandmother finally got their wished-for dream &emdash; a cow &emdash; it had nothing to eat. The lines for animal feed were swarming. Next to the cottage, behind the railroad embankment, a huge rich meadow had disappeared, so there was no place to graze. No matter how dodgy grandfather was, we had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
 
 В общем, он был великий комбинатор. И от по­стоянных неудач, судорожной бедности противен стал и завистлив необычайно. Завидовал половине Куреневки, особенно тем, у кого был хороший огород и кто мог таскать корзинами на базар редис­ку. Куреневка испокон веков спасалась редиской, а также поросятами и курами, глухая ко всяким наукам, искусствам или политике, вернее, требуя в политике одного: чтоб разрешали продавать ре­диску.
 
@@ -146,7 +146,7 @@ Gorky has a song like that, from "Childhood:"
 
 Так вот мой дед был завистлив. Но ему не дотя­нуться было до подлинных куреневских «куркулей»: огород его можно было измерить ладонями, полос­ки шагов в восемь шириной, у хаты и сарайчика. За забором были грядки коллективного огородного хозяйства. Однажды ночью дед выкопал новые ям­ки и перенес забор на полметра, украв у огородни­ков метров пять квадратных земли, и равнодушное колхозное начальство этого не заметило! Дед целую неделю был в отличном настроении и торжество­вал, строя планы, как через несколько лет он снова подвинет забор на полметра.
 
-So my grandfather was jealous. He couldn't get near the success of Kurenev's real bigwigs: his garden could be measured with his palms, in stripes of eight palms wide, from hut to barn. Collective gardens were planted behind the fence. One night my grandfather dug up new holes and moved the fence by half a meter, stealing five square meters of land from its gardeners &emdash; and the indifferent collective farm authorities didn't even notice it! In his triumph, Grandfather was in a great mood for a week and made plans to move the fence again by half a meter in a few years time.
+So my grandfather was jealous. He couldn't get near the success of Kurenev's real bigwigs: his garden could be measured with his palms, in stripes of eight palms wide, from cottage to barn. Collective gardens were planted behind the fence. One night my grandfather dug up new holes and moved the fence by half a meter, stealing five square meters of land from its gardeners &emdash; and the indifferent collective farm authorities didn't even notice it! In his triumph, Grandfather was in a great mood for a week and made plans to move the fence again by half a meter in a few years time.
 
 К старости он стал страшно вздорный, тайком об­рывал соседские груши, свешивавшиеся через забор на «его землю», убивал палкой соседских кур, если они забредали к нам, и потому он перессорился со всей улицей.
 
@@ -158,7 +158,7 @@ When he preparing for the bazaar, he spit and swore: "Ooh, too, too, too!" and h
 
 Водки дед не пил от скупости, не курил, в кино не ходил, на трамвае старался проехать зайцем, штаны и пиджаки донашивал до того, что они со­превали и расползались на нем. Если по улице ехал воз с сеном и терял клок, дед первым оказывался на мостовой, старательно сгребал палочкой клок и с торжеством нес домой.
 
-My grandfather was stingy. He did not drink vodka, did not smoke, did not go to the movies, tried to sneak onto the tram, wore pants and jackets to the point that they were threadbare. If someone drove the street with haystack and lost some, grandfather was the first to be down on the pavement, carefully raking a bunch of the bits up with a stick and solemnly carrying them home.
+My grandfather was stingy. He did not drink vodka, did not smoke, did not go to the movies, tried to sneak onto the tram, and wore his pants and jackets until they were threadbare. If someone drove the street with haystack and lost some, grandfather was the first to be down on the pavement, carefully raking a bunch of the bits up with a stick and solemnly carrying them home.
 
 Корова не оправдала себя, пришлось продать.
 
@@ -166,22 +166,21 @@ The cow didn't pay off, so he had to sell it.
 
 Дед на пробу завел уток, мы с ним ходили на пруд, бултыхались там с драной корзиной, собирая «ряс­ку», чтоб их кормить, да на ряске утки выросли костлявые, мослатые.
 
-My grandfather then tried ducks, and we went to the pond with him, hanging out there with a ragged basket, picking duckweed to feed them, but the ducks grew bony and muscular on duckweed.
+My grandfather then tried ducks, and we went to the pond with him, hanging out there with a ragged basket, picking duckweed to feed them, but the ducks grew bony and stringy on duckweed.
 
 
 Дед переключился на кур: те, мол, ходят, гре­бутся и сами добывают себе пропитание. Куры с го­лоду щипали рассаду на грядке, а нестись не хоте­ли. Заводил поросят, чтоб не пропадали объедки и помои. Поросята у деда росли длинноногие, мус­кулистые, поджарые, как гончие псы. И как раз перед приходом немцев оба поросенка заболели чум­кой и сдохли. Пришлось закопать.
 
-Grandfather switched to chickens: they walk, buckle and feed themselves. The chickens were starving, pinching the seedlings in the bed, and they didn't want to go. Got the piglets started so they wouldn't be washed and washed. Grandfather's piglets grew long legged, muscular, fried like hounds. And just before the Germans arrived, both piglets fell ill and died. I had to bury it.
-
+Grandfather switched to chickens: they, supposedly, walk around, graze, and feed themselves. The chickens were starving, hungrily eating up the seedlings in the garden, and they didn't want to leave the yard to graze. Then he got piglets to eat up our leftovers and garbage. Grandfather's piglets grew up to be long-legged, muscular, and lean as hound dogs. And just before the Germans arrived, both pigs fell ill and died. I had to bury them.
 
 Очень энергичный был дед, воевал и толокся це­лый день с рассвета до темна, но разбогатеть не мог.
 
-His grandfather was very energetic, fighting and pushing all day from dawn to darkness, but he couldn't get rich.
+Grandfather was very energetic, fighting and pushing all day from dawn to darkness &emdash; but he couldn't get rich.
 
 
 [Были вокруг такие, что «жили»: партийцы, че­кисты, воры, стукачи, разные профсоюзные деяте­ли. Раскатывали в казенных автомобилях, нежили брюхо на кавказских курортах, получали в конвер­тах секретные зарплаты. Дед за свое ужасное ла­занье по канализационным трубам получал жало­ванье в месяц вдвое меньшее, чем стоил простой ко­стюм. И за всю жизнь костюма у него не было, он так и умер, не поносив ни разу костюм.
 
-There were people around who "lived": party members, security officers, thieves, snitches, various trade unionists. Rolled out in public cars, bellied at Caucasian resorts, received secret salaries in envelopes. Grandfather, for his terrible climbing through the sewers, received half as much salary as he did for a simple suit. And in his entire life, he didn't have a suit, and he died without wearing a suit.
+There were people around who "lived": party members, security officers, thieves, snitches, various trade unionists. Rolled around in public cars, bellied up to the bar at resorts in the Caucasus, and received secret salaries in envelopes. Grandfather, for all his terrible climbing through the sewers, received half as much salary as the cost of a simple suit. And in his entire life, he never owned a suit, and he died without ever owning a suit.
 
 
 Но были люди, которые смотрели на жизнь дедо­вой семьи, как на райское благо. В колхозах вокруг Киева крестьяне работали, как при крепостном пра­ве. Нет, хуже. При крепостном праве помещик ос­тавлял им дни для работы на себя, на своем ма­леньком поле. А в колхозе человек не имел и таких дней, как не имел и поля. За выход на работу ему ставили в ведомости палочку — «трудодень», а осенью что-то платили, а может не платили, а то платили одну копейку за трудодень.]
@@ -231,7 +230,7 @@ Grandpa's got eyes on his forehead. It was a message to him personally.
 
 Он выучил листовку наизусть, только после этого порвал на меленькие клочки. Ему шел семьдесят второй год, и вот его мечта — с ума сойти! — воз­вращалась, и может на лугу еще будет пастись его корова, дающая три ведра молока, и в доме будет запас еды, на завтрашний день и даже на послезав­трашний день, и может быть он даже купит себе, наконец-то, первый костюм.
 
-He memorized the flyer, but then he ripped it to shreds. He was in his seventy-second year, and his dream is crazy! - and maybe his cow will still be grazing in the meadow, giving him three buckets of milk, and there will be a supply of food in the house, for tomorrow and even the day after tomorrow, and maybe he will even buy his first suit.
+He memorized the flyer, but then he ripped it to shreds. He was in his seventy-second year, and his dream is crazy! - and maybe his cow will still be grazing in the meadow, giving him three buckets of milk, and there will be a supply of food in the cottage, for tomorrow and even the day after tomorrow, and maybe he will even buy his first suit.
 
 
 
