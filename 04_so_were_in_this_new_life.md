@@ -201,15 +201,15 @@ For some reason, he did not remember his father's hut, his father who rented a p
 
 Про свою же ненависть к большевикам он теперь рассказывал только Богу, подолгу стоя перед икона­ми на коленях, и все шептал, шептал, страстно рас­сказывал им что-то: знал, что уж кто-кто, а Бог выслушает — и не продаст.
 
-Now, he shared his hatred for the Bolsheviks only with God, standing before the icons on his knees for a long time, and whispering, whispering and passionately telling him something: he knew that somebody would listen and God would not sell him out.
+Now, he shared his hatred for the Bolsheviks only with God, standing before the icons on his knees for a long time, and whispering, whispering and passionately telling him something: he knew that somebody would listen and God wouldn't sell him out.
 
 И вот вскоре после начала войны на нашу крышу упала немецкая листовка и с утренней росой при­липла там у трубы. Дед увидел, приставил лестницу и послал меня достать. С трудом я снял раскисший листок, и мы стали читать.
 
-Soon after the beginning of the war, a German leaflet fell onto our roof and stuck to the drainpipe with morning dew. My grandfather saw me, put up the ladder and sent me up to get it. I just barely managed to get it, but brought it down and we started reading.
+Soon after the beginning of the war, a German leaflet fell onto our roof and the morning dew stuck it to the drainpipe. My grandfather found me, stood up the ladder, and sent me up to fetch it. I just barely managed to reach it, brought it down, and we started reading.
 
 В листовке писалось, что Германия призвана унич­тожить большевиков и устанавливает новый, справедливый порядок, когда «кто не работает — тот не ест», зато «каждый, кто честно трудится, получает по заслугам». Что жизнь на освобожденной земле прекрасна: масло стоит десять копеек фунт, хлеб — семь копеек, селедка — три.
 
-The leaflet said that Germany was called upon to destroy the Bolsheviks and to establish a new, fair order, one that were "he who does not work, does not eat," but that "everyone who works honestly will get what he deserves." It stated that life in already-liberated land was beautiful: butter cost ten kopecks a pound, bread cost seven, and herring three.
+The leaflet said that Germany was called upon to destroy the Bolsheviks and to establish a new, fair order. A place where "he who does not work, does not eat," but "everyone who works honestly will get what he deserves." It said life in already-liberated territories was beautiful: butter cost ten kopecks a pound, bread cost seven, and herring three.
 
 
 У деда полезли глаза на лоб. Это было послание лично ему.
@@ -218,96 +218,80 @@ Grandpa's eyes got so big, they grew into his forehead. This was a personal mess
 
 Он выучил листовку наизусть, только после этого порвал на меленькие клочки. Ему шел семьдесят второй год, и вот его мечта — с ума сойти! — воз­вращалась, и может на лугу еще будет пастись его корова, дающая три ведра молока, и в доме будет запас еды, на завтрашний день и даже на послезав­трашний день, и может быть он даже купит себе, наконец-то, первый костюм.
 
-He learned the leaflet by heart, and only after that did he tear it into tiny pieces. He was 72, and here was his dream in front of him &emdash; it was crazy! And his cow may still be able to graze in the meadow and give three buckets of milk, and there may even be enough food in the house for tomorrow and even after the day after the day after tomorrow, and maybe he may even be able to buy himself, finally, his first suit.
-
-
+He memorized the leaflet by heart, and only after that did he rip it into tiny pieces. He was now 72, and here was his dream, right in front of him &emdash; it was crazy! His cow may well still be able to graze in the meadow and give three buckets of milk, and there may even be enough food in the house for tomorrow and even for after the day after the day after tomorrow, and maybe he may even be able to finally buy himself his first suit.
 
 СЕМЕРИК (в девичестве ДОЛГОРУК) Марфа Ефимовна, моя бабушка, родилась и выросла в селе Деремезна Обуховского уезда, в проклятущей халупе, где, как и в дедовой семье, некуда было плюнуть из-за детей.
 
-My grandmother, Marfa Efimovna Semerik (her maiden name was Dolgoruk), was born and grew up in the village of Deremezna, in the Obukhivskyi district, in a cursed hovel, where, like grandfather's family, there was nowhere even to spit because of the children.
-
+My grandmother, Marfa Efimovna Semerik (her maiden name was Dolgoruk), was born and grew up in the village of Deremezna, in the Obukhivskyi district, in a cursed hovel, where, like grandfather's family, there was nowhere even to spit because of the number of children.
 
 [Детство великого украинского поэта из крепост­ных Тараса Шевченко прошло в такой халупе:
 
 The great Ukrainian poet of the serfs, Taras Shevchenko, spent his childhood in such a hovel:
 
 Не називаю ÏÏ раем
-
-I don't call it a paradise.
-
 Moi там сльози пролились,
-
-I spilled tears there,
-
-
 Найпершi сльози. Я не знаю,
-
-The first of all my tears. I don't know,
-
 Чи е на свiтi люте зло,
-
-If there's evil anywhere in the world
-
 Щоб у тiй хатi не жило.]
 
-That did not exist in this house.
-
+> I don't call it a paradise.
+> .....................
+> I spilled tears there,
+> The first of all my tears. I don't know,
+> If there is evil anywhere in the world
+> That did not live in this house.
 
 Их там было так много, бабкиной родни, в Деремезне, и в Перегоновке, и в Киеве «по наймах», что я так никогда и не разобрался, сколько их, кто кем мне приходится: Гапка и Конон, Ганна и Нина, Фома и юродивая Катька... Они иногда приезжали, бабка их кормила, дарила кому старую юбку, кому стоптанные калоши.
 
-There were so many of them there, a grandmother's kin, in Deremezna, and in Peregonovka, and in Kiev "for hire," that I never figured out how many of them, who I have to: Hopper and Conon, Ganna and Nina, Thomas and foolish Katka ... Sometimes they'd come, Grandmother would feed them, give them an old skirt, and give them trampled rolls.
-
+There were so many of my grandmother's kin in Deremezna, and in Peregonovka, and in Kiev "for hire," that I never figured out how many of them there were, and who I was related to: Gapka and Conon, Hanna and Nina, Thomas and the foolish Katka...They'd visit sometimes and Grandmother would feed them and give them an old skirt or old galoshes.
 
 Только о юродивой Катьке я понял, что она мне — двоюродная тетка. После тифа она впала в слабо­умие, стала нищенкой, она сидела с сумой под церк­вями, просила по дворам, приносила кусочки хлеба в суме, дед накидывался и отбирал для поросят, бурча: «Подумать только, вот же живут эти нищие, а сколько им на Пасху подают!»
 
-Only the fool Katya, I knew she was my cousin. After the typhus she fell into dementia, became a beggar, she sat with suma under the churches, asked for bread in the yards, brought pieces of bread in the suma, grandfather threw himself and took away for piglets, muttering: "To think, these poor people live here, and how much do they get for Easter?"
+The only one I knew for sure how she was related to me was the wacky Katya &emdash; she was my great aunt. After she had typhus, she fell into dementia, became a beggar, she sat with her bag in front of churches, went from house to house begging for bread, putting pieces of it into her bag, which grandfather took away for piglets, muttering: "To think, these poor people live this way, and they get so much for Easter!"
 
 Я любил ее, Катьку, она была, как святая, безо­бидная и добрая. Если ей подавали конфетку, она ее непременно берегла для меня, а иногда на соб­ранные копейки покупала на базаре мне гостинец— глиняную свистульку-лошадку. Я потом и вырос, а она этого не замечала, приносила свистульки и все что-то невнятно бормотала, бормотала... Умерла она на улице, тихо и незаметно, как погибают воробьи, ее погрузили на телегу и где-то закопали.
 
-I loved her, Katya, she was like a saint, harmless and kind. If she was served candy, she would definitely save it for me, and sometimes buy me a hotel - a clay whistle horse - at the bazaar for the collected kopecks. I grew up, and she didn't notice it, brought whistles and mumbled and mumbled... She died in the street, quietly and imperceptibly, as the sparrows die, she was loaded on a cart and buried somewhere.
+I loved Katya. She was like a saint, harmless and kind. If she was served candy, she would definitely save it for me, and sometimes buy me a present &emdash; a clay whistle horse &emdash; at the bazaar with the kopecks she collected. I later grew up, but she never noticed, and continued bringing whistles, mumbling and muttering...She died in the street, quietly and imperceptibly, as sparrows die. She was loaded on a cart and buried somewhere.
 
 
 Двенадцати лет бабка моя пошла в люди, нянчи­ла чужих детей, была прислугой, потом стала прач­кой. Как я ни спрашивал, она никогда не хотела вспоминать ни молодость свою, ни любовь, может, потому, что вспоминалась одна муть.
 
-Twelve years my grandmother went into people, nursed other people's children, was a maid, then became a laundress. As much as I asked, she never wanted to remember her youth or love, maybe because she remembered one thing.
-
+For twelve years, my grandmother worked for the people. She nursed other people's children, was a maid, and then became a laundress. As much as I asked, she never wanted to remember her youth or love, maybe because all she remembered was drudgery.
 
 Она была совершенно неграмотна. Не знала даже цифр. Бумажные деньги она различала по рисун­ку и цвету, монеты — по величине.
 
-She was completely illiterate. I didn't even know the numbers. She could tell the difference between paper money by drawing and color, and coins by size.
+She was completely illiterate. She didn't even know numbers &emdash; she could tell the paper money apart by the differences in drawing and color, and coins apart by their size.
 
 Поскольку мать моя, учительница, работала в школе по две смены да еще оставалась после уро­ков, я полностью вырос при бабке. Она меня буди­ла, умывала, кормила, лупила, забавляла украин­скими «казочками», и все она топала, варила, меша­ла, толкла, делала пойло поросенку, гоняла кота, гнулась на грядках, колола дрова, и у нее постоян­но болела поясница, так что она время от времени ложилась, тихо стонала, потом поднималась и опять бралась за работу.
 
-Since my mother, the teacher, worked two shifts at school and stayed after school, I grew up with my grandmother. She woke me up, washed, fed, beat me, amused me with Ukrainian "kazochkami", and all she stomped, boiled, interfered, pushed, made a piglet, drove a cat, bent on the beds, stabbed wood, and she constantly had a lower backache, so that she lay down from time to time, moaned quietly, then went up and started working again.
+Since my mother, a teacher, worked two shifts at school and stayed late after school, I grew up with my grandmother. She woke me up, washed me, fed me, beat me, and amused me with Ukrainian fairy tales. And all the while, she stomped around, cooked, stirred, pounded, made the piglets' food, drove the cat out of the way, bent over the garden, and chopped wood and so her lower back hurt constantly, she would lay down from time to time, moan quietly, then get right up and back to work.
 
 Она была мягкая, рыхлая, с грубым деревенским лицом, всегда в сером ветхом платке или косынке в горошек.
 
-She was soft, loose, with a rough country face, always in a gray shabby scarf or polka dot scarf.
-
+She was soft and fragile, with a rough country face, and always wore a shabby gray or polka dot scarf.
 
 Как и деда, ее не восхищали ни самолеты, ни ди­рижабли, которые тогда летали, наоборот, они ее пугали. Укладывая меня на печи спать, она расска­зывала:
 
-Like her grandfather, she was not admired either by airplanes or airships, which then flew, on the contrary, they frightened her. Putting me to sleep on the stove, she told:
-
+Like grandfather, she was not impressed by by airplanes or the airships that flew then. On the contrary, they frightened her. Putting me to sleep on top of the stove, she told me:
 
 — Так, когда я маленькой была, забьемся мы на печку, один к одному лепимся, голенькие, босенькие, голоднючие, как черва, а бабуся наша покойная пу­гает: вы сидите тихо, это еще хорошо, а придет вре­мя, страшное время, когда по земле пойдет враг, и всю землю опутают проволоками, а в небе будут летать железные птицы и клювами своими желез­ными будут клевать людей, и то уже будет перед концом света...
 
-“So, when I was little, we would forget ourselves on the stove, one to one we sculpt, naked, barefoot, hungry like the hell, and our late scary granny: you sit quietly, this is still good, the enemy will go to the earth, and the whole earth will be entwined with wires, and iron birds will fly in the sky and people will peck at their beaks with iron, and that will be before the end of the world ...
+“So, when I was little, when we were put to bed on the stove, clinging to each other naked, barefoot, hungry as worms, our late and scary granny would say, "You sit quietly, everything is still good. There will come a time when the enemy will come to earth, and the ground will be entangled in wire, and iron birds will fly in the sky, pecking at people with their iron beaks. And that will precede the end of the world.
 
 
 А мы стучим зубенятами от страха и молимся: не приведи, Господи, дожить до того... Не внял Господь, дожили мы. Все так вышло, как предсказывала бабуся: и проволоки, и птицы же­лезные, и скоро, видно, конец света...
 
-And we knock the bells from fear and pray: do not bring, Lord, to live to see ... The Lord did not heed, we lived. It all happened as Granny predicted: the wires and the birds of iron, and soon, the end of the world is evident ...
+And our teeth chattered in fear and we prayed: 'Do not let us live to see this, Lord..." The Lord did not heed our prayers &emdash; we lived. And it all happened as Granny predicted: the wire and the birds of iron, and soon, we will see the end of the world..."
 
 
 Вероятно, в ожидании его бабка совершенно не заботилась о материальном «добре», а очень много раздавала ради спасения души. Может, мы и жили бы чуточку лучше, но бабка могла сама не съесть, а другому отдать. Несла она копейки на церковь, нищим, то вдруг готовила какие-то передачи в боль­ницы, знакомым, соседям.
 
-Probably, while waiting, his grandmother did not care at all about material “good”, but distributed a lot to save her soul. Maybe we would live a little better, but the grandmother could not eat herself, and give to another. She carried a penny to the church, the poor, then suddenly made some kind of transfer to hospitals, acquaintances, neighbors.
+Probably, while waiting, grandmother did not care at all about material “good,” but distributed a lot to save her soul. Maybe we would live a little better, but grandmother could not eat herself, and give to another. She carried a penny to the church, the poor, then suddenly made some kind of transfer to hospitals, acquaintances, neighbors.
 
 
 Дед выходил из себя, вопил: «Злыдни! Кого ты кормишь, мы сами голодные». Но бабка только ру­кой махала. Пряталась от него, и «злыдни» прята­лись по всем углам, когда дед с работы являлся. Чтобы не ругаться и не впадать в грех, бабка ста­новилась на колени и молилась.
 
-The grandfather was losing his temper, screaming: “Sinister! Whom you feed, we ourselves are hungry. " But grandma only waved her hand. She was hiding from him, and the "wicked people" were hiding in all corners when the grandfather was at work. In order not to swear and not to fall into sin, the grandmother knelt and prayed.
+Grandfather was losing his temper, screaming: “Sinister! Whom you feed, we ourselves are hungry. " But grandma only waved her hand. She was hiding from him, and the "wicked people" were hiding in all corners when the grandfather was at work. In order not to swear and not to fall into sin, the grandmother knelt and prayed.
 
 
 У нее было много икон. Целый иконостас в углу комнаты, с таинственно теплящейся лампадкой, ще­потками ладана, пучками трав, двумя деревянными крестиками — для деда и для нее, чтобы вложить в руки в гробу, — и книжечками-«граматками», куда я под ее диктовку вписывал многочисленные имена родственников «во здравие» и «за упокой».
