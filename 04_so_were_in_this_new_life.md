@@ -286,22 +286,22 @@ And our teeth chattered in fear and we prayed: 'Do not let us live to see this, 
 
 Вероятно, в ожидании его бабка совершенно не заботилась о материальном «добре», а очень много раздавала ради спасения души. Может, мы и жили бы чуточку лучше, но бабка могла сама не съесть, а другому отдать. Несла она копейки на церковь, нищим, то вдруг готовила какие-то передачи в боль­ницы, знакомым, соседям.
 
-Probably, while waiting, grandmother did not care at all about material “good,” but distributed a lot to save her soul. Maybe we would live a little better, but grandmother could not eat herself, and give to another. She carried a penny to the church, the poor, then suddenly made some kind of transfer to hospitals, acquaintances, neighbors.
+Probably, while waiting, grandmother did not care at all about material “good,” but she distributed a lot to save her soul. Maybe we would live a little better, but grandmother could not eat herself, and would give to another. She carried a penny to the church, for the poor, then suddenly made some kind of transfer to hospitals, acquaintances, neighbors.
 
 
 Дед выходил из себя, вопил: «Злыдни! Кого ты кормишь, мы сами голодные». Но бабка только ру­кой махала. Пряталась от него, и «злыдни» прята­лись по всем углам, когда дед с работы являлся. Чтобы не ругаться и не впадать в грех, бабка ста­новилась на колени и молилась.
 
-Grandfather was losing his temper, screaming: “Sinister! Whom you feed, we ourselves are hungry. " But grandma only waved her hand. She was hiding from him, and the "wicked people" were hiding in all corners when the grandfather was at work. In order not to swear and not to fall into sin, the grandmother knelt and prayed.
+Grandfather lost his temper, screaming: “Sinister! The people you feed, when we ourselves are hungry!" But grandma only waved her hand. She was hiding from him, and the "wicked people" were hiding in all corners when the grandfather was at work. In order not to swear and not to fall into sin, grandmother knelt and prayed.
 
 
 У нее было много икон. Целый иконостас в углу комнаты, с таинственно теплящейся лампадкой, ще­потками ладана, пучками трав, двумя деревянными крестиками — для деда и для нее, чтобы вложить в руки в гробу, — и книжечками-«граматками», куда я под ее диктовку вписывал многочисленные имена родственников «во здравие» и «за упокой».
 
-She had a lot of icons. A whole iconostasis in the corner of the room, with a mysteriously burning lamp, pinches of incense, bunches of herbs, two wooden crosses — for the grandfather and for her to put in her hands in the coffin — and with the little books, “grammators,” where I dictated numerous names under her dictation relatives "in good health" and "for the rest".
+She had a lot of icons. A whole iconostasis in the corner of the room, with a mysteriously burning lamp, pinches of incense, bunches of herbs, two wooden crosses — for grandfather and one for her to hold in her hands in her coffin — and with the little books, “grammators,” where I dictated numerous names under her dictation relatives "in good health" and "for the rest."
 
 
 В центре находилась строгая, измученная, с фана­тическим взглядом Богоматерь. Даже младенец у нее походил на маленького сердитого старичка, который говорит: «Нельзя, нельзя!» У них были такие вы­разительные взгляды, что если долго смотреть — мороз шел по коже. Икона была в футляре под стеклом, с богатым позолоченным окладом: какие-то невиданные цветы с пупырышками, гроздья ме­таллических ягод... И мне ужасно хотелось потро­гать эти ягоды, но под стеклом они были недосягае­мы. Когда бабка уходила на базар, я подставлял табуретку и готов был часами разглядывать эти яго­ды, мечтая, что когда бабка умрет, я-то уж до них доберусь.
 
-In the center was the stern, exhausted, with a fanatical look of the Virgin. Even the baby she looked like a little angry old man who said: “It’s impossible, it’s impossible!” They had such expressive looks that if you looked for a long time, there was frost on your skin. The icon was in a case under glass, with a rich gilded salary: some unseen flowers with pimples, clusters of metal berries ... And I terribly wanted to touch these berries, but under the glass they were out of reach. When grandma left for the bazaar, I substituted a stool and was ready to watch these berries for hours, hoping that when grandma died, I would get to them.
+In the middle of it all was the stern, exhausted, fanatical-looking Virgin. Even the baby she held looked like a little angry old man who exclaimed, “It’s impossible, it’s impossible!” They had such expressive looks that, if you looked for a long time, your skin would frost over. The icon was in a case under glass, with a rich gilded salary: some unseen flowers with pimples, clusters of metal berries ... And I terribly wanted to touch these berries, but under the glass they were out of reach. When grandma left for the bazaar, I substituted a stool and was ready to watch these berries for hours, hoping that when grandma died, I would get them.
 
 
 Был там ласковый Николай-Угодник с белокурой бородкой, храбрый Георгий-Победоносец, а сбоку стояла еще одна Богоматерь — с золотистыми воло­сами и нежным, до удивления знакомым лицом. Она улыбалась, и мальчишка у нее на коленях был пух­ленький, очень довольный жизнью, с ямочками на голом тельце.
