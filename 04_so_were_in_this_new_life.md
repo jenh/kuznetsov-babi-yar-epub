@@ -243,7 +243,7 @@ Moi там сльози пролились,
 
 Их там было так много, бабкиной родни, в Деремезне, и в Перегоновке, и в Киеве «по наймах», что я так никогда и не разобрался, сколько их, кто кем мне приходится: Гапка и Конон, Ганна и Нина, Фома и юродивая Катька... Они иногда приезжали, бабка их кормила, дарила кому старую юбку, кому стоптанные калоши.
 
-There were so many of my grandmother's kin in Deremezna, and in Peregonovka, and in Kiev "for hire," that I never figured out how many of them there were, and who I was related to: Gapka and Conon, Hanna and Nina, Thomas and the foolish Katka...They'd visit sometimes and Grandmother would feed them and give them an old skirt or old galoshes.
+There were so many of my grandmother's relatives in Deremezna, and in Peregonovka, and in Kiev "for hire," that I never figured out how many of them there were, or who I was related to: Gapka and Conon, Hanna and Nina, Thomas and the foolish Katka...They'd visit sometimes and Grandmother would feed them and give them an old skirt or old galoshes.
 
 Только о юродивой Катьке я понял, что она мне — двоюродная тетка. После тифа она впала в слабо­умие, стала нищенкой, она сидела с сумой под церк­вями, просила по дворам, приносила кусочки хлеба в суме, дед накидывался и отбирал для поросят, бурча: «Подумать только, вот же живут эти нищие, а сколько им на Пасху подают!»
 
@@ -256,15 +256,15 @@ I loved Katya. She was like a saint, harmless and kind. If she was served candy,
 
 Двенадцати лет бабка моя пошла в люди, нянчи­ла чужих детей, была прислугой, потом стала прач­кой. Как я ни спрашивал, она никогда не хотела вспоминать ни молодость свою, ни любовь, может, потому, что вспоминалась одна муть.
 
-For twelve years, my grandmother worked for the people. She nursed other people's children, was a maid, and then became a laundress. As much as I asked, she never wanted to remember her youth or love, maybe because all she remembered was drudgery.
+For twelve years, my grandmother worked for other people. She nursed other people's children, then cleaned other people's houses, and then became a laundress. No matter how much I asked, she never wanted to remember or recount her youth or love...maybe because all she remembered was drudgery.
 
 Она была совершенно неграмотна. Не знала даже цифр. Бумажные деньги она различала по рисун­ку и цвету, монеты — по величине.
 
-She was completely illiterate. She didn't even know numbers &emdash; she could tell the paper money apart by the differences in drawing and color, and coins apart by their size.
+She was completely illiterate. She didn't even know numbers &emdash; she could tell paper money apart by the differences in drawing and color, and coins apart by their size.
 
 Поскольку мать моя, учительница, работала в школе по две смены да еще оставалась после уро­ков, я полностью вырос при бабке. Она меня буди­ла, умывала, кормила, лупила, забавляла украин­скими «казочками», и все она топала, варила, меша­ла, толкла, делала пойло поросенку, гоняла кота, гнулась на грядках, колола дрова, и у нее постоян­но болела поясница, так что она время от времени ложилась, тихо стонала, потом поднималась и опять бралась за работу.
 
-Since my mother, a teacher, worked two shifts at school and stayed late after school, I grew up with my grandmother. She woke me up, washed me, fed me, beat me, and amused me with Ukrainian fairy tales. And all the while, she stomped around, cooked, stirred, pounded, made the piglets' food, drove the cat out of the way, bent over the garden, and chopped wood and so her lower back hurt constantly, she would lay down from time to time, moan quietly, then get right up and back to work.
+Since my mother, a teacher, worked two shifts at school and stayed late after school, I grew up with my grandmother. She woke me up, washed me, fed me, beat me, and amused me with Ukrainian fairy tales. And all the while, she stomped around, cooked, stirred,and pounded out our meals, made the piglets' food, drove the cat out of the way, crouched over the vegetable beds, and chopped wood. Consequently, her lower back hurt constantly and from time to time, she'd lay down, moan quietly, and get right up and go back to work.
 
 Она была мягкая, рыхлая, с грубым деревенским лицом, всегда в сером ветхом платке или косынке в горошек.
 
@@ -272,16 +272,16 @@ She was soft and fragile, with a rough country face, and always wore a shabby gr
 
 Как и деда, ее не восхищали ни самолеты, ни ди­рижабли, которые тогда летали, наоборот, они ее пугали. Укладывая меня на печи спать, она расска­зывала:
 
-Like grandfather, she was not impressed by by airplanes or the airships that flew then. On the contrary, they frightened her. Putting me to sleep on top of the stove, she told me:
+Like grandfather, she wasn't impressed by airplanes or the airships of the time. On the contrary, they scared her. Putting me to sleep on top of the stove, she told me:
 
 — Так, когда я маленькой была, забьемся мы на печку, один к одному лепимся, голенькие, босенькие, голоднючие, как черва, а бабуся наша покойная пу­гает: вы сидите тихо, это еще хорошо, а придет вре­мя, страшное время, когда по земле пойдет враг, и всю землю опутают проволоками, а в небе будут летать железные птицы и клювами своими желез­ными будут клевать людей, и то уже будет перед концом света...
 
-“So, when I was little, when we were put to bed on the stove, clinging to each other naked, barefoot, hungry as worms, our late and scary granny would say, "You sit quietly, everything is still good. There will come a time when the enemy will come to earth, and the ground will be entangled in wire, and iron birds will fly in the sky, pecking at people with their iron beaks. And that will precede the end of the world.
+“So, when I was little, when we were put to bed on the stove, clinging to each other naked, barefoot, and hungry as worms, our late and scary granny would say, 'You sit quietly, everything is still good. There will come a time when the enemy will come to Earth, and the ground will be entangled in wire, and iron birds will fly in the sky, pecking at people with their iron beaks. And that will precede the end of the world.'
 
 
 А мы стучим зубенятами от страха и молимся: не приведи, Господи, дожить до того... Не внял Господь, дожили мы. Все так вышло, как предсказывала бабуся: и проволоки, и птицы же­лезные, и скоро, видно, конец света...
 
-And our teeth chattered in fear and we prayed: 'Do not let us live to see this, Lord..." The Lord did not heed our prayers &emdash; we lived. And it all happened as Granny predicted: the wire and the birds of iron, and soon, we will see the end of the world..."
+And our teeth chattered in fear and we prayed: 'Do not let us live to see this, Lord...' The Lord did not heed our prayers &emdash; we lived. And it all happened just as Granny predicted: the barbed wire and the birds of iron, and soon, we will see the end of the world..."
 
 
 Вероятно, в ожидании его бабка совершенно не заботилась о материальном «добре», а очень много раздавала ради спасения души. Может, мы и жили бы чуточку лучше, но бабка могла сама не съесть, а другому отдать. Несла она копейки на церковь, нищим, то вдруг готовила какие-то передачи в боль­ницы, знакомым, соседям.
