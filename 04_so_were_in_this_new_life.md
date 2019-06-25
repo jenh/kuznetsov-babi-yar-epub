@@ -86,7 +86,7 @@ By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, h
 
 Дед родился в 1870 году — в одном году с Лени­ным, но на этом общее между ними кончалось. Дед не мог слышать самого имени Ленина, хотя тот дав­но умер, как умерли или были перебиты многие ле­нинцы. Он считал, что именно от Ленина все беды, что тот «играл в Россию, как в рулетку, все проиг­рал и сдох».
 
-His grandfather was born in 1870 &emdash; the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or had been killed. He believed that Lenin was the cause of all our troubles; Lenin "played Russia like roulette, lost everything, and died."
+My grandfather was born in 1870 &emdash; the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or had been killed. He believed that Lenin was the cause of all our troubles; Lenin "played Russia like roulette, lost everything, and died."
 
 
 Когда он такое говорил, бабка в ужасе огляды­валась по сторонам и демонстративно восклицала во дворе:
@@ -100,8 +100,7 @@ When he said things like that, Grandmother looked around in horror and shouted i
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
 
-His grandfather was born and raised in the village of Shenderovka, Kanevskiy district, into a desperate rural family with eleven children who, according to him, lived in a dilapidated, smoky hovel.
-
+My grandfather was born and raised in the village of Shenderovka, Kanevskiy district, into a desperate rural family with eleven children who, according to him, lived in a dilapidated, smoky hovel.
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
 
@@ -126,11 +125,11 @@ As a former peasant, he was horrified by the State collectivization of farming c
 
 Северный полюс завоевали, зато когда дед с баб­кой завели, наконец, свою радужную мечту — ко­рову, ее нечем было кормить. Очереди за комбикор­мом были, как туча. Рядом с хатой, за железнодо­рожной насыпью огромный богатый луг пропадает, а пасти нельзя. Как уж дед ни изворачивался, кому только ни совал, чтобы достать сена! Рыскал с меш­ком и серпом по Бабьему и Репьяхову Ярам, акку­ратно срезал траву под заборами. Сам не пил моло­ка — посылал на базар бабку продавать. Помнил, что у барина-немца была корова, дававшая в день три ведра молока, и думал, что если нашу облезлую Лыску кормить, она, может, тоже столько будет давать.
 
-The North Pole may have been conquered, but when my grandfather and grandmother finally got their wished-for dream &emdash; a cow &emdash; it had nothing to eat. The lines for animal feed were swarming. Next to the cottage, behind the railroad embankment, a huge rich meadow went to waste &emdash; we weren't allowed to use it for grazing. No matter how dodgy grandfather was, he had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
+The North Pole may have been conquered, but when my grandparents finally got their wished-for dream &emdash; a cow &emdash; it had nothing to eat. The lines for animal feed were swarming. Next to the cottage, behind the railroad embankment, a huge rich meadow went to waste &emdash; we weren't allowed to use it for grazing. No matter how dodgy grandfather was, he had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
 
 В общем, он был великий комбинатор. И от по­стоянных неудач, судорожной бедности противен стал и завистлив необычайно. Завидовал половине Куреневки, особенно тем, у кого был хороший огород и кто мог таскать корзинами на базар редис­ку. Куреневка испокон веков спасалась редиской, а также поросятами и курами, глухая ко всяким наукам, искусствам или политике, вернее, требуя в политике одного: чтоб разрешали продавать ре­диску.
 
-Anyway, he was a great manipulator. And from the constant failures, this convulsive poverty disgusted him and he became extraordinarily jealous. Jealous of half of Kurenevka, especially those who had a good vegetable garden and who could carry baskets to the radish bazaar. Kurenevka has always been saved by their radishes, as well as by their pigs and chickens. Kurenevka was deaf to all sciences, arts or politics...or rather, demanding of politics simply one thing: to be allowed to sell radishes.
+Anyway, he was a great manipulator. And from the constant failures, this convulsive poverty disgusted him and he became extraordinarily jealous. Jealous of half of Kurenevka, especially those who had a good vegetable garden and who could carry baskets to the radish market. Kurenevka has always been saved by their radishes, as well as by their pigs and chickens. Kurenevka was deaf to all sciences, arts or politics...or rather, demanding of politics simply one thing: to be allowed to sell radishes.
 
 У Горького в «Детстве» есть такая песня:
 
@@ -153,7 +152,7 @@ In his old age, he had become terribly cantankerous, sneaking off with the neigh
 
 Когда он, брызжа слюной, ругался, слышно бы­ло до самого базара: «У-ту-ту-ту!» — и его прозва­ли «Семерик-тру-ту-ту-три-ведра-молока».
 
-When he prepared for the bazaar, he spit and swore: "Ooh, too, too, too!" and his nickname among the neighbors became "Semerik-true-two-two-three-buckets-milk."
+When he prepared for the market, he spit and swore: "Ooh, too, too, too!" and his nickname among the neighbors became "Semerik-true-two-two-three-buckets-milk."
 
 Водки дед не пил от скупости, не курил, в кино не ходил, на трамвае старался проехать зайцем, штаны и пиджаки донашивал до того, что они со­превали и расползались на нем. Если по улице ехал воз с сеном и терял клок, дед первым оказывался на мостовой, старательно сгребал палочкой клок и с торжеством нес домой.
 
@@ -251,7 +250,7 @@ The only one I knew for sure how she was related to me was the wacky Katya &emda
 
 Я любил ее, Катьку, она была, как святая, безо­бидная и добрая. Если ей подавали конфетку, она ее непременно берегла для меня, а иногда на соб­ранные копейки покупала на базаре мне гостинец— глиняную свистульку-лошадку. Я потом и вырос, а она этого не замечала, приносила свистульки и все что-то невнятно бормотала, бормотала... Умерла она на улице, тихо и незаметно, как погибают воробьи, ее погрузили на телегу и где-то закопали.
 
-I loved Katya. She was like a saint, harmless and kind. If she was served candy, she would definitely save it for me, and sometimes buy me a present &emdash; a clay whistle horse &emdash; at the bazaar with the kopecks she collected. I later grew up, but she never noticed, and continued bringing whistles, mumbling and muttering...She died in the street, quietly and imperceptibly, as sparrows die. She was loaded on a cart and buried somewhere.
+I loved Katya. She was like a saint, harmless and kind. If she was served candy, she would definitely save it for me, and sometimes buy me a present &emdash; a clay whistle horse &emdash; at the market with the kopecks she collected. I later grew up, but she never noticed, and continued bringing whistles, mumbling and muttering...She died in the street, quietly and imperceptibly, as sparrows die. She was loaded on a cart and buried somewhere.
 
 
 Двенадцати лет бабка моя пошла в люди, нянчи­ла чужих детей, была прислугой, потом стала прач­кой. Как я ни спрашивал, она никогда не хотела вспоминать ни молодость свою, ни любовь, может, потому, что вспоминалась одна муть.
@@ -297,23 +296,15 @@ She had a lot of icons. A whole iconostasis in the corner of the room, with a my
 
 В центре находилась строгая, измученная, с фана­тическим взглядом Богоматерь. Даже младенец у нее походил на маленького сердитого старичка, который говорит: «Нельзя, нельзя!» У них были такие вы­разительные взгляды, что если долго смотреть — мороз шел по коже. Икона была в футляре под стеклом, с богатым позолоченным окладом: какие-то невиданные цветы с пупырышками, гроздья ме­таллических ягод... И мне ужасно хотелось потро­гать эти ягоды, но под стеклом они были недосягае­мы. Когда бабка уходила на базар, я подставлял табуретку и готов был часами разглядывать эти яго­ды, мечтая, что когда бабка умрет, я-то уж до них доберусь.
 
-And in the middle of it all was the stern, exhausted, fanatical-looking Virgin. Even the baby she held looked like a little angry old man who exclaimed, “It’s impossible, it’s impossible!” They had such expressive looks that, if you looked for a long time, your skin would frost over. The icon was in a case under glass, with a rich gilded salary: some unseen flowers with pimples, clusters of metal berries ... And I terribly wanted to touch these berries, but under the glass they were out of reach. When grandma left for the bazaar, I substituted a stool and was ready to watch these berries for hours, hoping that when grandma died, I would get them.
-
+And in the middle of it all was the stern, exhausted, fanatical-looking Virgin. Even the baby she held looked like a little angry old man exclaiming, “It’s impossible, it’s impossible!” They had such expressive looks that, if you gazed at them for a long time, you'd get goosebumps. The icon was in a case under glass, with rich, gilded edges, and inside were some half-hidden flowers, clusters of metal berries...And I madly wanted to touch these berries, but under the glass they were out of reach. When grandma went to the market, I would pull over a stool and prepare to watch these berries for hours. I hoped that when Grandmother died, I would finally get them.
 
 Был там ласковый Николай-Угодник с белокурой бородкой, храбрый Георгий-Победоносец, а сбоку стояла еще одна Богоматерь — с золотистыми воло­сами и нежным, до удивления знакомым лицом. Она улыбалась, и мальчишка у нее на коленях был пух­ленький, очень довольный жизнью, с ямочками на голом тельце.
 
 There was a gentle Nicholas the Ugodnik with a blond beard, a brave George the Victorious, and on the side stood another Mother of God with golden hair and a gentle, surprisingly familiar face. She smiled, and the boy in her lap was plump, very pleased with life, with dimples on the naked body.
 
-
 И хотя она была без украшений, я в эту икону был по-настоящему влюблен. У нас на Куреневке много таких девушек — белокурых, мягких и неж­ных. Они идут за первых красавиц; выйдя замуж, рожают вот таких пухленьких детей с ямочками, но, к сожалению, быстро блекнут и старятся. Моей самой первой детской любовью был образ такой женщины с бабкиной иконы, а когда потом, после войны, я уж совсем вырос, я первым делом влюбил­ся в живую именно такую девушку.
 
 And although she was unadorned, I was really in love with this icon. We have a lot of these girls on Kurenevka - blond, soft and gentle. They go for the first beauties; when they marry, they give birth to such chubby children with dimples, but, unfortunately, quickly fade and age. My very first childhood love was the image of such a woman with the grandmother's icon, and when later, after the war, I really grew up, the first thing I fell in love with was living just such a girl.
-
-
-
-
-
-
 
 Отец мой был революционер и коммунист, мама — учительница. Поэтому, когда я родился, о крещении не могло быть и речи.
 
@@ -409,16 +400,9 @@ So I felt ill, my fever rose, I felt sick, my joints ached ... Grandma looked at
 
 The grandmother cured malaria- “prypasnitsa”, or else, as they say in Ukraine, “shake”, cured eczema. Only her back could not cure.
 
-
-
-
-
-
-
 КУЗНЕЦОВА Мария Федоровна, моя мать, была единственной дочкой у деда и бабки, и вот ей-то революция дала много. Быть бы ей прислугой или прачкой, да открылись курсы, она закончила их в 1923 году, стала учительницей первых — четвер­тых классов, и преподавала она потом всю жизнь.
 
 Kuznetsova Maria Fedorovna, my mother, was the only daughter of her grandfather and grandmother, and she gave a lot to her revolution. If she were a servant or a washerwoman, the courses opened, she finished them in 1923, became a teacher of the first and fourth grades, and she taught all her life later.
-
 
 Была она очень красивой, начитанной, способной, пела и играла в самодеятельности Народного дома, и вот стал дед замечать, что к нему придирается милиция.
 
@@ -604,160 +588,88 @@ Mom led two classes in a regular school, but often she managed to earn money eve
 
 She devoted her whole life to the children, and treated herself like a nun.] Sometimes her pupils-evening students, grown baleen uncles, workers, came to us to marry. My grandfather loved them very much, because they brought sausage, canned food, drink, he interpreted with them, ordered to get nails or whitewash, and mother angrily sat for a minute or two and went to bed. Grooms turned sour and disappeared.
 
-
 Последнее время мать дежурила в пустой школе возле телефона — на случай воздушных тревог, за­жигательных бомб. Учителей в организованном по­рядке не эвакуировали, мы сидели на чемоданах, но уехать так и не смогли, и мать встретила немцев с ужасом, не ожидая ничего хорошего.
 
 Recently, the mother was on duty at an empty school near the phone - in case of air alarms, incendiary bombs. They did not evacuate the teachers in an organized manner, we sat on our suitcases, but we could not leave, and the mother met the Germans with horror, not expecting anything good.
-
-
-
-
-
-
 
 Кот ТИТ — мой верный друг и товарищ, с кото­рым прошло все мое детство. Я подумал и решил, что погрешу против правды, если не упомяну и его как члена нашей семьи. По крайней мере для меня он таковым был всегда, и он сыграл в моей жизни немаловажную роль, о чем будет сказано дальше.
 
 The cat TIT is my faithful friend and comrade, with whom all my childhood was spent. I thought and decided that I would sin against the truth, if I do not mention him as a member of our family. At least for me, he was always like that, and he played an important role in my life, which will be discussed further.
 
-
 Кот Тит был старый, душевно ласковый, но внеш­не весьма сдержанный и серьезный. Фамильярно­стей не любил и очень чутко различал, кто к нему относится действительно хорошо, а кто только сюсюкает и подлизывается.
 
 Titus was an old, mentally affectionate cat, but outwardly very restrained and serious. He did not like family names and very sensitively discerned who treats him really well and who only lisps and sucks.
-
 
 Бабка его любила, а дед ненавидел лютой нена­вистью — за то, что он дармоед.
 
 Grandma loved him, and grandfather hated by fierce hatred - because he was a parasite.
 
-
 Однажды дед посадил Тита за пазуху и повез в трамвае на четырнадцатую линию Пущи-Водицы, это примерно пятнадцать километров, и все лесом. Он выпустил его там, в лесу, и пугнул.
 
 One day, my grandfather planted Titus in his bosom and took a tram to the fourteenth line of Pushcha-Voditsa, which is about fifteen kilometers, and all in the forest. He let him out there in the woods, and scared.
-
 
 Тит явился домой через неделю, очень голодный, запуганный и несчастный.
 
 Titus came home a week later, very hungry, intimidated and unhappy.
 
-
 Дед пришел в ярость, посадил Тита в мешок, по­вез через весь город на Демиевку и выкинул там в Голосеевском лесу.
 
 The grandfather was furious, put Titus in a bag, drove through the whole city to Demiivka and threw it there in the Goloseevsky forest.
-
 
 Оттуда Тит явился только через три месяца, с оторванным ухом, перебитой лапой — ему ведь при­шлось идти через весь огромный город. Но после этого озадаченный дед оставил его в покое.
 
 From there, Titus appeared only three months later, with his ear torn off, his broken paw - he had to walk through the whole huge city. But after that the puzzled grandfather left him alone.
 
-
 Когда потом мне попалась потрясающая повесть Сетона-Томпсона о кошке, которая через города и реки упрямо идет к тому мусорному ящику, где когда-то родилась, я верил каждому слову. Кошки умеют это.
 
 When then I came across Seton-Thompson's amazing story about a cat that stubbornly goes through the cities and rivers to that bin where I was born, I believed every word. Cats can do it.
-
 
 Наш Тит, хотя и приучился прятаться от фашист­ских самолетов в окопе, все же в политике не раз­бирался совершенно. Он был, так сказать, самым аполитичным из всех нас, а напрасно, потому что новая жизнь существенно касалась и его.
 
 Our Titus, although he had learned to hide from fascist aircraft in the trenches, still did not understand politics at all. He was, so to speak, the most apolitical of all of us, but in vain, because the new life essentially concerned him.
 
-
-
-
-
-
-
 Вот такими мы были к приходу фашизма и вооб­ще к приходу войны: незначительные, невоенно­обязанные, старики, женщина, пацаненок, то есть те, кому меньше всего нужна война и которым, как назло, как раз больше всего в ней достается.
 
 So we were like this when the arrival of fascism and in general when the war came: insignificant, unmilitary, old men, a woman, a boy, that is, those who need the war the least and who, unfortunately, get the most out of it.
 
-
 Но ни в коем случае я не собираюсь дальше по­казывать: вот, мол, смотрите, как от войны страда­ют женщины, дети и старики. Хотя бы потому, что доказывать это никому не нужно. Конечно, я рас­сказываю много личного, но меньше всего, — под­черкиваю, — меньше всего здесь ставится цель рас­сказывать о всяких личных передрягах.
 
-
-
-
 Эта книга — совсем о другом.
-
-
 
 
 — Что это за медали? — спросил дед, разгляды­вая газету.
 
 
-
-
 Целую полосу занимала «Борьба украинского на­рода» — исторический обзор с портретами-медальо­нами князя Святослава, княгини Ольги, Владимира Крестителя, Богдана Хмельницкого, Мазепы, Шев­ченко, Леси Украинки и Симона Петлюры.
-
-
 
 
 [Сочетание было невероятное, на что я, мальчиш­ка, и то вытаращил глаза. Святослав, Ольга и Вла­димир — основатели Руси, тогда не было Украины и России, а просто Киевская Русь. Ладно, тут все в порядке. Святые предки у украинцев и русских общие.
 
-
-
-
 Но дальше... Хмельницкий Украину к Рос­сии присоединил.
-
-
-
 
 Мазепа хотел оторвать. Тарас Шевченко и Леся Украинка — поэты, которых пре­возносила советская власть.
 
-
-
-
 А Петлюра боролся в революцию за независимую Украину, и всех петлю­ровцев постреляли и сгноили в советских лагерях.]
-
-
-
 
 — И Богдан у них великий? — удивился дед.
 
-
-
-
 — Да.
-
-
-
 
 — Чудно! Мазепа... Петлюра... — Дед озадачен­но погладил бороду. — Насчет того черта не знаю, давно было, при Петре Первом, а Петлюру сам ви­дел — и паразит, и горлохват. Что они только тут творили!..
 
-
-
-
 Мать в другой комнате перешивала мне пальто к зиме. Она вышла, глянула в газету.
-
-
-
 
 — Не верю я ничему, — пробормотала она. — Кошмар какой-то. Не было хороших царей. Уби­вали все от Святослава до Сталина.
 
-
-
-
 — Про Сталина забудь, дурная! — весело сказал дед. — И ныне, и присно, и во веки веков. Будет хо­роший царь.
 
-
-
-
 — Нет, — сказала мать. — Может где-нибудь на Мадагаскаре, в Америке, в Австралии, только не в России. В России — нет.
-
-
-
 
 Я принялся читать подробности возрождения цер­кви на Холмщине и бурного роста искусства в Житомире. Дед выслушал с большим удовольстви­ем, солидно кивая головой.
 
 
-
-
 — Очень хорошо, — сказал он. — Немцы знают, что делают. Вот послушай: когда я был молодой и работал у немецких колонистов, я уже тогда понял, что немцы — это хозяева. Они работу любят, а ленивых ненавидят: что ты заработал, то и полу­чай. А воровства у них нет: уходят из дому, дверь палочкой подопрут — и никаких замков. А если, случись, поймают вора — так уж бьют его, бьют, пока не убьют. Вот теперь ты сам посмотришь, ка­кая будет справедливая жизнь. Рай на земле!
 
-
-
-
 — Ничего не будет, — сказала мама как-то стран­но. — И большевики еще вернутся.
-
-
-
 
 Мы не стали с ней спорить, потому что знали, о чем она думает, только не говорит: что, может, вер­нется когда-нибудь отец, которого она любит и бу­дет любить до самой смерти.

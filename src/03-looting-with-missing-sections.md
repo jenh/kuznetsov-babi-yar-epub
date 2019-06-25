@@ -1,4 +1,7 @@
-## LOOTING IS DAMNED INTERESTING, BUT YOU MUST KNOW HOW TO DO IT
+
+## Грабить чертовски интересно, но нужно уметь
+
+## Looting is damned interesting, but you must know how to do it
 
 Сосед отправился с распиской в школу, где уже расположился штаб. Я немедленно увязался за ним, соображая: вот ему дадут немецкие деньги, а я попрошу их посмотреть.
 
@@ -35,6 +38,10 @@ I was trembling, I realized that this is my booty-pah. But the store was empty, 
 Тут уж я, как звереныш, извиваясь, пробился туда и схва- тил с полки коробку. Бабы ее у меня потянули, но я уцепился, как кот за мясо, из меня вытряхивали душу, коробка треснула, из нее посыпались простые черные пуговицы для пальто. Десятки рук стали загребать эти пуговицы, и я то- же бешено загребал и насыпал их в карманы, потому что у меня все-паки было больше прав на них, чем у других.
 
 At this point I, like a young one, squirming, made my way there and grabbed a box from the shelf. The women pulled it from me, but I clung like a cat to meat, they shook my soul out of me, the box cracked, and simple black buttons for a coat fell from it. Dozens of hands began to rake these buttons, and I also frantically raked and poured them into my pockets, because I had all the rights to them all than others.
+
+их ловить, выудил штук пять, но выронил одну лампу, ко-
+торую у меня прямо из-под носа тут же схватила какая-то
+подлая баба
 
 I noticed that clothes brushes rolled under my feet, began to catch them, fished out five pieces, but dropped one lamp, which I immediately grabbed from under my nose some vile woman
 
