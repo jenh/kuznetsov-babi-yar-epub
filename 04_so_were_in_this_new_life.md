@@ -81,12 +81,12 @@ No, he wasn't a fascist or a monarchist, nor a nationalist or a Trotskyite, no r
 
 По происхождению он был из украинских кре­постных, крестьянин-бедняк. По социальному поло­жению — городской рабочий с долгим стажем. А по сути своей — самый простой, маленький, голод­ный, запуганный обыватель Страны Советов, кото­рая ему — мачеха.
 
-By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, he was a long-serving city worker. In essence, he was the simplest, smallest, hungriest, and most frightened citizen of the Soviet State &emdash; his stepmother.
+By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, he was a long-serving city worker. In essence, he was the simplest, smallest, hungriest, and most frightened citizen of the Soviet State &mdash; his stepmother.
 
 
 Дед родился в 1870 году — в одном году с Лени­ным, но на этом общее между ними кончалось. Дед не мог слышать самого имени Ленина, хотя тот дав­но умер, как умерли или были перебиты многие ле­нинцы. Он считал, что именно от Ленина все беды, что тот «играл в Россию, как в рулетку, все проиг­рал и сдох».
 
-My grandfather was born in 1870 &emdash; the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or had been killed. He believed that Lenin was the cause of all our troubles; Lenin "played Russia like roulette, lost everything, and died."
+My grandfather was born in 1870 &mdash; the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or had been killed. He believed that Lenin was the cause of all our troubles; Lenin "played Russia like roulette, lost everything, and died."
 
 
 Когда он такое говорил, бабка в ужасе огляды­валась по сторонам и демонстративно восклицала во дворе:
@@ -104,16 +104,16 @@ My grandfather was born and raised in the village of Shenderovka, Kanevskiy dist
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
 
-He spent his youth as a farmhand with German colonists in the Kherson region, leaving his family behind forever. After his military service, he went to Kiev to earn money and hung around searching for work. He found a job as a janitor at the general's house, married a laundress, and began working on the tram as a conductor, dreaming about his future house and prosperity: to eat and not think about tomorrow &emdash; that was the limit of his dreams.
+He spent his youth as a farmhand with German colonists in the Kherson region, leaving his family behind forever. After his military service, he went to Kiev to earn money and hung around searching for work. He found a job as a janitor at the general's house, married a laundress, and began working on the tram as a conductor, dreaming about his future house and prosperity: to eat and not think about tomorrow &mdash; that was the limit of his dreams.
 
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
-He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they were finally able to buy a tiny piece of swamp in Kurenevka, drained it themselves, and spent a long time building a cottage for themselves &emdash; and then the revolution broke out.
+He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they were finally able to buy a tiny piece of swamp in Kurenevka, drained it themselves, and spent a long time building a cottage for themselves &mdash; and then the revolution broke out.
 
 
 Добра она не принесла, лишь новый голод, страх, — и начисто отняла мечту. Красивым словам боль­шевиков о земном рае в туманном будущем дед не верил. Он был практик.
 
-The revolution didn't bring any good to them, just a new hunger, fear &emdash; and completely stole their dream away. Grandfather didn't believe the Bolsheviks' beautiful words about earthly paradise in some foggy future. He was practical.
+The revolution didn't bring any good to them, just a new hunger, fear &mdash; and completely stole their dream away. Grandfather didn't believe the Bolsheviks' beautiful words about earthly paradise in some foggy future. He was practical.
 
 Много лет затем дед работал на обувной фабрике № 4 слесарем-канализатором, в вонючей робе лазил с ключами по трубам, ранился у станка — уж такой рабочий класс, что дальше некуда. И все эти годы он не переставал ненавидеть власть «этих босяков и убийц» и «нет, не хозяев».
 
@@ -121,11 +121,11 @@ Finally, my grandfather worked for many years as a plumber in the sewers of Shoe
 
 Его, бывшего крестьянина, в окончательный ужас привела коллективизация с ее колхозами, вызвавшая невиданный голод. Строительство заво­дов, шумно расписываемые в те годы Днепрогэс, за­воевание Северного полюса там или неба — были деду решительно «до лампочки».
 
-As a former peasant, he was horrified by the State collectivization of farming communes, which caused unprecedented famine. The construction of factories (noisily enabled in those years by the Dnieper Hydroelectric Station), the conquest of the North Pole and the heavens &emdash; he didn't give a damn about any of it.
+As a former peasant, he was horrified by the State collectivization of farming communes, which caused unprecedented famine. The construction of factories (noisily enabled in those years by the Dnieper Hydroelectric Station), the conquest of the North Pole and the heavens &mdash; he didn't give a damn about any of it.
 
 Северный полюс завоевали, зато когда дед с баб­кой завели, наконец, свою радужную мечту — ко­рову, ее нечем было кормить. Очереди за комбикор­мом были, как туча. Рядом с хатой, за железнодо­рожной насыпью огромный богатый луг пропадает, а пасти нельзя. Как уж дед ни изворачивался, кому только ни совал, чтобы достать сена! Рыскал с меш­ком и серпом по Бабьему и Репьяхову Ярам, акку­ратно срезал траву под заборами. Сам не пил моло­ка — посылал на базар бабку продавать. Помнил, что у барина-немца была корова, дававшая в день три ведра молока, и думал, что если нашу облезлую Лыску кормить, она, может, тоже столько будет давать.
 
-The North Pole may have been conquered, but when my grandparents finally got their wished-for dream &emdash; a cow &emdash; it had nothing to eat. The lines for animal feed were swarming. Next to the cottage, behind the railroad embankment, a huge rich meadow went to waste &emdash; we weren't allowed to use it for grazing. No matter how dodgy grandfather was, he had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
+The North Pole may have been conquered, but when my grandparents finally got their wished-for dream &mdash; a cow &mdash; it had nothing to eat. The lines for animal feed were swarming. Next to the cottage, behind the railroad embankment, a huge rich meadow went to waste &mdash; we weren't allowed to use it for grazing. No matter how dodgy grandfather was, he had to fight to get hay. He scoured Yaram Babi and Yaram Repyahov with a bag and sickle and carefully cut the grass under the fences. He didn't drink the milk himself, he sent my grandmother to the market to sell it. He remembered that the German baron he worked for had a cow who gave three buckets of milk a day, and he thought that if he fed our skinny Lysku well, maybe she would give as much as the German's cow.
 
 В общем, он был великий комбинатор. И от по­стоянных неудач, судорожной бедности противен стал и завистлив необычайно. Завидовал половине Куреневки, особенно тем, у кого был хороший огород и кто мог таскать корзинами на базар редис­ку. Куреневка испокон веков спасалась редиской, а также поросятами и курами, глухая ко всяким наукам, искусствам или политике, вернее, требуя в политике одного: чтоб разрешали продавать ре­диску.
 
@@ -144,7 +144,7 @@ Gorky has a song like that, from "Childhood:"
 
 Так вот мой дед был завистлив. Но ему не дотя­нуться было до подлинных куреневских «куркулей»: огород его можно было измерить ладонями, полос­ки шагов в восемь шириной, у хаты и сарайчика. За забором были грядки коллективного огородного хозяйства. Однажды ночью дед выкопал новые ям­ки и перенес забор на полметра, украв у огородни­ков метров пять квадратных земли, и равнодушное колхозное начальство этого не заметило! Дед целую неделю был в отличном настроении и торжество­вал, строя планы, как через несколько лет он снова подвинет забор на полметра.
 
-So my grandfather was jealous. He couldn't get near the success of Kurenevka's real bigwigs: his garden could be measured with his palms, in stripes of eight palms wide, from cottage to barn. Collective gardens were planted behind his fence. One night my grandfather dug up new holes and moved the fence by half a meter, stealing five square meters of land from its gardeners &emdash; and the lazy, indifferent collective farm authorities didn't even notice it! In his triumph, Grandfather was in a great mood for a week and made plans to move the fence again by half a meter in a few years' time.
+So my grandfather was jealous. He couldn't get near the success of Kurenevka's real bigwigs: his garden could be measured with his palms, in stripes of eight palms wide, from cottage to barn. Collective gardens were planted behind his fence. One night my grandfather dug up new holes and moved the fence by half a meter, stealing five square meters of land from its gardeners &mdash; and the lazy, indifferent collective farm authorities didn't even notice it! In his triumph, Grandfather was in a great mood for a week and made plans to move the fence again by half a meter in a few years' time.
 
 К старости он стал страшно вздорный, тайком об­рывал соседские груши, свешивавшиеся через забор на «его землю», убивал палкой соседских кур, если они забредали к нам, и потому он перессорился со всей улицей.
 
@@ -172,7 +172,7 @@ Grandfather switched to chickens: they were supposed to walk around, graze, and 
 
 Очень энергичный был дед, воевал и толокся це­лый день с рассвета до темна, но разбогатеть не мог.
 
-Grandfather was very energetic, fighting and pushing all day from dawn to darkness &emdash; but he still couldn't get rich.
+Grandfather was very energetic, fighting and pushing all day from dawn to darkness &mdash; but he still couldn't get rich.
 
 [Были вокруг такие, что «жили»: партийцы, че­кисты, воры, стукачи, разные профсоюзные деяте­ли. Раскатывали в казенных автомобилях, нежили брюхо на кавказских курортах, получали в конвер­тах секретные зарплаты. Дед за свое ужасное ла­занье по канализационным трубам получал жало­ванье в месяц вдвое меньшее, чем стоил простой ко­стюм. И за всю жизнь костюма у него не было, он так и умер, не поносив ни разу костюм.
 
@@ -184,11 +184,11 @@ But there were people who looked at the life of my grandfather's family as a par
 
 Так что когда приходил гость, у моего деда была только одна тема для разговора: как в старину бы­ло хорошо, и люди были сыты, и богатели, а боль­шевики-босяки все загубили.
 
-So when guests came, my grandfather had only one topic to talk about: how the old days were good, and people were well-fed, and rich &emdash; and the how the Bolsheviks destroyed everything.
+So when guests came, my grandfather had only one topic to talk about: how the old days were good, and people were well-fed, and rich &mdash; and the how the Bolsheviks destroyed everything.
 
 Но когда в 1937 году его дружка, старика Жука, арестовали за рассказанный в очереди глупый анек­дот, и этот Жук сразу пропал без вести, как утонул, дед страшно перепугался, замкнулся, и у него оста­лось только полтемы, то есть как в старину было хорошо.
 
-But when, in 1937, his old friend, Zhuka, was arrested for a stupid joke told while standing in line, and old Zhuka immediately went missing as if he'd been drowned, Grandfather was frightened, and went quiet about the Bolsheviks. So then he had only half a topic for guests &emdash; that the old days were good.
+But when, in 1937, his old friend, Zhuka, was arrested for a stupid joke told while standing in line, and old Zhuka immediately went missing as if he'd been drowned, Grandfather was frightened, and went quiet about the Bolsheviks. So then he had only half a topic for guests &mdash; that the old days were good.
 
 Я полагаю, что он был так же прав, как и неправ. Это самое «хорошо» — познается лишь в сравнении. И бедному деду моему в 1937 году царская Россия уже казалась справедливым, потерянным раем.
 
@@ -217,7 +217,7 @@ Grandpa's eyes got so big, they grew into his forehead. This was a personal mess
 
 Он выучил листовку наизусть, только после этого порвал на меленькие клочки. Ему шел семьдесят второй год, и вот его мечта — с ума сойти! — воз­вращалась, и может на лугу еще будет пастись его корова, дающая три ведра молока, и в доме будет запас еды, на завтрашний день и даже на послезав­трашний день, и может быть он даже купит себе, наконец-то, первый костюм.
 
-He memorized the leaflet by heart, and only after that did he rip it into tiny pieces. He was now 72, and here was his dream, right in front of him &emdash; it was crazy! His cow may well still be able to graze in the meadow and give three buckets of milk, and there may even be enough food in the house for tomorrow and even for after the day after the day after tomorrow, and maybe he may even be able to finally buy himself his first suit.
+He memorized the leaflet by heart, and only after that did he rip it into tiny pieces. He was now 72, and here was his dream, right in front of him &mdash; it was crazy! His cow may well still be able to graze in the meadow and give three buckets of milk, and there may even be enough food in the house for tomorrow and even for after the day after the day after tomorrow, and maybe he may even be able to finally buy himself his first suit.
 
 СЕМЕРИК (в девичестве ДОЛГОРУК) Марфа Ефимовна, моя бабушка, родилась и выросла в селе Деремезна Обуховского уезда, в проклятущей халупе, где, как и в дедовой семье, некуда было плюнуть из-за детей.
 
@@ -246,11 +246,11 @@ There were so many of my grandmother's relatives in Deremezna, and in Peregonovk
 
 Только о юродивой Катьке я понял, что она мне — двоюродная тетка. После тифа она впала в слабо­умие, стала нищенкой, она сидела с сумой под церк­вями, просила по дворам, приносила кусочки хлеба в суме, дед накидывался и отбирал для поросят, бурча: «Подумать только, вот же живут эти нищие, а сколько им на Пасху подают!»
 
-The only one I knew for sure how she was related to me was the wacky Katya &emdash; she was my great aunt. After she had typhus, she fell into dementia, became a beggar, she sat with her bag in front of churches, went from house to house begging for bread, putting pieces of it into her bag, which grandfather took away for piglets, muttering: "To think, these poor people live this way, and they get so much for Easter!"
+The only one I knew for sure how she was related to me was the wacky Katya &mdash; she was my great aunt. After she had typhus, she fell into dementia, became a beggar, she sat with her bag in front of churches, went from house to house begging for bread, putting pieces of it into her bag, which grandfather took away for piglets, muttering: "To think, these poor people live this way, and they get so much for Easter!"
 
 Я любил ее, Катьку, она была, как святая, безо­бидная и добрая. Если ей подавали конфетку, она ее непременно берегла для меня, а иногда на соб­ранные копейки покупала на базаре мне гостинец— глиняную свистульку-лошадку. Я потом и вырос, а она этого не замечала, приносила свистульки и все что-то невнятно бормотала, бормотала... Умерла она на улице, тихо и незаметно, как погибают воробьи, ее погрузили на телегу и где-то закопали.
 
-I loved Katya. She was like a saint, harmless and kind. If she was served candy, she would definitely save it for me, and sometimes buy me a present &emdash; a clay whistle horse &emdash; at the market with the kopecks she collected. I later grew up, but she never noticed, and continued bringing whistles, mumbling and muttering...She died in the street, quietly and imperceptibly, as sparrows die. She was loaded on a cart and buried somewhere.
+I loved Katya. She was like a saint, harmless and kind. If she was served candy, she would definitely save it for me, and sometimes buy me a present &mdash; a clay whistle horse &mdash; at the market with the kopecks she collected. I later grew up, but she never noticed, and continued bringing whistles, mumbling and muttering...She died in the street, quietly and imperceptibly, as sparrows die. She was loaded on a cart and buried somewhere.
 
 
 Двенадцати лет бабка моя пошла в люди, нянчи­ла чужих детей, была прислугой, потом стала прач­кой. Как я ни спрашивал, она никогда не хотела вспоминать ни молодость свою, ни любовь, может, потому, что вспоминалась одна муть.
@@ -259,7 +259,7 @@ For twelve years, my grandmother worked for other people. She nursed other peopl
 
 Она была совершенно неграмотна. Не знала даже цифр. Бумажные деньги она различала по рисун­ку и цвету, монеты — по величине.
 
-She was completely illiterate. She didn't even know numbers &emdash; she could tell paper money apart by the differences in drawing and color, and coins apart by their size.
+She was completely illiterate. She didn't even know numbers &mdash; she could tell paper money apart by the differences in drawing and color, and coins apart by their size.
 
 Поскольку мать моя, учительница, работала в школе по две смены да еще оставалась после уро­ков, я полностью вырос при бабке. Она меня буди­ла, умывала, кормила, лупила, забавляла украин­скими «казочками», и все она топала, варила, меша­ла, толкла, делала пойло поросенку, гоняла кота, гнулась на грядках, колола дрова, и у нее постоян­но болела поясница, так что она время от времени ложилась, тихо стонала, потом поднималась и опять бралась за работу.
 
@@ -280,7 +280,7 @@ Like grandfather, she wasn't impressed by airplanes or the airships of the time.
 
 А мы стучим зубенятами от страха и молимся: не приведи, Господи, дожить до того... Не внял Господь, дожили мы. Все так вышло, как предсказывала бабуся: и проволоки, и птицы же­лезные, и скоро, видно, конец света...
 
-And our teeth chattered in fear and we prayed: 'Do not let us live to see this, Lord...' The Lord did not heed our prayers &emdash; we lived. And it all happened just as Granny predicted: the barbed wire and the birds of iron, and soon, we will see the end of the world..."
+And our teeth chattered in fear and we prayed: 'Do not let us live to see this, Lord...' The Lord did not heed our prayers &mdash; we lived. And it all happened just as Granny predicted: the barbed wire and the birds of iron, and soon, we will see the end of the world..."
 
 Вероятно, в ожидании его бабка совершенно не заботилась о материальном «добре», а очень много раздавала ради спасения души. Может, мы и жили бы чуточку лучше, но бабка могла сама не съесть, а другому отдать. Несла она копейки на церковь, нищим, то вдруг готовила какие-то передачи в боль­ницы, знакомым, соседям.
 

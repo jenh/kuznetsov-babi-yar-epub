@@ -49,11 +49,11 @@ Crushed, I swayed, and went outside, where I caught sight of bags of salt being 
 
 Я готов был зарыдать, я сроду не был жадным, был у бабушки таким воспитанным, вежливеньким внучком, и вдруг этот грабеж захватил меня, как горячая лавина, у меня горло сдавило от жадности и азарта.
 
-I was ready to cry. I'd never been greedy &emdash; my grandmother taught me to be a well-mannered and polite grandson &emdash; but suddenly this robbery seized me like a hot avalanche, and I was choked with greed and excitement.
+I was ready to cry. I'd never been greedy &mdash; my grandmother taught me to be a well-mannered and polite grandson &mdash; but suddenly this robbery seized me like a hot avalanche, and I was choked with greed and excitement.
 
 И, главное, я понимал, что это был неповторимый, редчайший случай — так богато, так великолепно, так безнаказанно пограбить. А я все пропустил, опоздал на какую-то малость!.. Что значит отсутст­вие опыта. «Ну, ладно же, — подумал я, утешая сам себя. — Зато уже в следующий раз...» А когда же он будет, этот следующий раз?..
 
-And, most importantly, I understood that this was a unique, rare case &emdash; so rich, so magnificent, such robbing with impunity. I missed the opportunity, I was a little late...due to a lack of experience. "Well, okay," I thought, comforting myself. "But next time..." But when would there be a next time?
+And, most importantly, I understood that this was a unique, rare case &mdash; so rich, so magnificent, such robbing with impunity. I missed the opportunity, I was a little late...due to a lack of experience. "Well, okay," I thought, comforting myself. "But next time..." But when would there be a next time?
 
 Собрал с горя по прилавкам гири от весов и понес все добро домой.
 
@@ -101,7 +101,7 @@ It turned out that when I was at the market, six soldiers came and demanded, "Eg
 
 Меня все еще трясло от возбуждения и подстег­нула дедова похвала, я побежал звать Шурку Ма­цу, мы вдвоем понеслись опять на базар. Он был уже пуст. Как мы ни шарили — ничего, как мет­лой подметено, магазины усыпаны только бумагой, соломой и стеклом. В обувном мы залезли в кассу, стали крутить ручку. Навыбивали себе чеков на тысячи рублей, вышли, разбрасывали их по улице и, уже равнодушные, смотрели, как в город все вступают и вступают войска.
 
-I was still shaking with excitement and my grandfather's praise, I ran to shout for Shurka Matsa and we both went back to the market. It was already empty. No matter how much we looked, nothing. The stores had been swept clean as if by broom &emdash; covered only with paper, straw and glass. In the shoe store, we climbed up to the register and started turning the handle. We pulled out checks for thousands of roubles, went outside, threw them in the street and, already indifferent, watched as the troops entered the city.
+I was still shaking with excitement and my grandfather's praise, I ran to shout for Shurka Matsa and we both went back to the market. It was already empty. No matter how much we looked, nothing. The stores had been swept clean as if by broom &mdash; covered only with paper, straw and glass. In the shoe store, we climbed up to the register and started turning the handle. We pulled out checks for thousands of roubles, went outside, threw them in the street and, already indifferent, watched as the troops entered the city.
 
 Шли тягачи, вездеходы, ехали колонны солдат на велосипедах и обозы на простых телегах. Те, что вошли и разместились, носили узлы с барахлом, перекинутые через плечо шубы.
 
