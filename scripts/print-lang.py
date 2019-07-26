@@ -8,7 +8,7 @@ from guess_language import guessLanguage
 
 input_file = sys.argv[1]
 lang = sys.argv[2]
-output_file = (input_file.rsplit(".", 1)[ 0 ]) + "_" + lang + ".md"
+output_file = "output/" + (input_file.rsplit(".", 1)[ 0 ]) + "_" + lang + ".md"
 
 myfile = open(input_file,'r')
 output_file = open(output_file,'w')
