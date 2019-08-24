@@ -1,17 +1,18 @@
-view: epub/by_xx.epub popopen
-BY_FILES=\
-	output/front_matter_xx.md\
-	output/author_forward_xx.md\
-	output/01_ashes_xx.md\
-	output/02_soviet-power-is-over_xx.md\
-	output/03_looting-is-damned-interesting_xx.md\
-        output/04_so_were_in_this_new_life_xx.md\
-	output/translators_notes_xx.md\
+view: book_xx.epub popopen
+FILES=\
+	01frontmatter_xx.md\
+	02authorforward_xx.md\
+	03ashes_xx.md\
+	04sovietpowerisover_xx.md\
+	05lootingisdamnedinterestng_xx.md\
+	06sowereinthisnewlife_xx.md\
+	07fromtheauthor_xx.md\
+	100translatorsnotes_xx.md\
 
-epub/by_xx.epub: title.txt $(BY_FILES)
-	cat title.txt $(BY_FILES) | pandoc  --toc --toc-depth=4 - -o $@
+pdf/book_xx.pdf: $(FILES)
+	cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm --pdf-engine=xelatex --template=paperback.tex -o book_xx.pdf
 
-popopen:
-	ebook-viewer epub/by_xx.epub
-
-
+epub/book_xx.epub: $(FILES)
+	cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm --toc --toc-depth=4 --css=epub.css - -o book_xx.epub
+popopen: 
+	ebook-viewer book_xx.epub
