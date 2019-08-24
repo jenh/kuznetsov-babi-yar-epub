@@ -56,3 +56,5 @@ https://www.wordhippo.com/what-is/the-meaning-of/russian-word-d1b5bed41d260772c8
 Kuznetsov started documenting when he was 14, but he wrote the book itself in the summer of 1965 -- while the Soviet government was bulldozing the site in order to build a new stadium and amusement park.
 
 https://sgs-mil.org/eng/eng-main/opposition-to-putins-regime/541-the-soviet-union-is-a-fascist-country.html
+
+http://opus.nlpl.eu/lex.php?l=rus -> translations from word alignments
