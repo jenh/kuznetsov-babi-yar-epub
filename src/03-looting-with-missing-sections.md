@@ -21,11 +21,11 @@ I encountered a group robbing a large shoe shop. They'd smashed the showcase win
 
 тогда я сквозь випприну выпрыгнул обратно на улицу, осматриваясь: нет ли другого, еще не разграбленного мага- зина? Эх, какая досада: пока я метался в обувном, рядом разбили хозяйственный магазин и уже тащили оттуда банки с красками, связки лопат и замков.
 
-Then I jumped through the window and back onto the street, looking around: is there another, unlooted store? Oh, what a shame: while I was tossed about in the shoe store, the hardware store next to it was broken into and people were already dragging paint cans, bundles of shovels and locks out of there.
+Then I jumped through the window and back onto the street, looking around: is there another, unlooted store? Oh, what a shame: while I was tossed about in the shoe store, the hardware store next to it was broken into and people were already dragging paint cans, bundles of shovels, and locks out of it.
 
 Я вбежал, заработал локтями, протискиваясь к прилавку, но видел только ноги, топчущие рассыпанный мел и замазку. Заметил, что мужики повалили в подсобку, полез, получил в дверях по голове, по зубам. On боли я озере, разбежался и вклинился между двумя мужиками, меня сдавили так, что захрустели ребра, но прямо передо мной наконец был разломанный ящик.
 
-I ran in, working my elbows, squeezing up to the counter, but I saw only the feet trampling the pannyi and chalk putty races. I noticed that the men knocked into the back room, climbed, got in the door on the head, in the teeth. From the pain, I was brutalized, I fled and wedged between two men, they squeezed me so that my ribs crunched, but right in front of me was a broken box.
+I ran in, working my elbows to squeeze up to the counter, but I saw only the feet trampling the pannyi and chalk putty races. I noticed men knocking into the back room, climbed up, got in the door on the head, in the teeth. From the pain, I was brutalized, I fled and wedged between two men, they squeezed me so that my ribs crunched, but right in front of me was a broken box.
 
 В нем, переложенные соломой, лежали новенькие керосиновые лампы, без стекол. Я дотянулся, отталкивая чу жие руки, схватил одну, другую-и ламп уже не стало.
 

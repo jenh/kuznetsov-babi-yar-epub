@@ -21,7 +21,7 @@ I encountered a group robbing a large shoe shop. They'd smashed the showcase win
 
 тогда я сквозь випприну выпрыгнул обратно на улицу, осматриваясь: нет ли другого, еще не разграбленного мага- зина? Эх, какая досада: пока я метался в обувном, рядом разбили хозяйственный магазин и уже тащили оттуда банки с красками, связки лопат и замков.
 
-Then I jumped through the window and back onto the street, looking around: Is there another, unlooted store? Oh, what a shame: While I was tossed about in the shoe store, the hardware store next to it had been broken into and people were already dragging out paint cans, bundles of shovels, and locks.
+Then I jumped through the window and back onto the street, looking around: Is there another, unlooted store? Oh, what a shame: While I was tossed about in the shoe store, the hardware store next to it had already been broken into and people were dragging out paint cans, bundles of shovels, and locks.
 
 Я вбежал, заработал локтями, протискиваясь к прилавку, но видел только ноги, топчущие рассыпанный мел и замазку. Заметил, что мужики повалили в подсобку, полез, получил в дверях по голове, по зубам. On боли я озере, разбежался и вклинился между двумя мужиками, меня сдавили так, что захрустели ребра, но прямо передо мной наконец был разломанный ящик.
 
@@ -33,7 +33,7 @@ A new kerosene lamp without its glass covering lay in the box, cradled in straw.
 
 Я дрожал, я понимал, что эта моя добыча-тьфу. Но магазин пустел, грабители бежали дальше. Я выбежал и чуть не заревел: разбили «Галантерею», а ведь она была еще целой, когда я сюда пришел. Кажется, грабили ее одни бабы визжали, и магазинчик, казалось, ходуном ходил.
 
-I trembled, realizing that this was the sum of my loot. But the store was empty, and the robbers ran on. I ran out and almost roared: They'd already broken into the haberdashery, and it was untouched when I arrived. It appeared to have been robbed by squealing women, and the shop was quaking.
+I trembled, realizing that this was the sum of my loot. But the store was empty, and the robbers ran on. I ran outside and almost roared: They'd already broken into the haberdashery, and it was untouched when I arrived. It appeared to have been robbed by squealing women, and the shop was quaking.
 
 Тут уж я, как звереныш, извиваясь, пробился туда и схва- тил с полки коробку. Бабы ее у меня потянули, но я уцепился, как кот за мясо, из меня вытряхивали душу, коробка треснула, из нее посыпались простые черные пуговицы для пальто. Десятки рук стали загребать эти пуговицы, и я то- же бешено загребал и насыпал их в карманы, потому что у меня все-паки было больше прав на них, чем у других.
 
@@ -53,7 +53,7 @@ I was ready to cry. I'd never been greedy &mdash; my grandmother taught me to be
 
 И, главное, я понимал, что это был неповторимый, редчайший случай — так богато, так великолепно, так безнаказанно пограбить. А я все пропустил, опоздал на какую-то малость!.. Что значит отсутст­вие опыта. «Ну, ладно же, — подумал я, утешая сам себя. — Зато уже в следующий раз...» А когда же он будет, этот следующий раз?..
 
-And, most importantly, I understood that this was a unique, rare case &mdash; so rich, so magnificent, such robbing with impunity. I missed the opportunity, I was a little late...due to a lack of experience. "Well, okay," I thought, comforting myself. "But next time..." But when would there be a next time?
+And, most importantly, I understood that this was a unique, rare case &mdash; so rich, so magnificent, so much robbing with impunity. I missed the opportunity, I was a little late...due to a lack of experience. "Well, okay," I thought, comforting myself. "But next time..." But when would there be a next time?
 
 Собрал с горя по прилавкам гири от весов и понес все добро домой.
 
@@ -101,7 +101,7 @@ It turned out that when I was at the market, six soldiers came and demanded, "Eg
 
 Меня все еще трясло от возбуждения и подстег­нула дедова похвала, я побежал звать Шурку Ма­цу, мы вдвоем понеслись опять на базар. Он был уже пуст. Как мы ни шарили — ничего, как мет­лой подметено, магазины усыпаны только бумагой, соломой и стеклом. В обувном мы залезли в кассу, стали крутить ручку. Навыбивали себе чеков на тысячи рублей, вышли, разбрасывали их по улице и, уже равнодушные, смотрели, как в город все вступают и вступают войска.
 
-I was still shaking with excitement and my grandfather's praise, I ran to shout for Shurka Matsa and we both went back to the market. It was already empty. No matter how much we looked, nothing. The stores had been swept clean as if by broom &mdash; covered only with paper, straw and glass. In the shoe store, we climbed up to the register and started turning the handle. We pulled out checks for thousands of roubles, went outside, threw them in the street and, already indifferent, watched as the troops entered the city.
+Still shaking with excitement and my grandfather's praise, I ran to shout for Shurka Matsa and we both went back to the market. It was already empty. No matter how much we looked, nothing. The stores had been swept clean as if by a broom &mdash; covered only with paper, straw and glass. In the shoe store, we climbed up to the register and started turning the handle. We pulled out checks for thousands of roubles, went outside, threw them in the street and, already indifferent, watched as the troops entered the city.
 
 Шли тягачи, вездеходы, ехали колонны солдат на велосипедах и обозы на простых телегах. Те, что вошли и разместились, носили узлы с барахлом, перекинутые через плечо шубы.
 

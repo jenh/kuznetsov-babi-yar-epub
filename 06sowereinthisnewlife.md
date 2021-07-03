@@ -13,7 +13,7 @@
 
 Газета «Украинское слово» к моменту взятия нем­цами Киева вышла пятнадцатым номером, печата­ясь сперва в Житомире. Ее не то продавали, не то раздавали на улицах торжествующие энтузиасты, это дед ее добыл, как святыню принес и жадно хо­тел читать.
 
-By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold, it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the cottage like a sacred relic. He eagerly wanted to read it.
+By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (The Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold &mdash; it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the cottage like a sacred relic, eagerly wanting to read it.
 
 Но в чтении мелкого шрифта, да еще на дрянной, словно оберточной бумаге, он не был силен и перепоручил это дело мне, сам же слушал, философски осмысляя.
 
@@ -95,7 +95,7 @@ When he said things like that, Grandmother looked around in horror and shouted i
 
 — Перестань молоть, малахольный. Вот хорошие люди умирают, а ты, паразит, все живешь.
 
-"Stop the griping, you little bastard. Good people are dying, and you, you parasite, are still alive."
+"Stop the griping, you little bastard. Good people are dying, and you, you parasite, you’re still alive."
 
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
@@ -108,7 +108,7 @@ He spent his youth as a farmhand with German colonists in the Kherson region, le
 
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
-He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they were finally able to buy a tiny piece of swamp in Kurenevka, drained it themselves, and spent a long time building a cottage for themselves &mdash; and then the revolution broke out.
+He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they were finally able to buy a tiny piece of swamp in Kurenevka, drained it themselves, and spent a long time building a cottage for themselves…and then the revolution broke out.
 
 
 Добра она не принесла, лишь новый голод, страх, — и начисто отняла мечту. Красивым словам боль­шевиков о земном рае в туманном будущем дед не верил. Он был практик.
@@ -300,11 +300,11 @@ And in the middle of it all was the stern, exhausted, fanatical-looking Virgin. 
 
 Был там ласковый Николай-Угодник с белокурой бородкой, храбрый Георгий-Победоносец, а сбоку стояла еще одна Богоматерь — с золотистыми воло­сами и нежным, до удивления знакомым лицом. Она улыбалась, и мальчишка у нее на коленях был пух­ленький, очень довольный жизнью, с ямочками на голом тельце.
 
-There was a gentle Nicholas the Ugodnik with a blond beard, a brave George the Victorious, and on the side stood another Mother of God with golden hair and a gentle, surprisingly familiar face. She smiled, and the boy in her lap was plump, very pleased with life, with dimples on the naked body.
+There was a gentle Nicholas the Ugodnik with a blond beard, a brave George the Victorious, and on the side stood another Mother of God with golden hair and a gentle, surprisingly familiar face. She was smiling, and the boy in her lap was plump, very pleased with life, with dimples on his naked body.
 
 И хотя она была без украшений, я в эту икону был по-настоящему влюблен. У нас на Куреневке много таких девушек — белокурых, мягких и неж­ных. Они идут за первых красавиц; выйдя замуж, рожают вот таких пухленьких детей с ямочками, но, к сожалению, быстро блекнут и старятся. Моей самой первой детской любовью был образ такой женщины с бабкиной иконы, а когда потом, после войны, я уж совсем вырос, я первым делом влюбил­ся в живую именно такую девушку.
 
-And although she was unadorned, I was really in love with this icon. We have a lot of these girls on Kurenevka - blond, soft and gentle. They go for the first beauties; when they marry, they give birth to such chubby children with dimples, but, unfortunately, quickly fade and age. My very first childhood love was the image of such a woman with the grandmother's icon, and when later, after the war, I really grew up, the first thing I fell in love with was living just such a girl.
+And although she was unadorned, I was really in love with this icon. We have a lot of these girls on Kurenevka &mdash; blond, soft, and gentle. They go for the first beauties; when they marry, they give birth to such chubby children with dimples, but, unfortunately, quickly fade and age. My very first childhood love was the image of such a woman in Grandmother's icon, and when later, after the war, I really grew up, the first living thing I fell in love with was just such a girl.
 
 Отец мой был революционер и коммунист, мама — учительница. Поэтому, когда я родился, о крещении не могло быть и речи.
 
@@ -313,12 +313,12 @@ My father was a revolutionary and a communist, my mother was a teacher. Therefor
 
 Но однажды, когда родители ушли на службу, бабка закутала меня в платок, отнесла в церковь Петра и Павла, и там меня бултыхнули в купель. Бабка не могла допустить, что­бы я остался без рая после смерти. Тайну эту она открыла, лишь когда мне минуло десять лет, и вспо­минала, что я протестовал и хватал попа за бороду:
 
-But once, when my parents left for the service, the grandmother wrapped me in a handkerchief, took Peter and Paul to the church, and there they pounded me in the font. Grandma could not allow me to remain without paradise after death. She discovered this secret only when I was ten years old and recalled that I was protesting and snapping the butt by the beard:
+But once, when my parents left for the service, Grandmother wrapped me in a handkerchief, took me to the church of Peter and Paul, and there they threw me into the font. Grandma could not allow me to remain without paradise after death. She revealed this secret only when I was ten years old and recounted that I protested and snapped the priest by the beard:
 
 
 «Вот же вылупок, такое маленькое, а уже заодно с нынешними антихристами...»
 
-"Here is the same hatching, so small, and already at the same time with the current antichrists ..."
+"Here is the same hatchling, so small, and already at the same time with the current antichrists ..."
 
 
 Под руководством бабки, однако, я лет до шести был религиозным человеком. Она водила меня в церковь Петра и Павла, причащала, ставила перед иконами, брала мою руку своей коричневой, изъе­денной морщинами рукой, учила креститься и про­износить магические слова, которых, по-моему, са­ма не понимала. Потому что вот как у нее звучало и как я выучил на всю жизнь:
