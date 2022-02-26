@@ -13,7 +13,7 @@ I removed important sections from of the chapters about the Khreshchatyk, the ex
 
 Тогда в СССР было еще свежо хрущевское «разоб­лачение культа личности Сталина», многим казалось, что начинается серьезная либерализация, опублико­вание «Одного дня Ивана Денисовича» А. Солжени­цына вселяло надежду, что, может, наконец, воз­можна настоящая литература.
 
-At the time, it seemed to many that a serious liberalization was beginning and Krushchev's "exposting the cult of Stalin's personality" was still fresh. The publication of "One Day of Ivan Denisovich" by Alexandr Solzhenitsyn gave us hope that, finally, true Literature might be possible.
+At the time, it seemed to many that a serious liberalization was beginning and Krushchev's "exposing the cult of Stalin's personality" was still fresh. The publication of "One Day in the Life of Ivan Denisovich" by Alexandr Solzhenitsyn gave us hope that, finally, true Literature might be possible.
 
 Но смягченный вариант моего «Бабьего Яра» опять озадачил редакторов. Рукопись была нарасхват, все читали, восторженно отзывались в личном разгово­ре, а официально выдвигали убийственную критику, и редакция не отваживалась на публикацию без спе­циального позволения. На советском языке это име­нуется: «Мы должны посоветоваться с вышестоящи­ми товарищами».
 
