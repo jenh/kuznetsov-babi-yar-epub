@@ -1,0 +1,3 @@
+[submodule "epub-ocr-and-translate"]
+	path = epub-ocr-and-translate
+	url = https://github.com/jenh/epub-ocr-and-translate.git
