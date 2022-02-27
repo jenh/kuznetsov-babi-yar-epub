@@ -10,9 +10,9 @@ FILES=\
 	100translatorsnotes_xx.md\
 
 pdf/book_xx.pdf: $(FILES)
-	cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm --pdf-engine=xelatex --template=paperback.tex -o book_xx.pdf
+	cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm+smart --pdf-engine=xelatex --template=paperback.tex -o book_xx.tex && cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm+smart --pdf-engine=xelatex --template=paperback.tex -o book_xx.pdf
 
 epub/book_xx.epub: $(FILES)
-	cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm --toc --toc-depth=4 --css=epub.css - -o book_xx.epub
+	cat $(FILES) | pandoc --metadata-file=variables.yaml --top-level-division=chapter -f gfm+smart --toc --toc-depth=4 --css=epub.css - -o book_xx.epub
 popopen: 
 	ebook-viewer book_xx.epub
