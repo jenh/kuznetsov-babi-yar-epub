@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+
+# Takes an input and prints only the language specified
+# Usage: python print-lang.py [filename] [lang-code]
+# i.e., python print-lang.py 04.md ru or python print-lang.py 04.md en
+
+import sys
+import langid
+import re
+
+input_file = sys.argv[1]
+lang = sys.argv[2]
+output_file = (input_file.rsplit(".", 1)[ 0 ]) + "_" + lang + ".md"
+
+# NEED TO FIX THIS, WE NEED TO KNOW WHICH LANGUAGES ARE ACCEPTABLE
+langid.set_languages(['ru','en'])
+myfile = open(input_file,'r',encoding='utf-8')
+print(input_file)
+output_file = open(output_file,'w',encoding='utf-8')
+
+lang_tag = '{lang='+lang+'}'
+
+for line in myfile:
+  if not line.strip():
+      continue
+  # Check to see if a manual {lang=$lang} exists:
+  if lang_tag in line:
+    output_file.write(re.split('\{lang=(.*)\}',line)[0] + "\n")
+  # Detect language, write if it matches our intended language.
+  else:  
+    try:
+      detected = langid.classify(line)[0]
+      if detected == lang:
+        output_file.write(line + "\n")
+      else: 
+        pass
+      #  if detected != 'en' or detected != lang:
+         #   print("Found language ",detected," in ",input_file,": ",line)
+      #  else:
+      #      pass
+    except Exception as e:
+      print("Cannot determine language for line in ", input_file, ": ", line, e)
+      # Write to file for human intervention.
+      output_file.write(line)

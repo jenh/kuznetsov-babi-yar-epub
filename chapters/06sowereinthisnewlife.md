@@ -57,11 +57,9 @@ I'll only share headlines from this paper:
 
 > REVIVAL OF THE CHURCH IN THE KHOLM REGION OF KIEV, A POEM BY YAKOV NAGORNY
 
-
 ...Здесь я сделаю традиционное отступление и хо­тя бы самым беглым образом расскажу о нашей маленькой семье: кто мы были, какие и почему.
 
 Here I'll digress a little bit and at least briefly tell you about our little family: who we were, what we were, and why.
-
 
 Сам я терпеть не могу в книгах подобные отступ­ления, пропускаю их, и если вам мое отступление покажется неинтересным, вы тоже смело пропус­кайте его, потому что главное в этой книге — го­раздо дальше.
 
@@ -83,11 +81,9 @@ No, he wasn't a fascist or a monarchist, nor a nationalist or a Trotskyite, no r
 
 By origin, he was a Ukrainian serf, a poor peasant. In terms of social status, he was a long-serving city worker. In essence, he was the simplest, smallest, hungriest, and most frightened citizen of the Soviet State &mdash; his stepmother.
 
-
 Дед родился в 1870 году — в одном году с Лени­ным, но на этом общее между ними кончалось. Дед не мог слышать самого имени Ленина, хотя тот дав­но умер, как умерли или были перебиты многие ле­нинцы. Он считал, что именно от Ленина все беды, что тот «играл в Россию, как в рулетку, все проиг­рал и сдох».
 
 My grandfather was born in 1870 &mdash; the same year as Lenin, but that was the end of the similarities between them. Grandfather would not hear Lenin's name spoken, even though Lenin was long-dead and many Leninists died or had been killed. He believed that Lenin was the cause of all our troubles; Lenin "played Russia like roulette, lost everything, and died."
-
 
 Когда он такое говорил, бабка в ужасе огляды­валась по сторонам и демонстративно восклицала во дворе:
 
@@ -96,7 +92,6 @@ When he said things like that, Grandmother looked around in horror and shouted i
 — Перестань молоть, малахольный. Вот хорошие люди умирают, а ты, паразит, все живешь.
 
 "Stop the griping, you little bastard. Good people are dying, and you, you parasite, you’re still alive."
-
 
 Дед родился и вырос в селе Шендеровке Канев­ского уезда, в какой-то отчаянной селянской семье с одиннадцатью детьми, жившей, по его словам, в полуразрушенном курене.
 
@@ -109,7 +104,6 @@ He spent his youth as a farmhand with German colonists in the Kherson region, le
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
 He and Grandmother were starving, getting cold, adding a penny to a penny, and ruining their youth, but they were finally able to buy a tiny piece of swamp in Kurenevka, drained it themselves, and spent a long time building a cottage for themselves…and then the revolution broke out.
-
 
 Добра она не принесла, лишь новый голод, страх, — и начисто отняла мечту. Красивым словам боль­шевиков о земном рае в туманном будущем дед не верил. Он был практик.
 
@@ -134,7 +128,6 @@ Anyway, he was a great manipulator. And from the constant failures, this convuls
 У Горького в «Детстве» есть такая песня:
 
 Gorky has a song like that, from "Childhood:"
-
 
 Один нищий вывесил портянки сушить,
 А другой нищий портянки украл.
@@ -210,7 +203,6 @@ Soon after the beginning of the war, a German leaflet fell onto our roof and the
 
 The leaflet said that Germany was called upon to destroy the Bolsheviks and to establish a new, fair order. A place where "he who does not work, does not eat," but "everyone who works honestly will get what he deserves." It said life in already-liberated territories was beautiful: butter cost ten kopecks a pound, bread cost seven, and herring three.
 
-
 У деда полезли глаза на лоб. Это было послание лично ему.
 
 Grandpa's eyes got so big, they grew into his forehead. This was a personal message to him.
@@ -277,7 +269,6 @@ Like grandfather, she wasn't impressed by airplanes or the airships of the time.
 
 “So, when I was little, when we were put to bed on the stove, clinging to each other naked, barefoot, and hungry as worms, our late and scary granny would say, 'You sit quietly, everything is still good. There will come a time when the enemy will come to Earth, and the ground will be entangled in wire, and iron birds will fly in the sky, pecking at people with their iron beaks. And that will precede the end of the world.'
 
-
 А мы стучим зубенятами от страха и молимся: не приведи, Господи, дожить до того... Не внял Господь, дожили мы. Все так вышло, как предсказывала бабуся: и проволоки, и птицы же­лезные, и скоро, видно, конец света...
 
 And our teeth chattered in fear and we prayed: 'Do not let us live to see this, Lord...' The Lord did not heed our prayers &mdash; we lived. And it all happened just as Granny predicted: the barbed wire and the birds of iron, and soon, we will see the end of the world..."
@@ -310,279 +301,225 @@ And although she was unadorned, I was really in love with this icon. We have a l
 
 My father was a revolutionary and a communist, my mother was a teacher. Therefore, when I was born, baptism was out of the question.
 
-
 Но однажды, когда родители ушли на службу, бабка закутала меня в платок, отнесла в церковь Петра и Павла, и там меня бултыхнули в купель. Бабка не могла допустить, что­бы я остался без рая после смерти. Тайну эту она открыла, лишь когда мне минуло десять лет, и вспо­минала, что я протестовал и хватал попа за бороду:
 
 But once, when my parents left for the service, Grandmother wrapped me in a handkerchief, took me to the church of Peter and Paul, and there they threw me into the font. Grandma could not allow me to remain without paradise after death. She revealed this secret only when I was ten years old and recounted that I protested and snapped the priest by the beard:
-
 
 «Вот же вылупок, такое маленькое, а уже заодно с нынешними антихристами...»
 
 "Here is the same hatchling, so small, and already at the same time with the current antichrists ..."
 
-
 Под руководством бабки, однако, я лет до шести был религиозным человеком. Она водила меня в церковь Петра и Павла, причащала, ставила перед иконами, брала мою руку своей коричневой, изъе­денной морщинами рукой, учила креститься и про­износить магические слова, которых, по-моему, са­ма не понимала. Потому что вот как у нее звучало и как я выучил на всю жизнь:
 
 Under the guidance of my grandmother, however, I was a religious man until six years old. She took me to the church of Peter and Paul, communion, placed in front of icons, took my hand with her brown, wrinkled hand, taught to be baptized and utter magic words, which, in my opinion, she did not understand. Because that's how she sounded and how I learned for life:
 
-
 — Оченаш жои си на небеси. Да светится имя твое, да прииде царство твое. Я — ко на неби. Та — ко на земли. Хлеб наш насушный даж нам несь. Да не прости нам долги наши, да не избави нас от лукавого...
 
-- Very much joey si in heaven. Let thy name shine, let thy kingdom come. I - to the sky. So - on the ground. Our dry bread is for us. Yes, do not forgive us our debts, but do not save us from the evil one ...
-
+- Afarther who art in heaven. Hallowed be thy name, thy kingdom come. Earth to heaven. Give us our daily bread. Forgive us our debts, deliver us from evil... 
 
 Бабке, видимо, не было известно, что таинствен­ное «Оченаш» — это «Отче наш». Я же решил, что Оченашем зовут Бога, что это имя светится в тем­ноте, что бабка просит сухарей — «хлеба насущно­го», и автоматически повторял за ней это «не про­сти нам» и «не избави».
 
 Grandma, apparently, was not aware that the mysterious "Ochenash" is "Our Father." I decided that Ochenashem called God, that this name glows in the dark, that my grandmother asks for rusks - “daily bread”, and automatically repeated after her this “do not forgive us” and “do not deliver”.
 
-
 Но вот заметил это отец, пришел в ужас и велел матери срочно вырвать меня из когтей «религии — опиума для народа». Мама, которой я очень верил, повела со мной беседы и, главное, сказала:
 
 But my father noticed this, was horrified and ordered my mother to urgently pull me out of the clutches of "religion - opium for the people." Mother, whom I really believed, led conversations with me and, most importantly, said:
-
 
 — Бога нет. Летчики летают в небе и никакого Бога не видели.
 
 - There is no god. The pilots fly in the sky and have not seen any God.
 
-
 Это меня потрясло. Я немедленно сообщил бабке этот убийственный довод. Она огорчилась и возра­зила, что таким безбожникам, как летчики, Бога видеть не дано. Я размышлял и пришел к заклю­чению, что лучше бы Бог показался им, ну, не всем, но хотя бы самым храбрым и знаменитым на весь мир летчикам Чкалову или Байдукову, они бы спусти­лись, рассказали всем, что Бог есть, и споры пре­кратились бы. Если он есть и сидит там на тучах, так почему он прячется, почему вообще позволяет летать неугодным безбожникам, какой же он все­могущий?
 
 It shocked me. I immediately informed my grandmother this damning argument. She was upset and objected that such atheists as pilots could not see God. I thought and came to the conclusion that it would be better for God to appear to them, well, not to everyone, but at least the most courageous and world-famous pilots Chkalov or Baidukov, they would go down, tell everyone that there is a God, and the disputes would stop. If he is there and sits there in the clouds, so why is he hiding, why does he even allow unwanted atheists to fly, what is he all-powerful?
-
 
 У нас с бабкой начались богословские споры, они ни к чему не привели, она осталась при своем мне­нии, я при своем, но в церковь за ней шел все не­охотнее, а когда в школу пошел, так и вовсе пе­рестал.
 
 The theological disputes began with my grandmother, they didn’t lead to anything, she stayed with her opinion, I did with her, but I was reluctant to go to church, and when I went to school I stopped altogether.
 
-
 Спрашивал деда, но он в божественных вопросах занимал осторожную позицию. Он вспоминал, что когда в 1890 году он батрачил и его призвали в сол­даты, он очень молился, чтобы не взяли, все иконы в церкви перецеловал, а все равно взяли. Опять же таки, двадцать лет молится, чтобы большевиков дьявол забрал, а они все есть. И довод с летчиками он признавал убедительным, но, когда запутывался в долгах, хотел достать комбикорм, или просто не­кому было пожаловаться, он подолгу стоял на коле­нях, бился лбом о пол, подметал его бородой — и убеждал иконы, молил их, канючил, клянчил хоть какую-нибудь удачу.
 
 He asked his grandfather, but he took a cautious position in divine matters. He recalled that when in 1890 he slaughtered and was called up as a soldier, he prayed very much that they would not take it, he kissed all the icons in the church, but still took it. Again, he has been praying for twenty years for the Bolsheviks to take the devil away, and they all have them. And he recognized the argument with the pilots as convincing, but when he got tangled in debt, he wanted to get mixed feed, or there was simply no one to complain, he was on his knees for a long time, he beat his forehead on the floor, swept him with his beard - and convinced the icons, begged them, snatched, begged at least some luck.
 
-
 В отличие от деда, у бабки не было ни единого врага, а по всей улице были только друзья. К ней бежали с бедой, с нуждой, она всем советовала, одалживала, улаживала семейные конфликты, при­сматривала за грудными детьми, всех лечила трава­ми от желудка, выгоняла глистов.
 
-Unlike the grandfather, the grandmother did not have a single enemy, and there were only friends across the street. They ran to her with misfortune, with poverty, she advised everyone, borrowed, settled family conflicts, looked after infants, treated her all with herbs from the stomach, and expelled worms.
-
+Unlike Grandfather, Grandmother did not have a single enemy, and there were only friends across the street. They ran to her with misfortune, with poverty, she advised everyone, borrowed, settled family conflicts, looked after infants, treated her all with herbs from the stomach, and expelled worms.
 
 [Она видела таинственные и непонятные вещи, верила в чудеса, которых советская власть не при­знает. Я тоже верю в чудеса. Одно я видел.
 
 [She saw mysterious and incomprehensible things, believed in miracles that the Soviet government does not recognize. I also believe in miracles. I have seen one.
 
-
 Мне было лет десять. Бабка поздно вечером выш­ла во двор, тотчас вернулась и закричала: «Скорее, идите. Бог на небе!»
 
 I was ten years old. Grandma went out into the yard late at night, immediately returned and shouted: “Rather, go. God in heaven! ”
 
-
 Мама засмеялась и принципиально не пошла, а мы с дедом побежали. На черном звездном небе светилась людская фигура, похожая на Николая-Угодника. Вернее, она как бы состояла из контуров, прочерченных едва различимыми точками-звездоч­ками. Почему-то меня охватил такой ужас, что я кинулся в сени и спрятался за дверь. Бабка радост­но звала: «Не бойся, иди скорее, перекрестись». Но я только, задыхаясь от ужаса, выглядывал из-за двери, а дед и бабка посредине двора, подняв лица, крестились на небо. Потом видение померкло, они пошли в хату, и весь вечер бабка была просветлен­ная, неземная, а дед — задумчив, крайне озабочен.
 
-Mom laughed and basically did not go, and my grandfather and I ran. In the black starry sky glowed human figure, similar to Nicholas, Ugodnik. Rather, it seemed to consist of contours, drawn by barely distinguishable points, asterisks. For some reason, I was overwhelmed with such horror that I rushed into the hall and hid out the door. Grandma joyfully called: "Do not be afraid, go quickly, cross." But I just, choking with horror, looked out from behind the door, and my grandfather and grandmother in the middle of the courtyard, lifting their faces, were baptized into heaven. Then the vision faded, they went to the hut, and the whole evening the grandmother was enlightened, unearthly, and the grandfather was thoughtful, extremely anxious.
-
+Mom laughed and basically did not go, and my grandfather and I ran. In the black starry sky glowed human figure, similar to Nicholas, Ugodnik. Rather, it seemed to consist of contours, drawn by barely distinguishable points, asterisks. For some reason, I was overwhelmed with such horror that I rushed into the hall and hid out the door. Grandma joyfully called: "Do not be afraid, go quickly, cross." But I just, choking with horror, looked out from behind the door, and my grandfather and grandmother in the middle of the courtyard, lifting their faces, were baptized into heaven. Then the vision faded, they went to the hut, and the whole evening Grandmother was enlightened, unearthly, and Grandfather was thoughtful, extremely anxious.
 
 Я не знаю до сих пор, что это было, и как объяс­няется.]
 
 I do not know so far what it was, and how it is explained.]
 
-
 Бабка умела знахарствовать. Очень хорошо она снимала сглаз. Это болезнь без причин, просто по­тому, что кто-то на тебя посмотрел дурным глазом. В детстве я этому был сильно подвержен.
 
-Grandma was able to healer. Very good she shot the evil eye. This is a disease for no reason, simply because someone looked at you with a bad eye. In childhood I was very susceptible to this.
-
+Grandmother was a healer. She was very good at healing the effects of the evil eye. This is a disease with no cause, simply because someone looked at you with a bad eye. In childhood I was very susceptible to this.
 
 Вот мне стало нехорошо, поднялся жар, затош­нило, заныли суставы... Бабка посмотрела, как я маюсь, налила в чашку святой воды из бутылки, бросила туда угольки из печи, смотрела, какие то­нут, какие нет. Угольки показали, что меня сглазили карие глаза. Мы выходим под чистое небо, бабка держит руки на моей голове и что-то шепчет. Я запомнил только из этих формул: «От карих глаз сойди беда, как с гуся вода». И вдруг мне становит­ся хорошо, спокойно, блаженство разливается по телу, болезни как не бывало.
 
 So I felt ill, my fever rose, I felt sick, my joints ached ... Grandma looked at me, poured, poured holy water from a bottle into a cup, threw coals out of the oven, looked at what they were drowning, which were not. The embers showed that I had jinxed brown eyes. We go out under the clear sky, grandma holds hands on my head and whispers something. I remember only from these formulas: "From brown eyes, come down trouble, like water off a duck's back." And suddenly I feel good, calm, bliss is spreading through the body, the disease is gone.
 
-
 Бабка излечивала малярию-«пропасницу», или еще, как говорят на Украине, «трясцю», излечивала экзему. Только свою поясницу вылечить не могла.
 
-The grandmother cured malaria- “prypasnitsa”, or else, as they say in Ukraine, “shake”, cured eczema. Only her back could not cure.
+The grandmother cured malaria- “prypasnitsa”, or else, as they say in Ukraine, “shake”, cured eczema. Only her back she could not cure.
 
 КУЗНЕЦОВА Мария Федоровна, моя мать, была единственной дочкой у деда и бабки, и вот ей-то революция дала много. Быть бы ей прислугой или прачкой, да открылись курсы, она закончила их в 1923 году, стала учительницей первых — четвер­тых классов, и преподавала она потом всю жизнь.
 
-Kuznetsova Maria Fedorovna, my mother, was the only daughter of her grandfather and grandmother, and she gave a lot to her revolution. If she were a servant or a washerwoman, the courses opened, she finished them in 1923, became a teacher of the first and fourth grades, and she taught all her life later.
+Maria Fedorovna Kuznetsova, my mother, was the only daughter of her grandfather and grandmother, and she gave a lot to her revolution. If she were a servant or a washerwoman, the courses opened, she finished them in 1923, became a teacher of the first and fourth grades, and she taught all her life later.
 
 Была она очень красивой, начитанной, способной, пела и играла в самодеятельности Народного дома, и вот стал дед замечать, что к нему придирается милиция.
 
-She was very beautiful, well-read, capable, sang and played in the amateur performances of the People’s House, and now the grandfather began to notice that the police were carping at him.
-
+She was very beautiful, well-read, capable, sang and played in the amateur performances of the People’s House, and now Grandfather began to notice that the police were carping at him.
 
 Участковый милиционер Вася Кузнецов все приходит да приходит: то улица плохо подметена, то домовой номер надо сменить. Короче говоря, ког­да Василия избрали членом Киевского горсовета, дед решил, что такой зять вполне подходит: они, горсоветчики, для себя все достанут.
 
-District militiaman Vasya Kuznetsov everything comes and comes: the street is badly swept up, then the house number must be changed. In short, when Vasily was elected a member of the Kiev City Council, the grandfather decided that such a son-in-law was quite suitable: they, the City Council, would get everything for themselves.
-
+District militiaman Vasya Kuznetsov everything comes and comes: the street is badly swept up, then the house number must be changed. In short, when Vasily was elected a member of the Kiev City Council, Grandfather decided that such a son-in-law was quite suitable: they, the City Council, would get everything for themselves.
 
 Как же он ошибся!
 
 How wrong he was!
 
-
 Это была одна из крупнейших ошибок деда в жизни. Он потом до самой смерти не мог простить зятю того, что он ничего в дом не нес, и даже ког­да дед ходил в милицию на перерегистрацию под­ворной книги, ему приходилось сидеть в очереди на прием к своему зятю, как и всем прочим. Василий Кузнецов был большевик.
 
 It was one of the biggest mistakes of a grandfather in life. Then, until his death, he could not forgive the son-in-law for not carrying anything into the house, and even when his grandfather went to the police to re-register the house book, he had to sit in line for an appointment with his son-in-law, like all the others. Vasily Kuznetsov was a Bolshevik.
-
 
 [И он тогда был честный большевик. Таких, как  он, в 1937 году отправляли в лагеря либо на тот свет под их же ошалелые крики «Да здравствует  Сталин»!]
 
 [And then he was an honest Bolshevik. Such as he, in 1937, were sent to camps or to the next world under their own wretched cries of “Long live Stalin”!]
 
-
 Он был настоящий русак, курский, в 1917 году стоял у станка, когда подошел дружок: «Васька, вон записывают в Красную гвардию. Пишемся?» — «Пишемся!» — сказал Василий и пошел.
 
 He was a real hawk, Kursk, in 1917 he stood at the bench when a friend came up: “Vaska, they write to the Red Guard. We write? ”-“ We write! ”- said Vasily and went.
-
 
 Он громил буржуев, вступил в партию в 1918 году, партиза­нил на Украине, стал командиром пулеметчиков и под командой Фрунзе брал Каховку, брал Перекоп и сбрасывал Врангеля в Черное море.
 
 He trashed the bourgeoisie, joined the party in 1918, partisan in Ukraine, became the commander of machine-gunners and under the command of Frunze took Kakhovka, took Perekop and threw Wrangel into the Black Sea.
 
-
 Он казался мне необыкновенным человеком, [и слово его было для меня свято. Однажды мама ре­шила учить меня английскому языку. Мы сидели за столом, когда вошел отец. Посмотрел, как я заучиваю «мазе», «фазе», говорит возмущенно мате­ри: «Это что такое? Буржуйскому языку ребенка учишь? Прекратить!» И прекратили.]
 
 He seemed to me an extraordinary man, [and his word was holy for me. One day my mother decided to teach me English. We sat at the table when father entered. I looked at how I memorized “ointment,” “phase,” says indignantly to mother: “What is this? Bourgeois language child teach? Stop! ”And stopped.]
-
 
 Иногда он очень здорово пел красивым баритоном, хохотал, но почему-то никогда ничего всерьез не рассказывал.
 
 Sometimes he sang very nicely with a beautiful baritone, laughed, but for some reason he never told anything seriously.
 
-
 — Ну, как же вы там в Крыму босяковали? — спрашивал дед.
 
-- Well, how are you in Boshakov there in the Crimea? - the grandfather asked.
-
+- Well, how are you in Boshakov there in the Crimea? - Grandfather asked.
 
 — А что? — смеялся отец. — В Крыму хорошо, вина много. Прогнали Врангеля и буржуев, все винзаводы — открыты. Мы к чанам. Гляжу: один уже плавает в вине по уши, как есть — с пулеметными лентами и в сапогах. Тут я с братвой поспорил на маузер, что выпью четверть портвейна.
 
 - Why? - laughed father. - In Crimea, good wine a lot. They drove Wrangel and the bourgeoisie, all wineries are open. We go to the vats. I look: one already swims in the wine on the ears, as it is - with machine-gun belts and in boots. Then I argued with the lads on the Mauser that I would drink a quarter of the port.
 
-
 — Три литра? — ахал дед.
 
-- Three liters? - the grandfather gasped.
-
+- Three liters? - Grandfather gasped.
 
 — И выпил.
 
 - And drank.
 
-
 — Ну вот, что от них, пропойц, ждать? — плевал­ся дед. — Пропили Россию. Ты скажи, что тебе твоя революция дала, голодранцу?
 
-- Well, what of them, drunkard, wait? - the grandfather spat. - Drank Russia. Tell me, what did your revolution give you, the beggar?
-
+- Well, what of them, drunkard, wait? - Grandfather spat. - Drank Russia. Tell me, what did your revolution give you, the beggar?
 
 — А меня представили к ордену Красного Знаме­ни, — хвастался отец. — Это были самые первые ордена, только ввели, Фрунзе представили и еще кое-кого. А мы в то время гор-рячие были, непримиримые. Шумим: «При царе были ордена, а теперь опять эти висюльки? Может, и погоны введете? Мы не за висюльки кровь свою проливаем». Я взял и отказался. Мне комиссар говорит: «Из партии погоним». Я в бутылку: «Пошли вы к такой матери, значит, если вы такая партия». И исключили.
 
 “And I was introduced to the Order of the Red Banner,” the father boasted. - These were the very first orders, only introduced, Frunze introduced and someone else. And at that time we were bitter, irreconcilable. We make noise: “With the king there were orders, and now again these pendants? Maybe you will introduce epaulettes? We are not shedding our blood for pendants. ” I took and refused. The commissioner says to me: “We will drive out of the party” I am in a bottle: “You went to such a mother, it means if you are such a party”. And expelled.
 
-
 — Господи! А как же ты сейчас партеец?
 
 - Lord! And how are you now party?
-
 
 — А я потом обратно заявление подал. Восстано­вили. А орден уже не дали.
 
 - And then I filed an application back. Restored. And the order is not given.
 
-
 — Ох, дурак! — всплескивал руками дед. — Ты б по нему деньги получал. А так что у тебя есть, одни единственные штаны милицейские.
 
 - Oh, fool! - grandfather splashed his hands. - You used it for the money received. And so what you have, only the only police pants.
-
 
 Отец, действительно, вышел из гражданской вой­ны гол, как сокол. [Демобилизовав, его направили в Киев, служить в милиции. По пути в поезде он крепко выпил и сел играть в очко. Не доезжая ки­лометров сто до Киева, он проиграл все, проиграл свою командирскую форму и остался в одних каль­сонах. Сердобольный дежурный на каком-то полу­станке пожертвовал ему ветхое тряпье с лаптями в котором бывший командир пулеметчиков и пред­стал перед начальством в Киеве. Ему выдали фор­му, и начал Василий бороться против спекуляции и за чистоту улиц.]
 
 The father, indeed, emerged from the civil war goal, like a falcon. [Having demobilized, he was sent to Kiev to serve in the police. On the way to the train, he drank hard and sat down to play at the point. Before reaching a hundred kilometers from Kiev, he lost everything, lost his commanding uniform and remained in his pants only. A compassionate attendant at some field station donated to him dilapidated rags with bast shoes in which the former commander of machine-gunners appeared before the authorities in Kiev. They gave him a form, and Vasily began to fight against speculation and for the cleanliness of the streets.]
 
-
 Мама и бабка любили его, заботились наперебой, у них он скоро отъелся, похорошел, и наконец об­щими силами справили ему первый костюм, кото­рым дед его при всяком удобном случае попрекал.
 
 Mom and grandmother loved him, took care of each other, he soon had a good time, got prettier, and finally, with joint forces, he gave him his first suit, which his grandfather reproached him whenever possible.
-
 
 У отца было два класса приходской школы обра­зования. Он пошел на рабфак, закончил его вечерами, бросил милицию и поступил в Политехнический институт.
 
 My father had two classes in the parish school of education. He went to work school, finished it in the evenings, left the police and entered the Polytechnic Institute.
 
-
 Ночами он сидел над чертежами. Его надолго отор­вали — послали под Умань проводить коллективи­зацию. Мама ездила к нему и возвращалась в ужа­се. Потом он защищал диплом и взял меня на эту защиту. Когда он кончил, ему аплодировали. Он стал инженером-литейщиком.
 
 At nights, he sat over the drawings. He was torn off for a long time — they were sent under Uman to conduct collectivization. Mom went to him and returned in horror. Then he defended his diploma and took me to this defense. When he finished, he was applauded. He became a foundry engineer.
-
 
 Тут они стали срезаться с дедом всерьез. Отец гремел:
 
 Then they began to cut off with his grandfather in earnest. Father thundered:
 
-
 — Зарываешься, тесть, бузу мелешь, оскорбля­ешь революцию! Ты посмотри: твоя дочка выучи­лась, зять выучился, работа есть, спекуляции нет, конкуренции, обмана, а то ли еще будет.
 
 - Zaryvaetesya, father-in-law, buzel grind, insult the revolution! Look: your daughter has learned, son-in-law has learned, there is work, there is no speculation, there is competition, deception, and there will be more.
-
 
 — Ты разу-умный, — ехидничал дед. — А ты позволь мне десять коров держать и луг дай под выпас.
 
 “You are smart once,” his grandfather croaked. - And you let me keep ten cows and give a meadow for grazing.
 
-
 — Луг колхозный. Любишь коров — иди в кол­хоз.
 
 - Meadow collective farm. Do you like cows - go to the farm.
-
 
 — Да-да! Сам иди в свои каторжные колхозы!
 
 - Yes Yes! Go yourself to your hard labor collective farms!
 
-
 К этому времени вовсю пошли и нелады отца с матерью. Там была другая причина — ревность. Ма­ма была очень ревнивая. Я тогда ничего не пони­мал, ощущал только, что характеры у папы и ма­мы ого-го. В доме начались сплошные споры да слезы.
 
 By that time, the father and mother had gone wrong. There was another reason - jealousy. Mom was very jealous. I did not understand anything then, I only felt that the characters were with my father and mother to hoo. In the house there was a continuous dispute and tears.
-
 
 И вдруг я от бабки узнал, что отец с матерью уже давно съездили в суд и развелись, только расстаться никак не могут. Наконец, отец взял под мышку свои чертежи и уехал работать на Горьковский ав­тозавод, где вскоре женился.
 
 And suddenly I learned from my grandmother that my father and mother had already gone to the court for a long time and divorced, but they could not part with it. Finally, my father took his blueprints under his arm and left to work at the Gorky Automobile Plant, where he soon got married.
 
-
 [Это случилось как раз в 1937 году, и я много ду­мал потом, почему моего отца, такого непримири­мого, миновала чаша та. Член партии в те времена мог избежать ее только двумя путями: либо молчать, либо доносить на других. А отец вдруг стал на ГАЗе начальником литейного цеха, получил квартиру, машину... Но это из писем. Такого отца я уже не знал.] Мама [запрещала с ним переписы­ваться, но] продолжала любить его всю жизнь и никогда больше замуж не вышла.
 
 [It happened just in 1937, and then I thought a lot about why my father, so implacable, passed that cup. A member of the party at that time could have avoided it only in two ways: either to be silent or to inform others. And my father suddenly became a head of a foundry on GAZ, got an apartment, a car ... But this is from letters. I didn’t already know such a father.] Mom [forbade him to correspond with him, but] continued to love him all her life and never married again.
-
 
 Когда началась война и стало ясно, что немцы войдут в Киев, мать, однако, послала отцу несколь­ко отчаянных телеграмм, чтобы он принял нас. Но ответа на них не пришло.
 
 When the war began and it became clear that the Germans would enter Kiev, the mother, however, sent father some desperate telegrams to receive us. But the answer to them did not come.
 
-
 Мать истерически плакала по ночам. Бабка уте­шала:
 
 Mother cried hysterically at night. Grandma comforted:
-
 
 — Да ничóго, ничóго, Маруся, проживем и при немцах.
 
 - Yes, nothing, nothing, Marusia, we will live under the Germans.
 
-
 — Что я буду делать при немцах? — говорила мать. — Учить детей славить Гитлера? То учила славить Сталина — то Гитлера? Возьму Толика и поеду, будь что будет.
 
 - What will I do with the Germans? - said the mother. - To teach children to praise Hitler? Did she teach to praise Stalin, then Hitler? Take Tolik and go, come what may.
-
 
 — Мы ж без тебя пропадем... — плакала бабка. Это верно, вся семья держалась на маминой зарплате. Она была гордая, не хотела подавать на али­менты на отца, лишь незадолго перед войной дед ее все-таки донял, и нам стали приходить переводы из бухгалтерии ГАЗа, война их оборвала.
 
 - We'll disappear without you ... - Grandma cried. That's right, the whole family kept on my mother's salary. She was proud, did not want to give alimony to her father, only shortly before the war, her grandfather still persecuted her, and we began to receive transfers from GAZ accounting, the war ended them.
 
-
 Мама вела два класса в обычной школе, но часто ей удавалось подрабатывать еще и в вечерней для взрослых. Ей разрешали, потому что она была ста­рательной, талантливой учительницей. [Много раз ее собирались наградить, но никогда даже самой крохотной премии ей не дали, как беспартийной. Только на словах хвалили да подгоняли. Знакомые же ее учительницы, вступившие в партию, и на курорт бесплатно ездили, и орденами сверкали. Иная уде такая бездарь, бревно-бревном, класс раз­валила, ничему детей научить не может — а ее в депутаты, в президиумы... А класс отдают матери, чтоб восстановила, и мать сидит дни напролет с детьми, сидит ночи над тетрадями. Но в партию она не пошла, для нее это было просто дико.
 
 Mom led two classes in a regular school, but often she managed to earn money even in the evening for adults. She was allowed because she was a diligent, talented teacher. [Many times they were going to award her, but never even the smallest prize was given to her, as non-partisan. Only in words praised and customized. Her teachers, who joined the party, knew her, and went to the resort for free, and glittered with orders. There is such a mess, a log-beam, a class has collapsed, cannot teach children anything - and they are deputies, to the presidiums ... And the class is given to the mother to be restored, and the mother sits all days long with the children, sits over notebooks. But she did not go to the party, for her it was just crazy.
-
 
 Детям она отдала всю жизнь, а к себе отно­силась, как монахиня.] Иногда ее ученики-вечерни­ки, взрослые усатые дяди, рабочие, приходили к нам женихаться. Дед их очень любил, потому что они приносили колбасу, консервы, выпивку, он с ними толковал, заказывал достать гвоздей или бе­лил, а мама сердито сидела минуту-другую и ухо­дила спать. Женихи скисали и исчезали.
 
@@ -594,7 +531,7 @@ Recently, the mother was on duty at an empty school near the phone - in case of 
 
 Кот ТИТ — мой верный друг и товарищ, с кото­рым прошло все мое детство. Я подумал и решил, что погрешу против правды, если не упомяну и его как члена нашей семьи. По крайней мере для меня он таковым был всегда, и он сыграл в моей жизни немаловажную роль, о чем будет сказано дальше.
 
-The cat TIT is my faithful friend and comrade, with whom all my childhood was spent. I thought and decided that I would sin against the truth, if I do not mention him as a member of our family. At least for me, he was always like that, and he played an important role in my life, which will be discussed further.
+The cat Titus was my faithful friend and comrade, with whom all my childhood was spent. I thought and decided that I would sin against the truth, if I do not mention him as a member of our family. At least for me, he was always like that, and he played an important role in my life, which will be discussed further.
 
 Кот Тит был старый, душевно ласковый, но внеш­не весьма сдержанный и серьезный. Фамильярно­стей не любил и очень чутко различал, кто к нему относится действительно хорошо, а кто только сюсюкает и подлизывается.
 
@@ -634,42 +571,140 @@ So we were like this when the arrival of fascism and in general when the war cam
 
 Но ни в коем случае я не собираюсь дальше по­казывать: вот, мол, смотрите, как от войны страда­ют женщины, дети и старики. Хотя бы потому, что доказывать это никому не нужно. Конечно, я рас­сказываю много личного, но меньше всего, — под­черкиваю, — меньше всего здесь ставится цель рас­сказывать о всяких личных передрягах.
 
+But by no means am I going to continue to show: look, they say, how women, children and the elderly suffer from the war. If only because no one needs to prove it. Of course, I tell a lot of personal things, but least of all, I emphasize, least of all, the goal here is to talk about all sorts of personal troubles.
+
 Эта книга — совсем о другом.
 
+This book is about something completely different.
 
 — Что это за медали? — спросил дед, разгляды­вая газету.
 
+What are these medals? asked Grandfather, looking at the newspaper.
 
 Целую полосу занимала «Борьба украинского на­рода» — исторический обзор с портретами-медальо­нами князя Святослава, княгини Ольги, Владимира Крестителя, Богдана Хмельницкого, Мазепы, Шев­ченко, Леси Украинки и Симона Петлюры.
 
+A whole page was occupied by "The Struggle of the Ukrainian People" - a historical overview with medallion portraits of Prince Svyatoslav, Princess Olga, Vladimir the Baptist, Bogdan Khmelnitsky, Mazepa, Shevchenko, Lesya Ukrainka and Symon Petliura.
 
 [Сочетание было невероятное, на что я, мальчиш­ка, и то вытаращил глаза. Святослав, Ольга и Вла­димир — основатели Руси, тогда не было Украины и России, а просто Киевская Русь. Ладно, тут все в порядке. Святые предки у украинцев и русских общие.
 
+[The combination was incredible, to which I, the boy, and then goggled. Svyatoslav, Olga and Vladimir are the founders of Russia, then there was no Ukraine and Russia, but simply Kievan Rus. Okay, it's all right here. The holy ancestors of Ukrainians and Russians are common.
+
 Но дальше... Хмельницкий Украину к Рос­сии присоединил.
+
+But further... Khmelnitsky annexed Ukraine to Russia.
 
 Мазепа хотел оторвать. Тарас Шевченко и Леся Украинка — поэты, которых пре­возносила советская власть.
 
+Mazepa wanted to tear off. Taras Shevchenko and Lesya Ukrainka are poets who were extolled by the Soviet authorities.
+
 А Петлюра боролся в революцию за независимую Украину, и всех петлю­ровцев постреляли и сгноили в советских лагерях.]
+
+And Petlyura fought in the revolution for an independent Ukraine, and all the Petlyurites were shot and rotted in Soviet camps.]
 
 — И Богдан у них великий? — удивился дед.
 
+- And they have a great Bogdan? Grandfather was surprised. 
+
 — Да.
+
+Yes.
 
 — Чудно! Мазепа... Петлюра... — Дед озадачен­но погладил бороду. — Насчет того черта не знаю, давно было, при Петре Первом, а Петлюру сам ви­дел — и паразит, и горлохват. Что они только тут творили!..
 
+- Wonderful! Mazepa... Petlyura...' Grandfather stroked his beard in puzzlement. “I don’t know about that devil, it was a long time ago, under Peter the Great, but I saw Petlyura myself - both a parasite and a throat grabber. What were they doing here!
+
 Мать в другой комнате перешивала мне пальто к зиме. Она вышла, глянула в газету.
+
+My mother was in another room altering my coat for the winter. She went out and looked at the newspaper.
 
 — Не верю я ничему, — пробормотала она. — Кошмар какой-то. Не было хороших царей. Уби­вали все от Святослава до Сталина.
 
+"I don't believe in anything," she muttered. - Kind of a nightmare. There were no good kings. They killed everyone from Svyatoslav to Stalin.
+
 — Про Сталина забудь, дурная! — весело сказал дед. — И ныне, и присно, и во веки веков. Будет хо­роший царь.
+
+“Forget about Stalin, you fool! grandfather said cheerfully. “Now, and forever, and forever and ever.” There will be a good king.
 
 — Нет, — сказала мать. — Может где-нибудь на Мадагаскаре, в Америке, в Австралии, только не в России. В России — нет.
 
+“No,” said the mother. - Maybe somewhere in Madagascar, in America, in Australia, but not in Russia. In Russia? No.
+
 Я принялся читать подробности возрождения цер­кви на Холмщине и бурного роста искусства в Житомире. Дед выслушал с большим удовольстви­ем, солидно кивая головой.
 
+I began to read the details of the revival of the church in the Kholm region and the rapid growth of art in Zhytomyr. Grandfather listened with great pleasure, nodding his head gravely.
 
 — Очень хорошо, — сказал он. — Немцы знают, что делают. Вот послушай: когда я был молодой и работал у немецких колонистов, я уже тогда понял, что немцы — это хозяева. Они работу любят, а ленивых ненавидят: что ты заработал, то и полу­чай. А воровства у них нет: уходят из дому, дверь палочкой подопрут — и никаких замков. А если, случись, поймают вора — так уж бьют его, бьют, пока не убьют. Вот теперь ты сам посмотришь, ка­кая будет справедливая жизнь. Рай на земле!
 
+“Very good,” he said. The Germans know what they are doing. Listen: when I was young and worked for the German colonists, I already understood then that the Germans are the masters. They love work, but they hate the lazy: what you earn is what you get. But they don’t have theft: they leave the house, they will prop up the door with a stick - and there are no locks. And if, it happens, they catch a thief, they beat him, beat him until they kill him. Now you will see for yourself what a fair life will be. Paradise on earth!
+
 — Ничего не будет, — сказала мама как-то стран­но. — И большевики еще вернутся.
 
+“Nothing will happen,” my mother said in a strange way. "And the Bolsheviks will return." 
+
 Мы не стали с ней спорить, потому что знали, о чем она думает, только не говорит: что, может, вер­нется когда-нибудь отец, которого она любит и бу­дет любить до самой смерти.
+
+We didn’t argue with her, because we knew what she was thinking, but she didn’t say: that maybe someday my father, who she loved and will love until her death, will return. 
+
+— Ах, ты счастливый, — сказал дед. — К нам с бабкой вот только на старости пришла новая жизнь. Маруся ничего не понимает. А ты счастливый, ты молодой, ты еще так поживешь!
+
+“Oh, you are happy,” said the grandfather. - It was only in old age that a new life came to me and my grandmother. Marusya does not understand anything. And you are happy, you are young, you will live like this!
+
+Я подумал: вот черт возьми! Я ведь в самом деле молодой, и сразу так повезло: вот пришли хозяева-немцы, даже воров и замков не будет. И от пред­чувствия грядущего счастья стало мне тревожно и удивительно.
+
+I thought, what the hell! After all, I’m really young, and I was so lucky right away: here the German owners came, there won’t even be thieves and castles. And from the foreboding of the coming happiness, I became anxious and surprised.
+
+— Ладно, шут с ним, пускай хоть Петлюра, хоть черт, хоть дьявол с рогами висит у них иконой, — с внезапной ненавистью сказал дед, — лишь бы не тот Сталинюга, сапожник проклятый, грузин недорезанный, убийца усатый с его босячней! Боже, Бо­же, такую страну довести до разорения. За несчаст­ным ситцем тысячи душатся в очередях, да я при царе последний батрак был, а этого ситцу мог шту­ками покупать.
+
+“Well, the fool is with him, even if Petliura, even the devil, even if the devil with horns hangs an icon on them,” the grandfather said with sudden hatred, “if only it wasn’t that Stalinyuga, the damned shoemaker, the uncut Georgian, the mustachioed murderer with his bare feet!” God, God, bring such a country to ruin. Thousands are strangled in queues for the unfortunate chintz, but I was the last farm laborer under the tsar, and I could buy this chintz in pieces.
+
+— Що старэ, що малэ... — вздохнула бабка у пе­чи. — Много ты его напокупал?
+
+“What is old, what is male ...” the grandmother sighed by the stove. - How much did you buy?
+
+— Мог! Мог купить. Потому что он был. Все было! Я батрак, а ты прачка — а мы, себе дом построили. Попробуй сейчас построй. Раньше, бывало, один муж в семье работает, семья семь душ, он один кормит всех. А при этих большевиках и муж ра­ботает, и жена работает, и дети работают, и все равно не хватает. Это для того царя скинули?
+
+- Could! Could buy. Because he was. Everything was! I am a laborer, and you are a washerwoman - and we built a house for ourselves. Try to build now. Previously, it used to be that one husband in the family works, the family has seven souls, he alone feeds everyone. And under these Bolsheviks, the husband works, and the wife works, and the children work, and still there is not enough. Was it for that king that they threw it off?
+
+— При царе было плохо! — воскликнул я.
+
+It was bad under the king! I exclaimed.
+
+— Да, вас теперь так в школах учат. А ты видел?
+
+Yes, that&#39;s how they teach you in schools now. Did you see?
+
+— Царь людей в тюрьмы сажал и в ссылки ссылал.
+
+- The tsar put people in prisons and sent them into exile.
+
+— Дурачок ты, дурачок, — сказал дед. — Людей сажают и ссылают во все времена. Ленин больше народу загубил, чем все цари до него. А уж того, что Сталин натворил — никаким царям, никаким кровопивцам не снилось. Были у нас и Грозные, и Петры, да такого Сталина Бог, видно, перед кон­цом света на нас послал. Дожились до того, что са­мой тени своей боишься. Одни стукачи кругом, сло­ва не скажи. Только одну «славу партии» можно кричать. Да милиция тебе штраф влепит, если флаг на ворота не прицепишь на их праздник да на их проклятущие выборы. С утра, чуть свет — уже та­рабанят в окна: «К шести часам на выборы, все как один, всенародный праздник, стопроцентное го­лосование!» Ах, чтоб вы подавились моим голосованием!
+
+“You are a fool, you are a fool,” said the grandfather. “People are imprisoned and exiled at all times. Lenin ruined more people than all the tsars before him. And what Stalin did - no tsars, no blood drinkers dreamed of. We had both Grozny and Peter, but God, apparently, sent such a Stalin to us before the end of the world. We have lived to the point that you are afraid of your own shadow. Some informers around, do not say a word. Only one &quot;glory of the party&quot; can be shouted. Yes, the police will slap you with a fine if you don’t attach a flag to the gate for their holiday and for their damned elections. In the morning, at a little light, they are already banging on the windows: “By six o’clock for the elections, all as one, a national holiday, one hundred percent voting!” Oh, that you choke on my vote!
+
+Сами себя выставляют, сами себя назнача­ют, сами меж собой делят — а мне говорят, что это я их выбрал! Это ж кракамедия сплошная. Кто живет при советской власти? Кто горластый под­лец. Разевает пасть: «Наш великий, гениальный, мудрый вождь, солнце ясное в небе, наша родная партия, под водительством!» Тра-та-та! За это и получает, и жрет, злыдень. Развели одних парази­тов. Один работает, трое присматривают, шестеро караулят. Да жрут, как гусенъ, да в автомобилях разъезжают. Буржуев свергли — сами буржуями похлеще заделались. Благодетели!..
+
+They expose themselves, they appoint themselves, they divide themselves among themselves - and they tell me that it was I who chose them! This is a total scammer. Who lives under Soviet rule? Who is a loud-mouthed scoundrel. He opens his mouth: “Our great, brilliant, wise leader, the sun is clear in the sky, our native party, under the leadership!” Tra-ta-ta! For this he receives and eats, you bastard. They bred some parasites. One works, three look after, six guard. Yes, they eat like a goose, but they drive around in cars. They overthrew the bourgeoisie - they themselves became worse bourgeois. Benefactors!..
+
+— От язык без костей, — испуганно сжалась баб­ка у печки. — Шо ты кричишь, на всю улицу слышно!
+
+- From the tongue without bones, - the grandmother shrank in fright by the stove. - Shaw you scream, you can hear it all over the street!
+
+— Вот? Я ж говорю: мы привыкли уже только шепотом говорить. Пусть слышно! Я хочу хоть пе­ред смертью вголос поговорить. Нет их власти боль­ше, нету их ГПУ, драпанули распроклятые энкаведисты. Чтоб он сдох, тот Сталин! Чтоб она сдох­ла, их партия! Вот! И никто меня больше не аре­стует. Это ж я при проклятых буржуях последний раз мог вголос говорить. Двадцать лет как воды в рот набрали. Добрые люди, пусть лучше Гитлер, пусть царь, пусть буржуи, турки, только не те а-ди-о-ты, бандиты с большой дороги!
+
+- Here? I say: we are used to talking only in a whisper. Let it be heard! I want to speak at least before death. Their power is no more, their GPU is no more, the damned NKVD draped. Let him die, that Stalin! Let her die, their party! Here! And no one will arrest me again. This is the last time I could speak out loud under the damned bourgeoisie. Twenty years as water in a mouth typed. Good people, let Hitler be better, let the tsar, let the bourgeois, the Turks, but not those a-di-o-you, bandits from the high road!
+
+— Да, турки много тебе добра дадут... И при бур­жуях много ты его видел, — вздохнула бабка. — Забыл уже про батыгов курень? Тебе советская власть пенсию дала, хоть бы за то спасибо сказал. А буржуи бы тебе дулю дали.
+
+“Yes, the Turks will give you a lot of good ... And you saw him a lot under the bourgeoisie,” the grandmother sighed. - Have you already forgotten about the batygov kuren? The Soviet government gave you a pension, at least he said thank you for that. And the bourgeois would have given you a muzzle.
+
+— Буржуй — сволочь! — закричал дед («Ну, на­чалось, — подумал я, — теперь опять до вечера скандал».) — Буржуй — сволочь, но он хоть дело знал. Большевики буржуев постреляли — а сами что развели? Несчастная Россия, не было в ней доб­ра — и не будет с такими босяцкими порядками. И сами мы, видать, того стоим. Быдло мы, батогом на­ми управлять. Вот нам немцы нужны, пусть нас поучат. Эти кракамедиями заниматься не станут. Хочешь честно работать? Работай. Не хочешь — иди к растакой матери. А этих, которые языком чесать привыкли да жопу Сталину лизать — этих немцы в два счета выведут... Господи, слава тебе за то, что живыми пережили мы твое испытание, эту боль­шевистскую чуму!.. А ну, сынок, читай, что там еще пишут?
+
+- Bourgeois - bastard! Grandfather shouted (“Well, it has begun,” I thought, “now there’s a scandal again until the evening.”) “The bourgeois is a bastard, but at least he knew the business. The Bolsheviks shot at the bourgeois - and what did they themselves bred? Unfortunate Russia, there was no good in it - and there will not be with such barefoot orders. And we ourselves, you see, are worth it. We are cattle, we are ruled by a batog. Here we need the Germans, let them teach us. These craquemedia will not engage. Do you want to work honestly? Work. If you don&#39;t want to, go to such a mother. And those who are used to scratching their tongues and licking Stalin&#39;s ass - the Germans will take them out in no time ... Lord, thank you for the fact that we survived your test alive, this Bolshevik plague! .. Well, son, read what&#39;s there still writing?
+
+Я покопался в газете и нашел объявление, под­тверждающее слова деда. В нем говорилось, что «некоторые безработные мужчины, от 16 до 55 лет, УКЛОНЯЮТСЯ ОТ РАБОТЫ». Им предлагалось немедленно явиться на регистрацию.
+
+I dug around in the newspaper and found an ad that confirmed my grandfather&#39;s words. It stated that &quot;some unemployed men, between 16 and 55 years old, SHUN WORK&quot;. They were asked to report immediately for registration.
+
+— Ага. Вот! — с торжеством сказал дед, подни­мая палец.
+
+- Yeah. Here! Grandfather said triumphantly, raising his finger.

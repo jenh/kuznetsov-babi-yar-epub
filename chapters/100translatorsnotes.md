@@ -1,7 +1,7 @@
 
 # Translator's Notes
 
-I came to this project out of compulsion; found in a used book store after a William Wharton phase. That the book is out of print and no digital version of such an important work.
+I came to this project out of compulsion; found this in a used book store after a William Wharton phase. That the English translation is out of print and I was unhappy that there's no digital version of such an important work.
 
 I am not a Russian speaker. How I translated it is this:
 
@@ -12,7 +12,7 @@ Then, paragraph by paragraph, I used the following engines to compare meaning: G
 
 I used https://context.reverso.net/translation/russian-english/ to help with context in certain situations.
 
-After the first chapter, I cut everything into 150 line files and used a simple script to feed it line by line into automated translation; this way, I could print the original text and the translation into a single file to work with without any extra characters. (trans with -b)
+After the first chapter, I cut everything into 150 line files and used a simple script to feed it line by line into automated translation; this way, I could print the original text and the translation into a single file to work with without any extra characters. (trans with -b). These simple scripts ended up becoming [more extensive](https://github.com/jenh/epub-ocr-and-translate).
 
 I hope most that I have done Anatoly's work justice and that his words -- and facts -- can be shared more widely.
 
