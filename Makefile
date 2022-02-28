@@ -57,9 +57,9 @@ FILES=\
 	chapters/56finalchapter_xx.md\
 
 pdf/book_xx.pdf: $(FILES)
-	cat $(FILES) | pandoc --metadata-file=templates/variables.yaml --top-level-division=chapter -f gfm+smart --pdf-engine=xelatex --template=templates/paperback.tex -o book_xx.tex && cat $(FILES) | pandoc --metadata-file=templates/variables.yaml --top-level-division=chapter -f gfm+smart --pdf-engine=xelatex --template=templates/paperback.tex -o pdf/book_xx.pdf
+	cat $(FILES) | pandoc --metadata-file=templates/variables.yaml --top-level-division=chapter -f gfm+smart --pdf-engine=xelatex --template=templates/paperback.tex -o book_xx.tex && cat $(FILES) | pandoc --metadata-file=templates/variables.yaml --top-level-division=chapter -f gfm+smart --pdf-engine=xelatex --template=templates/paperback.tex -o pdf/by.pdf
 
 epub/book_xx.epub: $(FILES)
-	cat $(FILES) | pandoc --metadata-file=templates/variables.yaml --top-level-division=chapter -f gfm+smart --toc --toc-depth=4 --css=templates/epub.css - -o epub/book_xx.epub
+	cat $(FILES) | pandoc --metadata-file=templates/variables.yaml --top-level-division=chapter -f gfm+smart --toc --toc-depth=4 --css=templates/epub.css - -o epub/by_xx.epub
 popopen: 
-	ebook-viewer book_xx.epub
+	ebook-viewer by_xx.epub

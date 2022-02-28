@@ -7,7 +7,7 @@ to both Russian and English [epub](epub/) and [pdf](pdf/) digital files and you 
 even build them yourself. 
 
 Everything from "To the question of Heaven and Earth" and onwards is machine-translated
-and not yet edited. It's open game for anyone interested. For the sections
+and not yet edited. It's [open game](chapters) for anyone interested. For the sections
 preceding, I used a combination of Google, Amazon, Deepl, and Yandex translation. For 
 everything after 05.txt in the `/src/` directory, I used Google translate (gcloud).
 
