@@ -1,7 +1,8 @@
 
 # What is this?
 
-This is an in-progress open source translation of Anatoly Kuznetsov's "Babi Yar"
+This is an in-progress open source translation of
+[Anatoly Kuznetsov's "Babi Yar"](https://en.wikipedia.org/wiki/Babi_Yar:_A_Document_in_the_Form_of_a_Novel)
 using automated translation with human assistance. The source files can be compiled
 to both Russian and English [epub](epub/) and [pdf](pdf/) digital files and you can
 even build them yourself. 
@@ -13,15 +14,15 @@ everything after 05.txt in the `/src/` directory, I used Google translate (gclou
 
 I didn't intend to release this until it was in a better shape, but I figure it's 
 now or never: putting this out in the open might be helpful to someone and anyone can
-contribute, and the epubs and PDF can be read and shared as-is, as long as no one
-minds that the last 3/4 of the book need human attention.
+contribute, and the [epub](epub/) and [pdf](pdf/) can be read and shared as-is, as long as no one
+minds that the last 3/4 of the book still needs human attention.
 
 # Why is this?
 
 This was the most important and affecting book that I've ever read, and
 Kuznetsov's warnings to us are vital and timeless. That such an important
 work is not in print in English, and wasn't available digitally seemed criminal.
-([The English trnaslation is now easily accessible, thanks to archive.org!](https://archive.org/details/babiyardocumenti0000anat),
+([The English translation is now available, thanks to archive.org!](https://archive.org/details/babiyardocumenti0000anat),
 but there's still no epub).
 
 -------
@@ -52,6 +53,7 @@ You can build your own PDF or epub on Linux (or using the docker image @ jenh/eo
 
 * Only 10% of the English content has been reviewed and cleaned up by a human so far.
 * None of the Russian version has been formatted or checked.
+* The Russian version PDF title is in English.
 * The LaTeX and CSS files could be made much nicer.
 * Because I'm using a hokey way to select matching language strings from source files,
   we may be missing text or have extra text. Started looking at lingua-language-detect
@@ -60,9 +62,12 @@ You can build your own PDF or epub on Linux (or using the docker image @ jenh/eo
 
 ## Important credits
 
-Because I did a lot of this work before I finished EOAT, I used the OCR text created by Nina &
-Leon Dotan 03.2002; 03.2005 http://ldn-knigi.lib.ru  (ldn-knigi.narod.ru    ldnleon@yandex.ru).
-We are all very indebted to them for doing this!
+Because I did a lot of this work before I finished EOAT, most of the source text was obtained
+using the OCR output created by Nina & Leon Dotan http://ldn-knigi.lib.ru 
+We are all very indebted to them for making this and other resources available!
 
-Note that there was a section missing, but I was later able to locate a PDF able to obtain it from
-a PDF of the Russian version and OCR it.  
+Before I went down the rabbit hole with [EOAT](https://github.com/jenh/epub-ocr-and-translate)
+for automated OCR and translation, I relied on Mort Yao's wonderful 
+[translate-shell](https://github.com/soimort/translate-shell/blob/develop/README.md)
+for translation and [Govarthani Rajesh's Text Scanner (OCR)](https://apps.apple.com/us/developer/govarthani-rajesh/id1225032526)
+for easy and selective OCR.
