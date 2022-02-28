@@ -8,7 +8,7 @@ This almost unbelievable story took place in the summer of 1942 [when the German
 
 Украинская футбольная команда «Динамо» (Ки­ев) до войны была одной из лучших команд страны. [В футбольных баталиях между Киевом и Москвой всегда присутствует нечто большее, чем просто спортивный азарт, а именно вопрос угнетенной ук­раинской чести.] Киевские болельщики поэтому обо­жали своих игроков, особенно знаменитого вратаря Трусевича.
 
-The Ukrainian football team &quot;Dynamo&quot; (Kyiv) was one of the best teams in the country before the war. [In football battles between Kiev and Moscow there is always something more than just a sporting passion, namely the issue of oppressed Ukrainian honor.] Kiev fans therefore adored their players, especially the famous goalkeeper Trusevich.
+The Ukrainian football team &quot;Dynamo&quot; (Kyiv) was one of the best teams in the country before the war. [In football battles between Kyiv and Moscow there is always something more than just a sporting passion, namely the issue of oppressed Ukrainian honor.] Kyiv fans therefore adored their players, especially the famous goalkeeper Trusevich.
 
 Из-за окружения команда не смогла эвакуиро­ваться. Сначала они сидели тихо, устраивались на работу кто куда, встречались. И, тоскуя по футболу, стали устраивать тренировки на каком-то пу­стыре. Об этом узнали мальчишки, жители, а потом дошло до немецких властей.
 
@@ -28,7 +28,7 @@ Dynamo asked for time to think. Some were against it, believing that playing foo
 
 «Наоборот, мы их разгромим и подымем дух у киев­лян». Сошлись на втором. Команда стала усиленно готовиться, ее назвали «Старт».
 
-&quot;On the contrary, we will defeat them and raise the spirit of the people of Kiev.&quot; We agreed on the second. The team began to prepare intensively, it was called &quot;Start&quot;.
+&quot;On the contrary, we will defeat them and raise the spirit of the people of Kyiv.&quot; We agreed on the second. The team began to prepare intensively, it was called &quot;Start&quot;.
 
 И вот на улицах Киева появились афиши: «ФУТ­БОЛ. Сборная Вооруженных Сил Германии — сбор­ная города Киева «Старт».
 
@@ -40,7 +40,7 @@ The stadium was full; half of the stands were occupied by the Germans, the high 
 
 Игра началась. Динамовцы были истощены и сла­бы. Откормленные немецкие футболисты грубили, откровенно сбивали с ног, но судья ничего не заме­чал. Немцы на трибунах заорали от восторга, когда в ворота киевлян был забит первый гол. Другая половина стадиона мрачно молчала: и тут, в фут­боле, они оплевывали нас.
 
-The game has begun. Dynamo were exhausted and weak. Well-fed German football players were rude, frankly knocked down, but the referee did not notice anything. The Germans in the stands screamed with delight when the first goal was scored against the Kievites. The other half of the stadium was gloomy silent: and here, in football, they spat on us.
+The game has begun. Dynamo were exhausted and weak. Well-fed German football players were rude, frankly knocked down, but the referee did not notice anything. The Germans in the stands screamed with delight when the first goal was scored against the Kyivites. The other half of the stadium was gloomy silent: and here, in football, they spat on us.
 
 Тогда динамовцы, что говорится, взялись. Их ох­ватила ярость. Неизвестно, откуда пришли силы. Они стали переигрывать немцев и ценой отчаян­ного прорыва забили ответный гол. Теперь разоча­рованно промолчали немецкие трибуны, а осталь­ные кричали и обнимались.
 

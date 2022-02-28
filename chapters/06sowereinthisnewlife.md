@@ -1,3 +1,5 @@
+## ИТАК, МЫ В ЭТОЙ НОВОЙ ЖИЗНИ
+
 ## So, Here We Are in This New Life
 
 
@@ -5,7 +7,7 @@
 > Führer's main apartment          September 20
 > Supreme Command
 > The German Armed Forces reports:
-> Along with the operations to surround the Soviet armies in the east, an offensive was launched against the capital of Ukraine - Kiev. After a brave breakthrough of strong fortifications on the western bank of the Dnieper, our troops entered the city. A German military banner has been waving over the citadel of Kiev since this morning.
+> Along with the operations to surround the Soviet armies in the east, an offensive was launched against the capital of Ukraine - Kyiv. After a brave breakthrough of strong fortifications on the western bank of the Dnieper, our troops entered the city. A German military banner has been waving over the citadel of Kyiv since this morning.
 > The offensive operations east of the Dnieper are moving forward irresistibly. We have made great strides in the battles for the fortification of Leningrad, we have made great strides...\*
 
 \*) From "Ukrainska Slovo" (Word of the Word), September 21, 1941. Newspaper in Ukrainian, published by the occupation authorities.
@@ -13,7 +15,7 @@
 
 Газета «Украинское слово» к моменту взятия нем­цами Киева вышла пятнадцатым номером, печата­ясь сперва в Житомире. Ее не то продавали, не то раздавали на улицах торжествующие энтузиасты, это дед ее добыл, как святыню принес и жадно хо­тел читать.
 
-By the time the Germans took over Kiev, the newspaper "Ukrayinskoe Slovo" (The Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold &mdash; it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the cottage like a sacred relic, eagerly wanting to read it.
+By the time the Germans took over Kyiv, the newspaper "Ukrayinskoe Slovo" (The Ukrainian Word) had published its fifteenth issue, first published in Zhytomyr. It wasn't sold &mdash; it was distributed in the streets by triumphant enthusiasts. Grandfather got a copy and carried it into the cottage like a sacred relic, eagerly wanting to read it.
 
 Но в чтении мелкого шрифта, да еще на дрянной, словно оберточной бумаге, он не был силен и перепоручил это дело мне, сам же слушал, философски осмысляя.
 
@@ -99,7 +101,7 @@ My grandfather was born and raised in the village of Shenderovka, Kanevskiy dist
 
 Юность он провел в батраках у немецких коло­нистов на Херсонщине, навсегда оставив семью. Отслужив в солдатах, пошел на заработки в Киев, слонялся в поисках работы, был дворником у ге­нерала, женился на прачке, пошел на трамвай кон­дуктором и все мечтал о своем домике и достатке: чтоб можно было досыта наесться и не думать о завтрашнем дне — вот был предел его мечтаний.
 
-He spent his youth as a farmhand with German colonists in the Kherson region, leaving his family behind forever. After his military service, he went to Kiev to earn money and hung around searching for work. He found a job as a janitor at the general's house, married a laundress, and began working on the tram as a conductor, dreaming about his future house and prosperity: to eat and not think about tomorrow &mdash; that was the limit of his dreams.
+He spent his youth as a farmhand with German colonists in the Kherson region, leaving his family behind forever. After his military service, he went to Kyiv to earn money and hung around searching for work. He found a job as a janitor at the general's house, married a laundress, and began working on the tram as a conductor, dreaming about his future house and prosperity: to eat and not think about tomorrow &mdash; that was the limit of his dreams.
 
 Они с бабкой голодали, холодали, складывали копейку к копейке, угробили свою молодость, но купили, наконец, крохотный кусочек болота на Куреневке, сами осушили его, сами долго строили ха­ту — и тут грянула революция.
 
@@ -173,7 +175,7 @@ There were people around who really *lived*: party members, security officers, t
 
 Но были люди, которые смотрели на жизнь дедо­вой семьи, как на райское благо. В колхозах вокруг Киева крестьяне работали, как при крепостном пра­ве. Нет, хуже. При крепостном праве помещик ос­тавлял им дни для работы на себя, на своем ма­леньком поле. А в колхозе человек не имел и таких дней, как не имел и поля. За выход на работу ему ставили в ведомости палочку — «трудодень», а осенью что-то платили, а может не платили, а то платили одну копейку за трудодень.]
 
-But there were people who looked at the life of my grandfather's family as a paradise. In collective farms around Kiev, peasants worked as if they were serfs. No, they were worse than serfs. At least when they were serfs, the  landlord left them days to work for themselves on their own little fields. In the collective farm, a man didn't have days to work for himself, nor did he have his own little field. For each day of work, his "workday" would be added to an account and in the autumn he was paid...or maybe not paid...or paid one penny for each "workday."
+But there were people who looked at the life of my grandfather's family as a paradise. In collective farms around Kyiv, peasants worked as if they were serfs. No, they were worse than serfs. At least when they were serfs, the  landlord left them days to work for themselves on their own little fields. In the collective farm, a man didn't have days to work for himself, nor did he have his own little field. For each day of work, his "workday" would be added to an account and in the autumn he was paid...or maybe not paid...or paid one penny for each "workday."
 
 Так что когда приходил гость, у моего деда была только одна тема для разговора: как в старину бы­ло хорошо, и люди были сыты, и богатели, а боль­шевики-босяки все загубили.
 
@@ -234,7 +236,7 @@ Moi там сльози пролились,
 
 Их там было так много, бабкиной родни, в Деремезне, и в Перегоновке, и в Киеве «по наймах», что я так никогда и не разобрался, сколько их, кто кем мне приходится: Гапка и Конон, Ганна и Нина, Фома и юродивая Катька... Они иногда приезжали, бабка их кормила, дарила кому старую юбку, кому стоптанные калоши.
 
-There were so many of my grandmother's relatives in Deremezna, and in Peregonovka, and in Kiev "for hire," that I never figured out how many of them there were, or who I was related to: Gapka and Conon, Hanna and Nina, Thomas and the foolish Katka...They'd visit sometimes and Grandmother would feed them and give them an old skirt or old galoshes.
+There were so many of my grandmother's relatives in Deremezna, and in Peregonovka, and in Kyiv "for hire," that I never figured out how many of them there were, or who I was related to: Gapka and Conon, Hanna and Nina, Thomas and the foolish Katka...They'd visit sometimes and Grandmother would feed them and give them an old skirt or old galoshes.
 
 Только о юродивой Катьке я понял, что она мне — двоюродная тетка. После тифа она впала в слабо­умие, стала нищенкой, она сидела с сумой под церк­вями, просила по дворам, приносила кусочки хлеба в суме, дед накидывался и отбирал для поросят, бурча: «Подумать только, вот же живут эти нищие, а сколько им на Пасху подают!»
 
@@ -383,7 +385,7 @@ She was very beautiful, well-read, capable, sang and played in the amateur perfo
 
 Участковый милиционер Вася Кузнецов все приходит да приходит: то улица плохо подметена, то домовой номер надо сменить. Короче говоря, ког­да Василия избрали членом Киевского горсовета, дед решил, что такой зять вполне подходит: они, горсоветчики, для себя все достанут.
 
-District militiaman Vasya Kuznetsov everything comes and comes: the street is badly swept up, then the house number must be changed. In short, when Vasily was elected a member of the Kiev City Council, Grandfather decided that such a son-in-law was quite suitable: they, the City Council, would get everything for themselves.
+District militiaman Vasya Kuznetsov everything comes and comes: the street is badly swept up, then the house number must be changed. In short, when Vasily was elected a member of the Kyiv City Council, Grandfather decided that such a son-in-law was quite suitable: they, the City Council, would get everything for themselves.
 
 Как же он ошибся!
 
@@ -451,7 +453,7 @@ Sometimes he sang very nicely with a beautiful baritone, laughed, but for some r
 
 Отец, действительно, вышел из гражданской вой­ны гол, как сокол. [Демобилизовав, его направили в Киев, служить в милиции. По пути в поезде он крепко выпил и сел играть в очко. Не доезжая ки­лометров сто до Киева, он проиграл все, проиграл свою командирскую форму и остался в одних каль­сонах. Сердобольный дежурный на каком-то полу­станке пожертвовал ему ветхое тряпье с лаптями в котором бывший командир пулеметчиков и пред­стал перед начальством в Киеве. Ему выдали фор­му, и начал Василий бороться против спекуляции и за чистоту улиц.]
 
-The father, indeed, emerged from the civil war goal, like a falcon. [Having demobilized, he was sent to Kiev to serve in the police. On the way to the train, he drank hard and sat down to play at the point. Before reaching a hundred kilometers from Kiev, he lost everything, lost his commanding uniform and remained in his pants only. A compassionate attendant at some field station donated to him dilapidated rags with bast shoes in which the former commander of machine-gunners appeared before the authorities in Kiev. They gave him a form, and Vasily began to fight against speculation and for the cleanliness of the streets.]
+The father, indeed, emerged from the civil war goal, like a falcon. [Having demobilized, he was sent to Kyiv to serve in the police. On the way to the train, he drank hard and sat down to play at the point. Before reaching a hundred kilometers from Kyiv, he lost everything, lost his commanding uniform and remained in his pants only. A compassionate attendant at some field station donated to him dilapidated rags with bast shoes in which the former commander of machine-gunners appeared before the authorities in Kyiv. They gave him a form, and Vasily began to fight against speculation and for the cleanliness of the streets.]
 
 Мама и бабка любили его, заботились наперебой, у них он скоро отъелся, похорошел, и наконец об­щими силами справили ему первый костюм, кото­рым дед его при всяком удобном случае попрекал.
 
@@ -499,7 +501,7 @@ And suddenly I learned from my grandmother that my father and mother had already
 
 Когда началась война и стало ясно, что немцы войдут в Киев, мать, однако, послала отцу несколь­ко отчаянных телеграмм, чтобы он принял нас. Но ответа на них не пришло.
 
-When the war began and it became clear that the Germans would enter Kiev, the mother, however, sent father some desperate telegrams to receive us. But the answer to them did not come.
+When the war began and it became clear that the Germans would enter Kyiv, the mother, however, sent father some desperate telegrams to receive us. But the answer to them did not come.
 
 Мать истерически плакала по ночам. Бабка уте­шала:
 
@@ -587,7 +589,7 @@ A whole page was occupied by "The Struggle of the Ukrainian People" - a historic
 
 [Сочетание было невероятное, на что я, мальчиш­ка, и то вытаращил глаза. Святослав, Ольга и Вла­димир — основатели Руси, тогда не было Украины и России, а просто Киевская Русь. Ладно, тут все в порядке. Святые предки у украинцев и русских общие.
 
-[The combination was incredible, to which I, the boy, and then goggled. Svyatoslav, Olga and Vladimir are the founders of Russia, then there was no Ukraine and Russia, but simply Kievan Rus. Okay, it's all right here. The holy ancestors of Ukrainians and Russians are common.
+[The combination was incredible, to which I, the boy, and then goggled. Svyatoslav, Olga and Vladimir are the founders of Russia, then there was no Ukraine and Russia, but simply Kyivan Rus. Okay, it's all right here. The holy ancestors of Ukrainians and Russians are common.
 
 Но дальше... Хмельницкий Украину к Рос­сии присоединил.
 

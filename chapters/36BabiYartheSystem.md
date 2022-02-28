@@ -96,7 +96,7 @@ People were taken away from the cell, they did not return, but Davydov was still
 
 Это была одна из душегубок, известных всему Киеву, «газваген», как называли ее немцы. Она представляла собой что-то вроде нынешних автомо­билей-холодильников. Кузов был глухой, без окон, обшит доской-вагонкой, покрашен в темный цвет. Сзади имелась двустворчатая герметическая дверь. Внутри кузов был выстелен железом, на полу — съемная решетка. Десять мужчин разместились про­сторно, и к ним подсоединили еще девушку, очень красивую еврейку из Польши.
 
-It was one of the gas chambers known to all of Kiev, the &quot;gas wagon&quot;, as the Germans called it. It was something like the current refrigerator cars. The body was deaf, without windows, sheathed with clapboard, painted in a dark color. Behind there was a double-leaf hermetic door. Inside the body was lined with iron, on the floor there was a removable grate. Ten men were accommodated spaciously, and another girl, a very beautiful Jewess from Poland, was connected to them.
+It was one of the gas chambers known to all of Kyiv, the &quot;gas wagon&quot;, as the Germans called it. It was something like the current refrigerator cars. The body was deaf, without windows, sheathed with clapboard, painted in a dark color. Behind there was a double-leaf hermetic door. Inside the body was lined with iron, on the floor there was a removable grate. Ten men were accommodated spaciously, and another girl, a very beautiful Jewess from Poland, was connected to them.
 
 Они все стали на решетку, держась за стены, две­ри за ними закрыли, и так, в полной темноте, куда-то повезли.
 

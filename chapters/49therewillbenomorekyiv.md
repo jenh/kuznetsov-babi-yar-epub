@@ -428,7 +428,7 @@ We spread out a bed on the floor, raised a stool to the rank of a table, and I w
 
 Последнее печатное общение оккупантов с горо­дом Киевом:
 
-The last printed communication of the invaders with the city of Kiev:
+The last printed communication of the invaders with the city of Kyiv:
 
 УКРАИНСКИЙ НАРОД! МУЖЧИНЫ И ЖЕНЩИНЫ! После двухлетнего восстановления на местах война снова приблизилась. Германское командование желает сохранить свои силы и потому не боится оставлять определенные районы.
 

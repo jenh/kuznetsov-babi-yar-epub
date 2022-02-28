@@ -4,11 +4,11 @@
 
 Дарница была рабочим поселком сейчас же за Днепром, напротив Киево-Печерской Лавры, и наз­вание ее имеет корнем хорошее слово «дар».
 
-Darnitsa was a workers&#39; settlement just across the Dnieper, opposite the Kiev-Pechersk Lavra, and its name has the good word &quot;dar&quot; as its root.
+Darnitsa was a workers&#39; settlement just across the Dnieper, opposite the Kyiv-Pechersk Lavra, and its name has the good word &quot;dar&quot; as its root.
 
 В СССР очень мало кто из поклонников бравого солдата Швейка знает, что существует продолже­ние бессмертной книги Гашека, написанное его дру­гом Карелом Ванеком. Единственный перевод, кото­рый я смог отыскать, успел выйти в 1932 году в Минске, на белорусском языке. Бравый солдат Швейк попадает в русский плен и оказывается под Киевом, в Дарнице. Именно там в первую мировую войну существовал гигантский ла­герь военнопленных, и выглядел он так:
 
-In the USSR, very few fans of the good soldier Schweik know that there is a continuation of Hasek&#39;s immortal book, written by his friend Karel Vanek. The only translation that I could find was published in 1932 in Minsk, in the Belarusian language. The brave soldier Schweik is captured by the Russians and ends up near Kiev, in Darnitsa. It was there that during the First World War there was a giant prisoner of war camp, and it looked like this:
+In the USSR, very few fans of the good soldier Schweik know that there is a continuation of Hasek&#39;s immortal book, written by his friend Karel Vanek. The only translation that I could find was published in 1932 in Minsk, in the Belarusian language. The brave soldier Schweik is captured by the Russians and ends up near Kyiv, in Darnitsa. It was there that during the First World War there was a giant prisoner of war camp, and it looked like this:
 
  «Сколько видел глаз — были пленные. Одни ле­жали под деревьями с тупым выражением замордо­ванных животных, другие сидели на ранцах, напо­ловину пустых, или сбивались в плотные кучки и толпились вокруг котлов, от которых русские сол­даты отгоняли их палицами. Наконец, были и такие, которые ползая на четвереньках, щипали жидень­кую траву и с комическим выражением жадности, дикого голода и отвращения клали ее в рот.
 
@@ -140,7 +140,7 @@ Having received the note, relatives, wives, mothers, of course, hurried to Darni
 
 Василий ходил на работы, зарывал умерших у проволоки, и вот они с одним киевлянином при­смотрели удобное место, приготовили железную по­лоску, выбрались ночью из барака и стали делать подкоп.
 
-Vasily went to work, buried the dead at the wire, and so he and one Kievite looked after a convenient place, prepared an iron strip, got out of the barracks at night and began to dig.
+Vasily went to work, buried the dead at the wire, and so he and one Kyivite looked after a convenient place, prepared an iron strip, got out of the barracks at night and began to dig.
 
 Они обсыпали друг друга песком, чтобы быть не­заметнее. Работали в таком месте, куда прожектор доставал слабее всего.
 

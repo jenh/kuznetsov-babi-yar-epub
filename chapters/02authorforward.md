@@ -9,7 +9,7 @@ I brought the original manuscript of this book to the Russian literary magazine 
 
 Я убрал важные куски из глав о Крещатике, о взрыве Лавры, о катастрофе 1961 года и другие — и официально представил смягченный вариант, в ко­тором смысл книги был затушеван, но все же уга­дывался.
 
-I removed important sections from of the chapters about the Khreshchatyk, the explosion of the Kiev Monastery of the Caves, the catastrophe of 1961 and more &mdash; and officially introduced a softened version of the book in which some details were obscured, but still could be guessed.
+I removed important sections from of the chapters about the Khreshchatyk, the explosion of the Kyiv Monastery of the Caves, the catastrophe of 1961 and more &mdash; and officially introduced a softened version of the book in which some details were obscured, but still could be guessed.
 
 Тогда в СССР было еще свежо хрущевское «разоб­лачение культа личности Сталина», многим казалось, что начинается серьезная либерализация, опублико­вание «Одного дня Ивана Денисовича» А. Солжени­цына вселяло надежду, что, может, наконец, воз­можна настоящая литература.
 

@@ -48,7 +48,7 @@ I did not leave, but looked at him point-blank and thought:
 
 «Вот ты щелкаешь затвором, потом проявишь пленку, сделаешь отпечатки и пошлешь домой семье, чтобы они посмотрели, что ты завоевал. Ты снимаешь, как свою собственность: добыл себе это право, стреляя. Какое ты имеешь отношение к Анд­реевской церкви, к Киеву? Лишь то, что пришел стреляя? Убивая? Беря, как бандит?
 
-“Here you click the shutter, then develop the film, make prints and send home to the family so that they can see what you have won. You shoot like it&#39;s your own: you got that right by shooting. What do you have to do with St. Andrew&#39;s Church, with Kiev? Just what came shooting? Killing? Taking like a thug?
+“Here you click the shutter, then develop the film, make prints and send home to the family so that they can see what you have won. You shoot like it&#39;s your own: you got that right by shooting. What do you have to do with St. Andrew&#39;s Church, with Kyiv? Just what came shooting? Killing? Taking like a thug?
 
 [Что же это за сплошной бандитизм на земле? То явились одни, под красными знаменами и красивыми лозунгами, уби­вали, грабили, разрушали.
 

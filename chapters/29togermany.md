@@ -172,4 +172,4 @@ We began to wait for someone to buy us as soon as possible. And we, Russian girl
 
 *) Сборник «Листи з фашистськоï каторги». Киïв. Украïнське видавництво полiтичноï лiтератури, 1947. Письма Нины Д-ка, Кати Пр-н, Нины К-ко, стр. 7-16.
 
-*) Collection &quot;Listi from fascist penal servitude&quot;. Kiev. Ukrainian Press of Political Literature, 1947. Letters from Nina D-ka, Katya Pr-n, Nina K-ko, pp. 7-16.
+*) Collection &quot;Listi from fascist penal servitude&quot;. Kyiv. Ukrainian Press of Political Literature, 1947. Letters from Nina D-ka, Katya Pr-n, Nina K-ko, pp. 7-16.

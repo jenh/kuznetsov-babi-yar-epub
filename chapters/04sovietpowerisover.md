@@ -18,9 +18,9 @@
 >Evening Announcement
 >September 21, 1941
 
->    During September 21st, our troops fought the enemy along the entire front. After many days of fierce fighting, our troops left Kiev.
+>    During September 21st, our troops fought the enemy along the entire front. After many days of fierce fighting, our troops left Kyiv.
 
->  &dash; *Pravda*, September 22, 1941. (Kiev was actually surrendered on September 19th, not September 21st as the announcement states.)
+>  &dash; *Pravda*, September 22, 1941. (Kyiv was actually surrendered on September 19th, not September 21st as the announcement states.)
 
 Я увидел, как они бегут, и понял, что это конец. Красноармейцы — в своей защитной, выгоревшей форме, одни со скатками, иные уже и без ружей — редко побежали через дворы, по огородам, перепры­гивали заборы.
 

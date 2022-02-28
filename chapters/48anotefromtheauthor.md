@@ -48,7 +48,7 @@ Let&#39;s ask people who have lived in this world. When the first information ab
 
 Вспомним, как киевские евреи поверили, что их везут в какую-то Палестину и, даже слыша выстре­лы, все еще рассуждали, что там вещи «поровну поделят». Сколько таких Палестин уже было обе­щано миру?
 
-Let us recall how the Kiev Jews believed that they were being taken to some kind of Palestine and, even hearing the shots, still reasoned that things would be “equally divided” there. How many such Palestines have already been promised to the world?
+Let us recall how the Kyiv Jews believed that they were being taken to some kind of Palestine and, even hearing the shots, still reasoned that things would be “equally divided” there. How many such Palestines have already been promised to the world?
 
 Вы полагаете, что-нибудь изменилось? Только в худшую сторону. С фанатизмом самоубийцы челове­чество лезет на отравленный мед, кто бы его ни выставил, и поистине нет предела людской довер­чивости.
 

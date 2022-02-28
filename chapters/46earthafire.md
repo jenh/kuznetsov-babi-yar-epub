@@ -68,7 +68,7 @@ The bridge across the Dnieper to Darnitsa exploded, trains were blown up by mine
 
 За Ирпенем и Дымером партизаны освобождали целые районы и устанавливали новую, справедли­вую советскую власть. Из-под Иванкова кубарем прилетали сельские полицаи и старосты, рассказы­вали, что идет партизан тьма-тьмущая и нет от них никакого спасения. Киевских полицейских форми­ровали и отправляли на Иванков, и перед отъездом они напивались, плясали, и плакали, что живыми им не вернуться.
 
-Behind Irpen and Dymer, the partisans liberated entire regions and established a new, just Soviet government. Rural policemen and elders flew head over heels from under Ivankov, they said that darkness and darkness were coming and there was no salvation from them. Kiev policemen were formed and sent to Ivankov, and before leaving they got drunk, danced, and cried that they would not return alive.
+Behind Irpen and Dymer, the partisans liberated entire regions and established a new, just Soviet government. Rural policemen and elders flew head over heels from under Ivankov, they said that darkness and darkness were coming and there was no salvation from them. Kyiv policemen were formed and sent to Ivankov, and before leaving they got drunk, danced, and cried that they would not return alive.
 
 Немцы и полицаи стали ходить только группами и с винтовками. Двор куреневской полиции изрыли траншеями и выстроили мощный дот амбразурами на улицу.
 

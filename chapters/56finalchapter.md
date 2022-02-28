@@ -32,7 +32,7 @@ Construction is expanding.] Kurenevka has changed a lot: [trolleybuses run along
 
 [Я любил гулять по Киеву. Очень хороши в нем парки над Днепром, древние улицы, полные седой истории.
 
-[I loved walking around Kiev. The parks above the Dnieper are very good in it, the ancient streets full of gray history.
+[I loved walking around Kyiv. The parks above the Dnieper are very good in it, the ancient streets full of gray history.
 
 Центр Киева мне неприятен. Он выстроен после войны, под лозунгом «Восстановим родной Крещатик, разрушенный немецко-фашистскими захватчи­ками» — сталински помпезный, с домами, похожими на приторные торты.
 
@@ -56,7 +56,7 @@ There is no Babi Yar. [According to some leading figures, it never existed.] The
 
 Я не раз слышал такие разговоры киевских ком­мунистов:
 
-More than once I heard such conversations of the Kiev communists:
+More than once I heard such conversations of the Kyiv communists:
 
 — Это в каком Бабьем Яре? Где жидов постреля­ли? А с чего это мы должны каким-то пархатым памятники ставить?
 
@@ -184,7 +184,7 @@ On the twenty-fifth anniversary of the first executions, namely on September 29,
 
 Операторы киевской кинохроники, услышав о ми­тинге, примчались и засняли его на кинопленку, за­тем на студии разразился скандал, директор был снят с работы, а кинопленка передана КГБ.
 
-Kiev newsreel operators, having heard about the rally, rushed and filmed it, then a scandal broke out at the studio, the director was fired, and the film was handed over to the KGB.
+Kyiv newsreel operators, having heard about the rally, rushed and filmed it, then a scandal broke out at the studio, the director was fired, and the film was handed over to the KGB.
 
 Но, видимо, власти забеспокоились. Через несколь­ко дней удивленные жители обнаружили немного в стороне от Яра гранитный камень с надписью, что здесь будет сооружен памятник жертвам немецкого фашизма. Когда привезли этот камень и кто его ставил — никто не видел. Но теперь, если иностран­ные гости настаивают, их могут повезти к этому камню, предварительно обложив его цветами. После отъезда гостей цветы убираются.
 

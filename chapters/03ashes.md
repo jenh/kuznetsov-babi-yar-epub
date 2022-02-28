@@ -50,12 +50,12 @@ I'm writing this book as if I'm giving sworn legal testimony at the highest cour
 
 [Я, Кузнецов Анатолий Васильевич, автор этой книги, родился 18 августа 1929 года в городе Киеве. Моя мать — украинка, отец — русский. В паспорте у меня была поставлена национальность «русский».]
 
-I, Anatoly Vasilievich Kuznetsov, the author of this book, was born on August 18, 1929 in the city of Kiev. My mother is Ukrainian, my father is Russian. In my passport, my nationality is listed as "Russian."
+I, Anatoly Vasilievich Kuznetsov, the author of this book, was born on August 18, 1929 in the city of Kyiv. My mother is Ukrainian, my father is Russian. In my passport, my nationality is listed as "Russian."
 
 Вырос я на окраине Киева Куреневке, недалеко от большого оврага, название которого в свое время было известно лишь местным жителям: Бабий Яр.
 Как и прочие куреневские окрестности, он был местом наших игр, местом, как говорится, моего детства.
 
-I grew up on the outskirts of Kiev in the Kurenyovka neighborhood, near a large ravine, the name of which was known only to the locals: Babi Yar.
+I grew up on the outskirts of Kyiv in the Kurenyovka neighborhood, near a large ravine, the name of which was known only to the locals: Babi Yar.
 
 Like other parts of Kurenyovka, it was a place we played, a place of my childhood.
 
@@ -88,7 +88,7 @@ The ravine was huge, you could even call it majestic &mdash; deep and wide, like
 
 Он находился между тремя киевскими районами: Лукьяновкой, Куреневкой и Сырцом, окружен клад­бищами, рощами и огородами. По дну его всегда про­текал очень симпатичный чистый ручеек. Склоны — крутые, обрывистые, иногда просто отвесные, и в Бабьем Яре часто бывали обвалы. Впрочем, для тех мест он обычен: правый берег Днепра сплошь изре­зан такими оврагами, главная улица Киева Крещатик образовалась из Крещатого Яра, есть Репьяхов Яр, Сырецкий Яр и другие, их много там.
 
-Babi Yar was located between the three districts of Kiev: Lukyanivka, Kurenivka, and Syrets, surrounded by cemeteries, groves, and gardens. A pretty, clear stream flowed along the bottom. Its slopes were steep, precipitous, in some places sheer, and they often collapsed. This was normal for that area: the right bank of the Dnieper River is completely cut through by ravines like this, and even the main street of Kiev, Khreshchatyk, was formed from the Khreshchatyy Yar. There is the Revyakhov Yar, the Syretskyy Yar and others &mdash; there are many of them out there.
+Babi Yar was located between the three districts of Kyiv: Lukyanivka, Kurenivka, and Syrets, surrounded by cemeteries, groves, and gardens. A pretty, clear stream flowed along the bottom. Its slopes were steep, precipitous, in some places sheer, and they often collapsed. This was normal for that area: the right bank of the Dnieper River is completely cut through by ravines like this, and even the main street of Kyiv, Khreshchatyk, was formed from the Khreshchatyy Yar. There is the Revyakhov Yar, the Syretskyy Yar and others &mdash; there are many of them out there.
 
 Мы шли и увидели, как с одной стороны оврага на другую перебирается оборванный старик с тор­бой. По тому, как уверенно он шел, мы поняли, что он где-то здесь обитает и ходит не первый раз.
 

@@ -720,7 +720,7 @@ We went out, bought ice cream, wandered around Khreshchatyk, and it was good for
 
 По Крещатику торжественно кричали громкого­ворители: «Говорит Киев, говорит советский Киев! Родина, ты слышишь? Киев есть и будет совет­ским!» Киеву отвечала Москва: «Вы вновь воскре­сили бессмертные традиции героики Великого Ок­тября и гражданской войны. Вы не одиноки. С вами Красная Армия, с вами весь наш советский народ».
 
-Loudspeakers solemnly shouted along Khreshchatyk: “Kyiv is speaking, Soviet Kiev is speaking! Motherland, do you hear? Kyiv is and will be Soviet!” Moscow answered Kiev: “You have resurrected the immortal traditions of the heroism of the Great October Revolution and the Civil War. You are not alone. The Red Army is with you, all of our Soviet people are with you.”
+Loudspeakers solemnly shouted along Khreshchatyk: “Kyiv is speaking, Soviet Kyiv is speaking! Motherland, do you hear? Kyiv is and will be Soviet!” Moscow answered Kyiv: “You have resurrected the immortal traditions of the heroism of the Great October Revolution and the Civil War. You are not alone. The Red Army is with you, all of our Soviet people are with you.”
 
 Слова, слова...
 
@@ -876,7 +876,7 @@ Commandant of the city.**)
 
 **) Нiмецько-фашистський окупацiйний режим на Украïнi», збiрник документiв i матерiалiв. Киïв, 1963. Стр. 45.
 
-**) The German-Fascist Occupational Regime in Ukraine”, a collection of documents and materials. Kiev, 1963. P. 45.
+**) The German-Fascist Occupational Regime in Ukraine”, a collection of documents and materials. Kyiv, 1963. P. 45.
 
 ПРИКАЗ
 
@@ -952,7 +952,7 @@ EBERHARD, major general and commandant of the city. *)
 
 *) Нiмецько-фашистський окупациiйний режим на Украïнi», збiрник документов i матерiалiв. Киïв, 1963. Стр. 46.
 
-*) The Nazi occupational regime in Ukraine”, a collection of documents and materials. Kiev, 1963. Pp. 46.
+*) The Nazi occupational regime in Ukraine”, a collection of documents and materials. Kyiv, 1963. Pp. 46.
 
 Все имеющиеся у штатского населения валя­ные сапоги, включая и детские валенки, подле­жат немедленной реквизиции. Пользование ва­ляными сапогами запрещается и должно карать­ся так же, как и недозволенное пользование оружием.**)
 
@@ -960,7 +960,7 @@ All felted boots, including children&#39;s felt boots, available to the civilian
 
 **) «Киïв — герой», зборник матерiалiв про под­виг киян у Великiй Вiтчизнянiй вiйнi. Киïв, 1961. Стр. 234.
 
-**) “Kyiv is a hero”, a collection of materials about the feat of the Kiyans at the Great Vitchiznyany viyni. Kiev, 1961. P. 234.
+**) “Kyiv is a hero”, a collection of materials about the feat of the Kiyans at the Great Vitchiznyany viyni. Kyiv, 1961. P. 234.
 
 Объявление комиссара города:
 
@@ -972,7 +972,7 @@ According to an agreement with the Stadtkomendant, the population of Kyiv is inf
 
 Комиссар города***)***)  Нiмецько-фашистський окупациiйний режим на Украïнi», збiрник документов i матерiалiв. Киïв, 1963. Стр. 55.
 
-Commissar of the city ***) ***) Nazi occupational regime in Ukraine”, collection of documents and materials. Kiev, 1963. P. 55.
+Commissar of the city ***) ***) Nazi occupational regime in Ukraine”, collection of documents and materials. Kyiv, 1963. P. 55.
 
 Объявление коменданта:
 

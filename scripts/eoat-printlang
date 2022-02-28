@@ -27,18 +27,17 @@ for line in myfile:
   if lang_tag in line:
     output_file.write(re.split('\{lang=(.*)\}',line)[0] + "\n")
   # Detect language, write if it matches our intended language.
-  else:  
-    try:
-      detected = langid.classify(line)[0]
-      if detected == lang:
-        output_file.write(line + "\n")
-      else: 
-        pass
-      #  if detected != 'en' or detected != lang:
-         #   print("Found language ",detected," in ",input_file,": ",line)
-      #  else:
-      #      pass
-    except Exception as e:
-      print("Cannot determine language for line in ", input_file, ": ", line, e)
-      # Write to file for human intervention.
-      output_file.write(line)
+  else: 
+      if '{lang=' in line:
+          pass
+      else:
+        try:
+          detected = langid.classify(line)[0]
+          if detected == lang:
+            output_file.write(line + "\n")
+          else: 
+            pass
+        except Exception as e:
+          print("Cannot determine language for line in ", input_file, ": ", line, e)
+          # Write to file for human intervention.
+          output_file.write(line)

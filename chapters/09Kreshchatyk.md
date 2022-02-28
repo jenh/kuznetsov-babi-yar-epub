@@ -68,7 +68,7 @@ But the hated weapons and dangerous radios were carried away. Perhaps someone fi
 
 Первыми созвали (найдя списки и адреса в отделе кадров) работников киевского радио. Радиокомитет со студией был на углу Крещатика и Институтской улицы. Только что назначенный немец-шеф вышел на эстраду, оглядел собравшихся в зале и начал очень необычно:
 
-The first to convene (having found lists and addresses in the personnel department) were the employees of the Kiev radio. The radio committee with the studio was at the corner of Khreshchatyk and Institutskaya street. The German chef who had just been appointed came out onto the stage, looked around at those gathered in the hall, and began in a very unusual way:
+The first to convene (having found lists and addresses in the personnel department) were the employees of the Kyiv radio. The radio committee with the studio was at the corner of Khreshchatyk and Institutskaya street. The German chef who had just been appointed came out onto the stage, looked around at those gathered in the hall, and began in a very unusual way:
 
 — Евреи, встать!
 
@@ -180,7 +180,7 @@ The Germans cordoned off the entire city center. The fire expanded: the parallel
 
 До войны в Киеве начинали строить метро, и те­перь поползли слухи, что то было не метро, а за­кладка чудовищных мин под всем Киевом. Но более правдоподобными были запоздалые воспоминания, что по ночам во дворы приезжали грузовики, и люди в форме НКВД что-то сгружали в подвалы,. Но куда в те времена не приезжали по ночам машины НКВД и чем только они ни занимались! Кто и видел из-за занавески — предпочитал не видеть и забыть. И никто понятия не имел, где произойдет следующий взрыв, поэтому бежали из домов далеко от Крещатика.
 
-Before the war, they began to build a subway in Kyiv, and now rumors have spread that it was not a subway, but the laying of monstrous mines under all of Kiev. But belated memories were more plausible that trucks came to the yards at night, and people in the form of the NKVD unloaded something into the basements. But where in those days the NKVD cars did not come at night and what they did! Whoever saw from behind the curtain preferred not to see and forget. And no one had any idea where the next explosion would occur, so they fled from houses far from Khreshchatyk.
+Before the war, they began to build a subway in Kyiv, and now rumors have spread that it was not a subway, but the laying of monstrous mines under all of Kyiv. But belated memories were more plausible that trucks came to the yards at night, and people in the form of the NKVD unloaded something into the basements. But where in those days the NKVD cars did not come at night and what they did! Whoever saw from behind the curtain preferred not to see and forget. And no one had any idea where the next explosion would occur, so they fled from houses far from Khreshchatyk.
 
 Откуда-то немцы срочно доставили на самолете длинные шланги, протянули их от самого Днепра через Пионерский парк и стали качать воду мощ­ными насосами. Но до Крещатика вода не дошла: среди зарослей парка кто-то шланги перерезал.
 
@@ -288,7 +288,7 @@ Witnesses who saw the delivery of explosives on NKVD trucks a month and a half b
 
 Так зачем же все-таки был взорван Крещатик? Я выскажу мнение свое и мнение большинства киевлян, а вы судите сами.
 
-So why was Khreshchatyk blown up after all? I will express my opinion and the opinion of the majority of Kievans, and you judge for yourself.
+So why was Khreshchatyk blown up after all? I will express my opinion and the opinion of the majority of Kyivans, and you judge for yourself.
 
 Взорван был центр, принадлежавший аристокра­тии, бюрократии и самим чекистам. Им, конечно, не хотелось покидать свои квартиры, свои мягкие кре­сла. И они решили устроить сюрприз. Взорвав Крещатик вместе с немцами, они так злорадно потирали руки, что даже не догадались придать этому патрио­тическую окраску, а немедленно свалили вину на врагов. В этом — смысл слов из их вымученной справки-признания: «заносчивым фашистским «за­воевателям» эти взрывы давали понять, что хозяи­ном оккупированной земли являются не они».
 

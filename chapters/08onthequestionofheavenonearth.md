@@ -77,11 +77,11 @@ The day was beautiful. Autumn, chestnuts turned yellow, the sun warmed. The gran
 
 [Киево-Печерская Лавра — великая историческая святыня. Почти тысячу лет назад, после крещения Руси, первые монахи, удалясь из города, выкопа­ли в Днепровских склонах пещерный монастырь. Он стал оплотом христианства, а с ним культуры.]
 
-[The Kiev-Pechersk Lavra is a great historical shrine. Almost a thousand years ago, after the baptism of Russia, the first monks, leaving the city, dug out a cave monastery in the Dnieper slopes. It became a stronghold of Christianity, and with it culture.]
+[The Kyiv-Pechersk Lavra is a great historical shrine. Almost a thousand years ago, after the baptism of Russia, the first monks, leaving the city, dug out a cave monastery in the Dnieper slopes. It became a stronghold of Christianity, and with it culture.]
 
 Теперь Киево-Печерская Лавра — это целый го­род, обнесенный древними стенами с бойницами, го­род фантастический: церкви, купола, белоснежные дома причудливой архитектуры, белоснежная коло­кольня, самая высокая на Руси, и все это утопало в буйной зелени...
 
-Now the Kiev-Pechersk Lavra is a whole city surrounded by ancient walls with loopholes, a fantastic city: churches, domes, snow-white houses of bizarre architecture, a snow-white bell tower, the highest in Russia, and all this was buried in lush greenery ...
+Now the Kyiv-Pechersk Lavra is a whole city surrounded by ancient walls with loopholes, a fantastic city: churches, domes, snow-white houses of bizarre architecture, a snow-white bell tower, the highest in Russia, and all this was buried in lush greenery ...
 
 Я успел ее узнать и полюбить, потому что в нее собрали все главные музеи Киева.
 

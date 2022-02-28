@@ -300,4 +300,4 @@ A single Russian woman lived on the collective farm and worked as a cowgirl. The
 
 Из самого оврага Бабий Яр в те дни спаслась жен­щина, мать двоих детей, актриса Киевского театра кукол Дина Мироновна Проничева. Это — единст­венный свидетель, вышедший оттуда. Привожу ее рассказ, записанный лично мною с ее слов, не до­бавляя ничего.
 
-In those days, a woman, a mother of two children, an actress of the Kiev Puppet Theater Dina Mironovna Pronicheva, escaped from the Babi Yar ravine itself. This is the only witness that came out of there. I am quoting her story, which I personally wrote down from her words, without adding anything.
+In those days, a woman, a mother of two children, an actress of the Kyiv Puppet Theater Dina Mironovna Pronicheva, escaped from the Babi Yar ravine itself. This is the only witness that came out of there. I am quoting her story, which I personally wrote down from her words, without adding anything.

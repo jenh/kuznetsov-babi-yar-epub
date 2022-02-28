@@ -100,7 +100,7 @@ How does God endure? And they demolished the Tithes, and the Mikhailovsky Monast
 
 [Если вы будете в Киево-Печерской Лавре, попро­буйте спросить у экскурсоводов, правда ли, что Лав­ра взорвана энкаведистами, главному из которых посмертно присвоено звание Героя Советского Сою­за, — и при этом посмотрите на выражение их лиц.]
 
-[If you&#39;re in the Kiev-Pechersk Lavra, try asking the guides if it&#39;s true that the Lavra was blown up by the Enkavedists, the main of whom was posthumously awarded the title of Hero of the Soviet Union - and at the same time look at the expression on their faces.]
+[If you&#39;re in the Kyiv-Pechersk Lavra, try asking the guides if it&#39;s true that the Lavra was blown up by the Enkavedists, the main of whom was posthumously awarded the title of Hero of the Soviet Union - and at the same time look at the expression on their faces.]
 
 *
 
@@ -108,7 +108,7 @@ How does God endure? And they demolished the Tithes, and the Mikhailovsky Monast
 
 [Крещение Руси произошло в 988 году. Киевским князем Владимиром Крестителем была выстроена великолепная Десятинная церковь, князем Яросла­вом Мудрым — Софийский собор, в городе образо­вался Михайловский монастырь, а чуть южнее, на высоких Днепровских кручах — Киево-Печерский монастырь с изумительным Успенским собором.
 
-[The Baptism of Russia took place in 988. Prince Vladimir the Baptist of Kiev built the magnificent Church of the Tithes, Prince Yaroslav the Wise built the St. Sophia Cathedral, the Mikhailovsky Monastery was formed in the city, and a little to the south, on the high Dnieper steeps, the Kiev Caves Monastery with the amazing Assumption Cathedral.
+[The Baptism of Russia took place in 988. Prince Vladimir the Baptist of Kyiv built the magnificent Church of the Tithes, Prince Yaroslav the Wise built the St. Sophia Cathedral, the Mikhailovsky Monastery was formed in the city, and a little to the south, on the high Dnieper steeps, the Kyiv Caves Monastery with the amazing Assumption Cathedral.
 
 В этом монастыре монахом Нестором создана ле­топись «Повесть временных лет», положившая нача­ло нашей отечественной исторической науке; отсюда распространялись письменность, искусство.
 
@@ -116,15 +116,15 @@ In this monastery, the monk Nestor created the chronicle &quot;The Tale of Bygon
 
 Еще не было Москвы; в середине XII века князь Юрий Долгорукий во время одного из походов зало­жил маленькое поселение Москва, а похоронен он именно в центре культуры Руси тех времен — Киево-Печерском монастыре.
 
-There was no Moscow yet; in the middle of the XII century, Prince Yuri Dolgoruky, during one of his campaigns, founded the small settlement of Moscow, and he was buried precisely in the center of Russian culture of those times - the Kiev-Pechersk Monastery.
+There was no Moscow yet; in the middle of the XII century, Prince Yuri Dolgoruky, during one of his campaigns, founded the small settlement of Moscow, and he was buried precisely in the center of Russian culture of those times - the Kyiv-Pechersk Monastery.
 
 До 1917 года Киево-Печерская Лавра была вели­колепным городом, своего рода православным Вати­каном или Иерусалимом, куда ездили на поклон цари, стекались миллионы богомольцев. Лаврские библиотеки были бесценны, типография выпускала книги, стены церквей были отделаны уникальнейшими фресками и мозаиками, в подвалах хранились древние сокровища.
 
-Until 1917, the Kiev-Pechersk Lavra was a magnificent city, a kind of Orthodox Vatican or Jerusalem, where kings went to bow, millions of pilgrims flocked. The Lavra libraries were priceless, the printing house produced books, the walls of the churches were decorated with the most unique frescoes and mosaics, ancient treasures were kept in the cellars.
+Until 1917, the Kyiv-Pechersk Lavra was a magnificent city, a kind of Orthodox Vatican or Jerusalem, where kings went to bow, millions of pilgrims flocked. The Lavra libraries were priceless, the printing house produced books, the walls of the churches were decorated with the most unique frescoes and mosaics, ancient treasures were kept in the cellars.
 
 После 1917 года, под лозунгами «Религия — опиум для народа» и «Старое разрушим—новое построим», прежде всего, была разрушена и снесена до основа­ния Десятинная церковь. Только отдельные кирпичи от нее ныне можно увидеть в Киевском историчес­ком музее.
 
-After 1917, under the slogans “Religion is the opium of the people” and “We will destroy the old, we will build the new”, first of all, the Church of the Tithes was destroyed and demolished to the ground. Only individual bricks from it can now be seen in the Kiev Historical Museum.
+After 1917, under the slogans “Religion is the opium of the people” and “We will destroy the old, we will build the new”, first of all, the Church of the Tithes was destroyed and demolished to the ground. Only individual bricks from it can now be seen in the Kyiv Historical Museum.
 
 Рядовых церквей снесены десятки, иные переобо­рудованы под склады, клубы, заводы. В 1934 году был взорван и разобран Михайловский собор. Исто­рикам удалось спасти лишь несколько небольших мозаик XII века, которые теперь тоже можно уви­деть в музее.
 
@@ -152,7 +152,7 @@ Soviet experts compiled a &quot;Report of the Extraordinary State Commission for
 
 «По приказу немецкого командования военные ча­сти ограбили, взорвали и разрушили древнейший памятник культуры — Киево-Печерскую лавру».*) [*) «Киïв — герой», збiрник матерiалiв про подвиг киян у Великiй Вiтчизнянiй вiйнi. Киïв, 1961. Стр. 369.]
 
-“By order of the German command, the military units robbed, blew up and destroyed the most ancient monument of culture - the Kiev-Pechersk Lavra.” *) [*) “Kyiv is a hero”, a collection of materials about the feat of the Kiyans at the Great Vitchiznian Viyni. Kiev, 1961. P. 369.]
+“By order of the German command, the military units robbed, blew up and destroyed the most ancient monument of culture - the Kyiv-Pechersk Lavra.” *) [*) “Kyiv is a hero”, a collection of materials about the feat of the Kiyans at the Great Vitchiznian Viyni. Kyiv, 1961. P. 369.]
 
 В путеводителях и исследованиях пишется то же. Самое пространное] объяснение дано в книге дирек­тора Института истории УССР проф. К. Дубины:
 
@@ -216,7 +216,7 @@ Later, however, it turned out that there were no mines under the residential bui
 
 Действительно, раздался третий взрыв, глухой, от которого заходила ходуном земля. Это был взрыв в Успенском соборе. Но собор устоял. Он был сложен в XI веке из особых плоских кирпичей красной гли­ны, таких прочных, что их невозможно разбить мо­лотком. Прослойки особого связующего раствора были толще самих кирпичей, а раствор этот на Ки­евской Руси умели делать еще крепче. Это была кладка на тысячелетия.
 
-Indeed, there was a third explosion, deaf, from which the ground shook. It was an explosion in the Assumption Cathedral. But the cathedral survived. It was built in the 11th century from special flat red clay bricks, so strong that they cannot be broken with a hammer. The layers of a special binder mortar were thicker than the bricks themselves, and in Kievan Rus they knew how to make this mortar even stronger. It was masonry for millennia.
+Indeed, there was a third explosion, deaf, from which the ground shook. It was an explosion in the Assumption Cathedral. But the cathedral survived. It was built in the 11th century from special flat red clay bricks, so strong that they cannot be broken with a hammer. The layers of a special binder mortar were thicker than the bricks themselves, and in Kyivan Rus they knew how to make this mortar even stronger. It was masonry for millennia.
 
 Через небольшой промежуток (совершенно так же, как с комендатурой на Крещатике) в соборе раздал­ся новый взрыв, и был он такой силы, что красные плоские кирпичи летели на расстояние до километра и посыпали весь Печерск, а сам собор рухнул, превратясь в гору камня. Как вспоминает один старик:
 
